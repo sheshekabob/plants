@@ -13,9 +13,7 @@ Rome is the capital city of Italy. It is also the capital of the Lazio region, t
        center="Q220"
        zoom="10"
        Title="City of Rome"
-       show-labels
-       prefer-geojson![image](https://user-images.githubusercontent.com/108231805/176736592-bbf8b6b8-713d-4f49-992e-6c51103cd071.png)
-> 
+       prefer-geojson> 
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
      are thus available in all text.  Entity identifiers (QIDs) can be found in either
