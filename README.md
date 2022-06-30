@@ -13,7 +13,8 @@ Rome is the capital city of Italy. It is also the capital of the Lazio region, t
        center="Q220"
        zoom="10"
        Title="City of Rome"
-       prefer-geojson> 
+       prefer-geojson
+       <param ve-map basemap="Esri_WorldPhysical"> 
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
      are thus available in all text.  Entity identifiers (QIDs) can be found in either
