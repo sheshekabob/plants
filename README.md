@@ -7,7 +7,7 @@
        layout="vertical">
        
 ### Rome
-Rome is the capital city of Italy. It is also the capital of the Lazio region, the centre of the Metropolitan City of Rome, and a special comune named Comune di Roma Capitale. With 2,860,009 residents in 1,285 km2 (496.1 sq mi), Rome is the country's most populated comune and the third most populous city in the European Union by population within city limits. The Metropolitan City of Rome, with a population of 4,355,725 residents, is the most populous metropolitan city in Italy.
+Rome, the capital of Italy, is a large cosmopolitan city with an influential artistic, architectural, and cultural history that dates back almost 3000 years. Ancient ruins such as the Roman Forum and the <span data-mouseover-map-flyto="41.89019, 12.49140, 15">Colosseum</span> testify to the power of the ancient Roman Empire. Vatican City, seat of the Catholic Church, is home to the Basilica of Saint Peter’s and the Vatican Museums, which house world-renowned artistic masterpieces such as the Sistine Chapel frescoed by Michelangelo.
 <param ve-map
        center="41.89293, 12.49058"
        zoom="5"
