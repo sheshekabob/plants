@@ -13,3 +13,11 @@ Most commonly purple, the spongy, absorbent fruit is used in several cuisines. T
       Title="Aleppo, Syria"
       show-labels>      
 
+The sexualization of eggplant.
+<param ve-image 
+       label="Eggplant emoji" 
+       description="Eggplant emoji" 
+       license="public domain" 
+       url="https://upload.wikimedia.org/wikipedia/commons/f/f0/Twemoji_1f346.svg"
+       layout="vertical">
+
