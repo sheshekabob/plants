@@ -19,5 +19,6 @@ Most commonly purple, the spongy, absorbent fruit is used in several cuisines. T
        description="Eggplant emoji" 
        license="public domain" 
        url="https://www.biodiversitylibrary.org/pageImage/50118220#page/101/mode/1up"
+       region="413,140,2705,2632"
        layout="vertical">
 
