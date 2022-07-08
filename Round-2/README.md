@@ -14,8 +14,8 @@ Most commonly purple, the spongy, absorbent fruit is used in several cuisines. T
        url="https://upload.wikimedia.org/wikipedia/commons/f/f0/Twemoji_1f346.svg"
        label="eggplant emoji"
        description="The eggplant emoji as it appears on Twitter"
-       license="CC BY-SA 4.0"
-       fit="cover">
+       license="CC BY-SA 4.0">
+       
 
                   
                    
