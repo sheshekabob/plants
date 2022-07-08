@@ -18,6 +18,6 @@ The sexualization of eggplant.
        label="Eggplant emoji" 
        description="Eggplant emoji" 
        license="public domain" 
-       url="https://upload.wikimedia.org/wikipedia/commons/f/f0/Twemoji_1f346.svg"
+       url="https://www.biodiversitylibrary.org/pageImage/50118220#page/101/mode/1up"
        layout="vertical">
 
