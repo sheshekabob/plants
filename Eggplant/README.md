@@ -19,8 +19,7 @@ Most commonly purple, the spongy, absorbent fruit is used in several cuisines. T
        description="Eggplant emoji" 
        license="via BHL" 
        url="https://www.biodiversitylibrary.org/pageImage/50118220#page/101/mode/1up"
-       region="413,140,2705,2632"
-       layout="vertical">
+       region="413,140,2705,2632">
 
 Most commonly purple, the spongy, absorbent fruit is used in several cuisines. Typically used as a vegetable in cooking, it is a berry by botanical definition. As a member of the genus Solanum, it is related to the tomato, chili pepper, and potato, although those are of the New World while the eggplant is of the Old World. Like the tomato, its skin and seeds can be eaten, but, like the potato, it is usually eaten cooked. Eggplant is nutritionally low in macronutrient and micronutrient content, but the capability of the fruit to absorb oils and flavors into its flesh through cooking expands its use in the culinary arts.
 <param ve-image 
@@ -28,4 +27,4 @@ Most commonly purple, the spongy, absorbent fruit is used in several cuisines. T
        description="Eggplant emoji" 
        license="via BHL" 
        url="https://upload.wikimedia.org/wikipedia/commons/f/f0/Twemoji_1f346.svg"
-       layout="vertical">
+       fit="contain">
