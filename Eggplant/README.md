@@ -56,6 +56,6 @@ Eggplants can be written about by people in books
 <param ve-iframe 
     src="https://books.google.com/books?id=LGVeCAAAQBAJ&newbks=0&lpg=PT380&dq=aubergine&pg=PT380&output=embed">
 
---- References
-___
+
+*** References
 [^1]: Clifford A. Wright, _Mediterranean Vegetables: A Cook’s Compendium of All the Vegetables from the World’s Healthiest Cuisine_ (Boston, MA: Harvard Common Press, 2012), 134.
