@@ -16,8 +16,7 @@ license="CC BY 2.0."
        source="https://www.flickr.com/photos/bluelotus/244367048">
 
 
-
-
+World distribution (historical? production? concentration of species?) Production, trade networks, etymology, genetics. Include: Growing information around the world. Culture: perennial in the tropics, annual in more temperate zones, growing zone # range, soil, ideal temperature, pests, diseases, seed saving, companion plants. Emphasize here or in the conclusion how eggplant is well-suited to hot climates, a growing concern with climate change.
 
  <param ve-map 
       center="Q41183" 
