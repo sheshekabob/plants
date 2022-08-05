@@ -11,7 +11,8 @@ Eggplant parmesan or _parmigiana di melanzane_ is like the culinary vegetable th
 url="https://upload.wikimedia.org/wikipedia/commons/8/8b/Melanzane_alla_Parmigiana.jpg"
        label="Melanzane alla Parmigiana" 
 description="Baked aubergines with Parmesan cheese"
-       source="Flickr.com user "Blue Lotus"
+       source="https://www.flickr.com/photos/bluelotus/244367048"
+       credit="Flickr.com user Blue Lotus"
 license="CC BY 2.0.">
 
 
