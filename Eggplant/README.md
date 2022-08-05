@@ -7,7 +7,9 @@
        layout="vertical">
  
 Eggplant parmesan or _parmigiana di melanzane_ is like the culinary vegetable that it features—not so straightforward. The origin of this Mediterranean dish appears to be in the name. _Parmigiano_ seems to allude to Parma in northern Italy and the hard Italian cheese produced there. But in fact, Sicily and regions in southern Italy are most often credited as the birthplace of _parmigiana_. One bit of evidence is the similarity of "parmigiana" to "palmigiana," a Sicilian word for shutters. This perhaps describes the louvred construction of this dish, with its alternating layers of fried eggplant rounds, tomato sauce, and mozzarella. Clifford Wright, who has a James Beard Award for his food writing, argues that records clearly indicate that the dish as it is now known originated in Naples. But one more claim suggests _parmigiana_ might be _parmiciana_, a Sicilian word for “Persian,” and possibly a reference to the culture that helped introduce eggplant to Europe. Albeit less substantiated, this last theory hints at a truth greater than the fact of who first did what where. Like food and culture at large, plants are rarely content to stay put; they prefer to move and mingle.
- 
+<param ve-image 
+url="https://upload.wikimedia.org/wikipedia/commons/8/8b/Melanzane_alla_Parmigiana.jpg">
+
 
 
 
