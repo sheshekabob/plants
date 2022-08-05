@@ -24,6 +24,9 @@ license="CC BY 2.0."
 
 Eggplant is a culinary vegetable, but in botanical terms, it is a fruit, a berry in fact, since it contains small, edible seeds. Smooth, glossy, and often colorful, it resembles a fruit on the surface. Inside, however, its flesh is spongy, astringent, and sometimes bitter. This ambiguity foreshadows eggplant’s winding journey to kitchens across the globe. Start to dig into this history, and the eggplant quickly fades from view, where it long remained before its belated introduction to Europe and the Americas. In these regions today, people likely know of this nightshade, and may have even let it pass their lips, since global cuisine abounds with eggplant dishes. A few classics include Levantine or Eastern Mediterranean moussaka, baba ganoush, and makdous; _Mchuzi wa Biringani_ or [Tanzanian eggplant curry](https://www.congocookbook.com/vegetable-and-side-dish-recipes/mchuzi-wa-biringani-eggplant-curry/); fish-fragrant eggplant or Chinese Sichuan _yuxiang qiezi_; and an infinitesimal number of other Asian preparations. But compared to its relatives in the Solanaceae family, tomatoes, peppers, and potatoes, the eggplant lingers at the limits of diners’ familiarity—unless of course their background is included in the cultures who forged a relationship with this tropical domesticate early on.
 
+<param ve-iframe
+src="https://wikimap.toolforge.org/?cat=Eggplant-based_food&subcats=true&subcatdepth=1&cluster=true#close"
+
 <param ve-image 
 url="https://upload.wikimedia.org/wikipedia/commons/f/fb/Qiezi.jpg"
        label="Melanzane alla Parmigiana" 
