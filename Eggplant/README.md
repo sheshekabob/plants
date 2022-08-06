@@ -44,7 +44,7 @@ World distribution (historical? production? concentration of species?) Productio
 
 ### Sexualization of eggplant
 
-In North America, eggplant might be more readily recognized as a sexual organ than as a food. In the late 1990s, Japanese telecom companies designed the [eggplant emoji](https://emojipedia.org/eggplant/) as part of the keyboard of icons that now serve as the shorthand of text messages and social media.* “Aubergine” is the name for the eggplant emoji in Unicode, the universal standard for encoding linguistic characters for electronic visual display. In 2010, the emoji keyboard was included in Unicode 6.0, and a year later, Apple added the keyboard to its operating system for iPhone users outside of Japan.[^1] In no time at all, the eggplant emoticon became code for an erect penis. On September 30, 2011, the first known use of the emoji as a phallic symbol appeared on Twitter, when @iFUXXS_witHer tweeted: im jelly no 🍆 😥.2 Now, for anyone the least bit tech-savvy in the US and Canada, the elongated, purple fruit with a bulbous end is synonymous with cell phone foreplay, or “sexting.” 
+In North America, eggplant might be more readily recognized as a sexual organ than as a food. In the late 1990s, Japanese telecom companies designed the [eggplant emoji](https://emojipedia.org/eggplant/) as part of the keyboard of icons that now serve as the shorthand of text messages and social media.* “Aubergine” is the name for the eggplant emoji in Unicode, the universal standard for encoding linguistic characters for electronic visual display. In 2010, the emoji keyboard was included in Unicode 6.0, and a year later, Apple added the keyboard to its operating system for iPhone users outside of Japan.[^2] In no time at all, the eggplant emoticon became code for an erect penis. On September 30, 2011, the first known use of the emoji as a phallic symbol appeared on Twitter, when @iFUXXS_witHer tweeted: im jelly no 🍆 😥.2 Now, for anyone the least bit tech-savvy in the US and Canada, the elongated, purple fruit with a bulbous end is synonymous with cell phone foreplay, or “sexting.” 
 
 <param ve-image 
 url="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Twemoji_1f346.svg/2048px-Twemoji_1f346.svg.png"
@@ -91,5 +91,5 @@ Eggplants can be written about by people in books
 # References
 
 [^1]: Clifford A. Wright, _Mediterranean Vegetables: A Cook’s Compendium of All the Vegetables from the World’s Healthiest Cuisine_ (Boston, MA: Harvard Common Press, 2012), 134.
-[^1]: Benjamin Zimmer, Jane Solomon, and Charles E. Carson, “Among the New Words,” American Speech 91, no. 2 (May 1, 2016): 203, https://doi.org/10.1215/00031283-3633118.
+[^2]: Benjamin Zimmer, Jane Solomon, and Charles E. Carson, “Among the New Words,” American Speech 91, no. 2 (May 1, 2016): 203, https://doi.org/10.1215/00031283-3633118.
 
