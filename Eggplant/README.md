@@ -62,7 +62,8 @@ url="https://raw.githubusercontent.com/sheshekabob/plants/main/IBN_BUTLA%CC%82N_
        label="Ibn Buṭlān, Tacuinum sanitatis, Latin 9333" 
 description="Folio 21r of the Tacuinum sanitatis, Latin 9333"
        attribution="gallica.bnf.fr / Bibliothèque nationale de France"
-license="CC BY 2.0.">
+license="CC BY 2.0."
+       region="0,49,1024,943">
 
 Sixteenth-century European artists often made visual puns with fruit and vegetables. _Gastronomica_ writer John Varriano notes the sexual innuendo of food and botanical imagery in painting and poetry of the late Renaissance and early Baroque. In Varriano’s chronology, eggplant might have first been visually equated with reproductive organs at the Villa Farnesina in Rome.* During 1517–1518, the artist Raphael decorated the loggia with scenes featuring Cupid and Psyche, and surrounding his frescoes are festoons by Giovanni da Udine, who packed his paintings with garden produce. One arrangement includes a phallic bottle gourd penetrating a burst fig, and in this case, a pair of eggplants stand in for testicles. Varriano explains that behind this kind of visual ribaldry was the “doctrine of signatures,” the speculation that similar-looking objects or organisms shared an essence.* An example is the belief that since walnuts resemble brains, they aid mental functioning. At the time, scholars like the Italian polymath Giambattista della Porta maintained that it was by God’s design that certain plants resembled the body parts of humans or animals. For example, Porta’s _Phytognomica_, published in 1588, includes an [illustration](https://wellcomecollection.org/works/rr67jxat/images?id=pj99fsjc) comparing plant roots to dog genitalia.
 
