@@ -62,6 +62,15 @@ description="Folio 21r of the Tacuinum sanitatis, Latin 9333"
        attribution="gallica.bnf.fr / Bibliothèque nationale de France"
 license="CC BY 2.0.">
 
+In the sixteenth century, European artists often made visual puns with fruit and vegetables. _Gastronomica_ writer John Varriano notes the sexual innuendo of food imagery in painting and poetry of the late Renaissance and early Baroque. In Varriano’s chronology, eggplant might have first been visually equated with reproductive organs at the Villa Farnesina in Rome.5 During 1517–1518, the artist Raphael decorated the loggia with scenes featuring Cupid and Psyche, and surrounding his frescoes are festoons by Giovanni da Udine, who packed his paintings with garden produce. One arrangement includes a phallic bottle gourd penetrating a burst fig, and in this case, a pair of eggplants stand in for testicles. Varriano explains that behind this kind of visual ribaldry was the “doctrine of signatures,” the speculation that similar-looking objects or organisms shared an essence.6 An example is the belief that since walnuts resemble brains, they aid mental functioning. At the time, scholars like the Italian polymath Giambattista della Porta maintained that it was by God’s design that certain plants resembled the body parts of humans or animals. For example, Porta’s _Phytognomica_, published in 1588, includes an illustration comparing plant roots to dog genitalia.7
+
+<param ve-image 
+url="https://upload.wikimedia.org/wikipedia/commons/a/af/Le_concile_des_Dieux_dans_la_loggia_d%27Amour_et_de_Psych%C3%A9_%28Villa_Farnesina%2C_Rome%29_%2833898412830%29.jpg"
+       label="Villa Farnesina, Le concile des Dieux" 
+description="Le concile des Dieux dans la loggia d'Amour et de Psyché (Villa Farnesina, Rome)"
+       attribution="Jean-Pierre Dalbéra from Paris, France"
+license="CC BY 2.0.">
+
 ### Europe and Western 'interest' and 'ignorance' about the plant
 
 Cultural responses to eggplant in Early Modern Europe were largely dependent on the connection from which eggplant encounters came. Europeans were usually two or three steps removed from the eggplant cultures of India and China, with Iberic and Italian food culture influenced by Islamic and Jewish Mediterranean connections, and English botanists only finding eggplant through their European neighbours. The Hortus Malabaricus is a key exception, as a locally informed document of India’s south western coast, but that is more about potentially useful information than cultural connection.
