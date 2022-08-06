@@ -37,6 +37,17 @@ World distribution (historical? production? concentration of species?) Productio
       Title="Aleppo, Syria"
       show-labels>      
 
+### Sexualization of eggplant
+
+In North America, eggplant might be more readily recognized as a sexual organ than as a food. In the late 1990s, Japanese telecom companies designed the eggplant emoji as part of the keyboard of icons that now serve as the shorthand of text messages and social media.* “Aubergine” is the name for the eggplant emoji in Unicode, the universal standard for encoding linguistic characters for electronic visual display. In 2010, the emoji keyboard was included in Unicode 6.0, and a year later, Apple added the keyboard to its operating system for iPhone users outside of Japan.1 In no time at all, the eggplant emoticon became code for an erect penis. On September 30, 2011, the first known use of the emoji as a phallic symbol appeared on Twitter, when @iFUXXS_witHer tweeted: im jelly no 🍆 😥.2 Now, for anyone the least bit tech-savvy in the US and Canada, the elongated, purple fruit with a bulbous end is synonymous with cell phone foreplay, or “sexting.” 
+
+<param ve-image 
+url="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Twemoji_1f346.svg/2048px-Twemoji_1f346.svg.png"
+       label="Twitter Emoji" 
+description="A colored Emoji from Twitter Emoji project"
+       attribution="Twitter"
+license="CC BY 2.0.">
+
 ### Europe and Western 'interest' and 'ignorance' about the plant
 
 Cultural responses to eggplant in Early Modern Europe were largely dependent on the connection from which eggplant encounters came. Europeans were usually two or three steps removed from the eggplant cultures of India and China, with Iberic and Italian food culture influenced by Islamic and Jewish Mediterranean connections, and English botanists only finding eggplant through their European neighbours. The Hortus Malabaricus is a key exception, as a locally informed document of India’s south western coast, but that is more about potentially useful information than cultural connection.
@@ -48,7 +59,7 @@ Cultural responses to eggplant in Early Modern Europe were largely dependent on 
        initial-zoom="1""
        height="750">
        
-### The expanding cultures of eggplants: agriculture and art in the 19th-20th century (PART 1). 
+### The expanding cultures of eggplants: agriculture and art in the 19th-20th century (PART 1) 
 
 US and eggplant. Not until the nineteenth century did Northern Americans begin to significantly incoporate eggplant into their diet. Then its incorporation in horticulture, appearance of eggplant in growing guides, seed catalogs: rustic context. Measuring tapes and agricultural competitions. Normalization and naturalization. 
 <param ve-image 
