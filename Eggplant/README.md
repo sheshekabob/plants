@@ -48,6 +48,15 @@ description="A colored Emoji from Twitter Emoji project"
        attribution="Twitter"
 license="CC BY 2.0.">
 
+The digital age is just the latest chapter of the eggplant’s erotic entanglements. Written in Sanskrit roughly 2,000 years ago, the Kama Sutra touts this nightshade as a libido booster. This ancient Indian self-help guide recommends rubbing the male member, or “lingam,” with the fruit of an eggplant to produce “a swelling lasting for one month.”3 As questionable as it sounds, this claim is not too off the mark. Recent studies have shown that eating more eggplant can reduce hypertension, a major cause of erectile dysfunction.* Around the time that the Kama Sutra was written, practitioners of Ayurveda, a classical system of Indian medicine, knew that certain wild relatives of the eggplant boast a host of health benefits, and these species remain well represented in pharmacopeias today.* Among the world’s earliest records of eggplant are foundational Ayurvedic texts like the Charaka and Sushruta Samhitas. Written a millennium later, in the eleventh century, the Taqwim al-Sihhah (The Maintenance of Health) by the Arab physician Ibn Buṭlān of Baghdad features eggplant again in the context of human sex. This medical treatise was later translated into Latin and illustrated in Itlay as the Tacuinum Sanitatis.4 Some of these versions depict a woman and a man loitering by an oversized eggplant bush. Under the spell of the risqué fruit, they engage in a triste to the dismay of another woman who has happened upon them. 
+
+<param ve-image 
+url="https://gallica.bnf.fr/view3if/ga/ark:/12148/btv1b105072169/f55"
+       label="Ibn Buṭlān, Tacuinum sanitatis, Latin 9333" 
+description="Folio 21r of the Tacuinum sanitatis, Latin 9333"
+       attribution="gallica.bnf.fr / Bibliothèque nationale de France"
+license="CC BY 2.0.">
+
 ### Europe and Western 'interest' and 'ignorance' about the plant
 
 Cultural responses to eggplant in Early Modern Europe were largely dependent on the connection from which eggplant encounters came. Europeans were usually two or three steps removed from the eggplant cultures of India and China, with Iberic and Italian food culture influenced by Islamic and Jewish Mediterranean connections, and English botanists only finding eggplant through their European neighbours. The Hortus Malabaricus is a key exception, as a locally informed document of India’s south western coast, but that is more about potentially useful information than cultural connection.
