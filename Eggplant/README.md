@@ -91,5 +91,7 @@ Eggplants can be written about by people in books
 ### References
 
 [^1]: Clifford A. Wright, _Mediterranean Vegetables: A Cook’s Compendium of All the Vegetables from the World’s Healthiest Cuisine_ (Boston, MA: Harvard Common Press, 2012), 134.
-* Benjamin Zimmer, Jane Solomon, and Charles E. Carson, “Among the New Words,” American Speech 91, no. 2 (May 1, 2016): 203, https://doi.org/10.1215/00031283-3633118.
+* Benjamin Zimmer, Jane Solomon, and Charles E. Carson, “Among the New Words,” _American Speech_ 91, no. 2 (May 1, 2016): 203, https://doi.org/10.1215/00031283-3633118.
+* Zimmer, Solomon, and Carson, “Among the New Words,” 223-24.
+
 
