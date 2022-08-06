@@ -37,7 +37,7 @@ World distribution (historical? production? concentration of species?) Productio
       Title="Aleppo, Syria"
       show-labels>      
 
-## Europe and Western 'interest' and 'ignorance' about the plant
+# Europe and Western 'interest' and 'ignorance' about the plant
 
 Cultural responses to eggplant in Early Modern Europe were largely dependent on the connection from which eggplant encounters came. Europeans were usually two or three steps removed from the eggplant cultures of India and China, with Iberic and Italian food culture influenced by Islamic and Jewish Mediterranean connections, and English botanists only finding eggplant through their European neighbours. The Hortus Malabaricus is a key exception, as a locally informed document of India’s south western coast, but that is more about potentially useful information than cultural connection.
 
@@ -48,7 +48,9 @@ Cultural responses to eggplant in Early Modern Europe were largely dependent on 
        initial-zoom="1""
        height="750">
        
-The expanding cultures of eggplants: agriculture and art in the 19th-20th century (PART 1). US and eggplant. Not until the nineteenth century did Northern Americans begin to significantly incoporate eggplant into their diet. Then its incorporation in horticulture, appearance of eggplant in growing guides, seed catalogs: rustic context. Measuring tapes and agricultural competitions. Normalization and naturalization. 
+# The expanding cultures of eggplants: agriculture and art in the 19th-20th century (PART 1). 
+
+US and eggplant. Not until the nineteenth century did Northern Americans begin to significantly incoporate eggplant into their diet. Then its incorporation in horticulture, appearance of eggplant in growing guides, seed catalogs: rustic context. Measuring tapes and agricultural competitions. Normalization and naturalization. 
 <param ve-image 
        label="Eggplant emoji" 
        description="Eggplant emoji" 
