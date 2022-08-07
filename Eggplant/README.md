@@ -106,7 +106,8 @@ Paragraph on Far Eastern context: China, Korea, Japan.
        url="https://raw.githubusercontent.com/sheshekabob/plants/main/Eggplant/Yinshan.jpg"
        label="Yinshan Zhengyao"
        description="Chinese eggplant, from _Yinshan Zhengyao_ (Dietary Principles) written by Hu Sihui in 1330"
-       license="Public domain">
+       license="Public domain"
+       region="-500,-50,2504,2117">
        
 
 
