@@ -95,8 +95,7 @@ Parapgraph on Middle Eastern and South Asian (India) context.
 ca. 1203–1283 (author) and Muhammad ibn Muhammad Shakir Ruzmah-'i Nathani (scribe), _Turkish Book of the Wonders of Creation_
 1121 AH/AD 1717"
        license="Public domain"
-       attribution="Zakariya al-Qazwini, Public domain, via Wikimedia Commons"
-       region="279,30,1744,1605">
+       attribution="Zakariya al-Qazwini, Public domain, via Wikimedia Commons">
 
 
 Paragraph on Far Eastern context: China, Korea, Japan.
