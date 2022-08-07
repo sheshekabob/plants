@@ -111,7 +111,7 @@ Paragraph on Far Eastern context: China, Korea, Japan.
        fit="cover">
 <param ve-image 
        url="https://raw.githubusercontent.com/sheshekabob/plants/main/Eggplant/MingDynasty_Eggplant.jpg"
-       label="Album leaf. 蔬果圖 (shu guo tu, or Vegetables and fruit. Ink and colours on silk. Artist unknown. Ming Dynasty. 1368-1644."
+       label="Artist unknown. 蔬果圖 (shu guo tu, or vegetables and fruit). Album leaf, ink and colours on silk. Ming Dynasty. 1368-1644."
        description="Ming Dynasty painting"
        license="CC BY-SA 4.0"
        attribution="© The Trustees of the British Museum"
