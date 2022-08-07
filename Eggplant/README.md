@@ -50,8 +50,8 @@ In North America, eggplant might be more readily recognized as a sexual organ th
 
 <param ve-image 
 url="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Twemoji_1f346.svg/2048px-Twemoji_1f346.svg.png"
-       label="Twitter Emoji" 
-description="A colored Emoji from Twitter Emoji project"
+       label="A colored Emoji from Twitter Emoji project" 
+description="Twitter Emoji"
        attribution="Twitter"
 license="CC BY 2.0.">
 
@@ -59,8 +59,8 @@ The digital age is just the latest chapter of the eggplant’s erotic entangleme
 
 <param ve-image 
 url="https://raw.githubusercontent.com/sheshekabob/plants/main/IBN_BUTLA%CC%82N_Tacuinum_sanitatis__btv1b105072169_55.jpeg"
-       label="Ibn Buṭlān, Tacuinum sanitatis, Latin 9333" 
-description="Folio 21r of the Tacuinum sanitatis, Latin 9333"
+       label="Folio 21r of the Tacuinum sanitatis, Latin 9333, orginally by Ibn Buṭlān" 
+description="Tacuinum sanitatis, Latin 9333"
        attribution="gallica.bnf.fr / Bibliothèque nationale de France"
 license="CC BY 2.0."
        region="0,49,1024,943">
@@ -69,8 +69,8 @@ Sixteenth-century European artists often made visual puns with fruit and vegetab
 
 <param ve-image 
 url="https://upload.wikimedia.org/wikipedia/commons/a/af/Le_concile_des_Dieux_dans_la_loggia_d%27Amour_et_de_Psych%C3%A9_%28Villa_Farnesina%2C_Rome%29_%2833898412830%29.jpg"
-       label="Villa Farnesina, Le concile des Dieux" 
-description="Le concile des Dieux dans la loggia d'Amour et de Psyché (Villa Farnesina, Rome)"
+       label="The Council of the Gods in the Loggia of Cupid and Psyche by Raphael, festoons by Giovanni da Udine, from Villa Farnesina, Rome" 
+description="Villa Farnesina"
        attribution="Jean-Pierre Dalbéra from Paris, France"
 license="CC BY 2.0.">
 
@@ -90,10 +90,10 @@ Cultural responses to eggplant in Early Modern Europe were largely dependent on 
 Parapgraph on Middle Eastern and South Asian (India) context. 
 
 <param ve-image 
-       label="Turkish Book of the Wonders of Creation"
-       description="_An Eggplant, a Plant Called Parsiyavushan, and Dungwort_, from Zakariyya ibn Muhammad al-Qazwini
-ca. 1203–1283 (author) and Muhammad ibn Muhammad Shakir Ruzmah-'i Nathani (scribe), _Turkish Book of the Wonders of Creation_
+       label="An Eggplant, a Plant Called Parsiyavushan, and Dungwort, from Zakariyya ibn Muhammad al-Qazwini
+ca. 1203–1283 (author) and Muhammad ibn Muhammad Shakir Ruzmah-'i Nathani (scribe), Turkish Book of the Wonders of Creation
 1121 AH/AD 1717"
+       description="Turkish Book of the Wonders of Creation"
        license="Public domain"
        attribution="Zakariya al-Qazwini, Public domain, via Wikimedia Commons"
        url="https://upload.wikimedia.org/wikipedia/commons/a/a2/Muhammad_ibn_Muhammad_Shakir_Ruzmah-%27i_Nathani_-_An_Eggplant%2C_a_Plant_Called_Parsiyavushan%2C_and_Dungwort_-_Walters_W659225B_-_Full_Page.jpg"
@@ -104,7 +104,7 @@ Paragraph on Far Eastern context: China, Korea, Japan.
 
 <param ve-image 
        url="https://raw.githubusercontent.com/sheshekabob/plants/main/Eggplant/Yinshan.jpg"
-       label="Chinese eggplant, from the dietary manual Yinshan Zhengyao ("Dietary Principles") written by Hu Sihui in 1330"
+       label="Chinese eggplant, from the dietary manual Yinshan Zhengyao (Dietary Principles) written by Hu Sihui in 1330"
        description="Yinshan Zhengyao"
        license="Public domain"
        region="-500,-50,2504,2117">
