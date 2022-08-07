@@ -59,7 +59,7 @@ The digital age is just the latest chapter of the eggplant’s erotic entangleme
 
 <param ve-image 
 url="https://raw.githubusercontent.com/sheshekabob/plants/main/IBN_BUTLA%CC%82N_Tacuinum_sanitatis__btv1b105072169_55.jpeg"
-       label="Folio 21r of the Tacuinum sanitatis, Latin 9333, orginally by Ibn Buṭlān" 
+       label="Folio 21r of the Tacuinum sanitatis, Latin 9333, originally by Ibn Buṭlān" 
 description="Tacuinum sanitatis, Latin 9333"
        attribution="gallica.bnf.fr / Bibliothèque nationale de France"
 license="CC BY 2.0."
@@ -92,7 +92,7 @@ Parapgraph on Middle Eastern and South Asian (India) context.
 <param ve-image 
        label="An Eggplant, a Plant Called Parsiyavushan, and Dungwort, from Zakariyya ibn Muhammad al-Qazwini
 ca. 1203–1283 (author) and Muhammad ibn Muhammad Shakir Ruzmah-'i Nathani (scribe), Turkish Book of the Wonders of Creation
-1121 AH/AD 1717"
+1121 AH/AD 1717. Public domain."
        description="Turkish Book of the Wonders of Creation"
        license="Public domain"
        attribution="Zakariya al-Qazwini, Public domain, via Wikimedia Commons"
@@ -104,7 +104,7 @@ Paragraph on Far Eastern context: China, Korea, Japan.
 
 <param ve-image 
        url="https://raw.githubusercontent.com/sheshekabob/plants/main/Eggplant/Yinshan.jpg"
-       label="Chinese eggplant, from the dietary manual Yinshan Zhengyao (Dietary Principles) written by Hu Sihui in 1330"
+       label="Chinese eggplant, from the dietary manual Yinshan Zhengyao (Dietary Principles) written by Hu Sihui in 1330. Public domain."
        description="Yinshan Zhengyao"
        license="Public domain"
        region="-500,-50,2504,2117">
