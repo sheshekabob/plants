@@ -90,14 +90,14 @@ Cultural responses to eggplant in Early Modern Europe were largely dependent on 
 Parapgraph on Middle Eastern and South Asian (India) context. 
 
 <param ve-image 
-url="https://upload.wikimedia.org/wikipedia/commons/a/a2/Muhammad_ibn_Muhammad_Shakir_Ruzmah-%27i_Nathani_-_An_Eggplant%2C_a_Plant_Called_Parsiyavushan%2C_and_Dungwort_-_Walters_W659225B_-_Full_Page.jpg"
-       label="Villa Farnesina, Le concile des Dieux" 
-description=""An Eggplant, a Plant Called Parsiyavushan, and Dungwort," from Zakariyya ibn Muhammad al-Qazwini
+       label="Turkish Book of the Wonders of Creation"
+       description="_An Eggplant, a Plant Called Parsiyavushan, and Dungwort_, from Zakariyya ibn Muhammad al-Qazwini
 ca. 1203–1283 (author) and Muhammad ibn Muhammad Shakir Ruzmah-'i Nathani (scribe), _Turkish Book of the Wonders of Creation_
 1121 AH/AD 1717"
+       license="Public domain"
        attribution="Zakariya al-Qazwini, Public domain, via Wikimedia Commons"
-license="Public domain">
-region="394,-7,1974,1816">
+       region="279,30,1744,1605">
+
 
 Paragraph on Far Eastern context: China, Korea, Japan.
 
