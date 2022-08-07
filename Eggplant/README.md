@@ -103,14 +103,10 @@ ca. 1203–1283 (author) and Muhammad ibn Muhammad Shakir Ruzmah-'i Nathani (scr
 Paragraph on Far Eastern context: China, Korea, Japan.
 
 <param ve-image 
-       label="Turkish Book of the Wonders of Creation"
-       description="_An Eggplant, a Plant Called Parsiyavushan, and Dungwort_, from Zakariyya ibn Muhammad al-Qazwini
-ca. 1203–1283 (author) and Muhammad ibn Muhammad Shakir Ruzmah-'i Nathani (scribe), _Turkish Book of the Wonders of Creation_
-1121 AH/AD 1717"
+       label="Yinshan Zhengyao"
+       description="Chinese eggplant, from _Yinshan Zhengyao_ (Dietary Principles) written by Hu Sihui in 1330"
        license="Public domain"
-       attribution="Zakariya al-Qazwini, Public domain, via Wikimedia Commons"
-       url=""
-       region="-394,-7,1974,1816">
+       url="https://github.com/sheshekabob/plants/blob/main/Eggplant/Yinshan.png">
 
 
 ### The expanding cultures of eggplants: agriculture and art in the 19th-20th century (PART 1) 
