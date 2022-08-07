@@ -95,7 +95,8 @@ Parapgraph on Middle Eastern and South Asian (India) context.
 ca. 1203–1283 (author) and Muhammad ibn Muhammad Shakir Ruzmah-'i Nathani (scribe), _Turkish Book of the Wonders of Creation_
 1121 AH/AD 1717"
        license="Public domain"
-       attribution="Zakariya al-Qazwini, Public domain, via Wikimedia Commons">
+       attribution="Zakariya al-Qazwini, Public domain, via Wikimedia Commons"
+       url="https://upload.wikimedia.org/wikipedia/commons/a/a2/Muhammad_ibn_Muhammad_Shakir_Ruzmah-%27i_Nathani_-_An_Eggplant%2C_a_Plant_Called_Parsiyavushan%2C_and_Dungwort_-_Walters_W659225B_-_Full_Page.jpg">
 
 
 Paragraph on Far Eastern context: China, Korea, Japan.
