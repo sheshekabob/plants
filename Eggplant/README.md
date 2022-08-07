@@ -107,7 +107,14 @@ Paragraph on Far Eastern context: China, Korea, Japan.
        label="Chinese eggplant, from the dietary manual Yinshan Zhengyao (Dietary Principles) written by Hu Sihui in 1330. Public domain."
        description="Yinshan Zhengyao"
        license="Public domain"
-       region="-500,-50,2504,2117">
+       region="-500,-50,2504,2117"
+       fit="cover">
+<param ve-image 
+       url="https://raw.githubusercontent.com/sheshekabob/plants/main/Eggplant/MingDynasty_Eggplant.jpg"
+       label="Album leaf. 蔬果圖 (shu guo tu, or Vegetables and fruit. Ink and colours on silk. Artist unknown. Ming Dynasty. 1368-1644. © The Trustees of the British Museum"
+       description="Ming Dynasty painting"
+       license="CC BY-SA 4.0"
+       fit="cover">
        
 
 
