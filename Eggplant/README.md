@@ -111,9 +111,17 @@ Paragraph on Far Eastern context: China, Korea, Japan.
        fit="cover">
 <param ve-image 
        url="https://raw.githubusercontent.com/sheshekabob/plants/main/Eggplant/MingDynasty_Eggplant.jpg"
-       label="Album leaf. 蔬果圖 (shu guo tu, or Vegetables and fruit. Ink and colours on silk. Artist unknown. Ming Dynasty. 1368-1644. © The Trustees of the British Museum"
+       label="Album leaf. 蔬果圖 (shu guo tu, or Vegetables and fruit. Ink and colours on silk. Artist unknown. Ming Dynasty. 1368-1644."
        description="Ming Dynasty painting"
        license="CC BY-SA 4.0"
+       attribution="© The Trustees of the British Museum"
+       fit="cover">
+<param ve-image 
+       url="https://upload.wikimedia.org/wikipedia/commons/8/87/Chochungdo_02.jpg"
+       label="Shin Saimdang"
+       description="Painting of plants and insects. An example of Chochungdo, a genre established by Shin Saimdang (1504–1551), a woman painter of the early Joseon Dynasty."
+       license="Korea Open Government License Type I: Attribution"
+       attribution="National Museum of Korea, KOGL Type 1 <http://www.kogl.or.kr/open/info/license_info/by.do>, via Wikimedia Commons"
        fit="cover">
        
 
