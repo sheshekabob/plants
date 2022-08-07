@@ -103,10 +103,11 @@ ca. 1203–1283 (author) and Muhammad ibn Muhammad Shakir Ruzmah-'i Nathani (scr
 Paragraph on Far Eastern context: China, Korea, Japan.
 
 <param ve-image 
+       url="https://raw.githubusercontent.com/sheshekabob/plants/main/Eggplant/Yinshan.jpg"
        label="Yinshan Zhengyao"
        description="Chinese eggplant, from _Yinshan Zhengyao_ (Dietary Principles) written by Hu Sihui in 1330"
-       license="Public domain"
-       url="https://github.com/sheshekabob/plants/blob/main/Eggplant/Yinshan.jpg">
+       license="Public domain">
+       
 
 
 ### The expanding cultures of eggplants: agriculture and art in the 19th-20th century (PART 1) 
