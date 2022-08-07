@@ -106,7 +106,7 @@ Paragraph on Far Eastern context: China, Korea, Japan.
        label="Yinshan Zhengyao"
        description="Chinese eggplant, from _Yinshan Zhengyao_ (Dietary Principles) written by Hu Sihui in 1330"
        license="Public domain"
-       url="https://github.com/sheshekabob/plants/blob/main/Eggplant/Yinshan.png">
+       url="https://github.com/sheshekabob/plants/blob/main/Eggplant/Yinshan.jpg">
 
 
 ### The expanding cultures of eggplants: agriculture and art in the 19th-20th century (PART 1) 
