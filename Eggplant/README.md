@@ -97,6 +97,7 @@ ca. 1203–1283 (author) and Muhammad ibn Muhammad Shakir Ruzmah-'i Nathani (scr
 1121 AH/AD 1717"
        attribution="Zakariya al-Qazwini, Public domain, via Wikimedia Commons"
 license="Public domain">
+region="-394,-7,1974,1816">
 
 Paragraph on Far Eastern context: China, Korea, Japan.
 
