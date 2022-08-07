@@ -85,6 +85,22 @@ Cultural responses to eggplant in Early Modern Europe were largely dependent on 
        initial-zoom="1""
        height="750">
        
+### Eggplant in Western and Eastern Asia
+
+Parapgraph on Middle Eastern and South Asian (India) context. 
+
+<param ve-image 
+url="https://upload.wikimedia.org/wikipedia/commons/a/a2/Muhammad_ibn_Muhammad_Shakir_Ruzmah-%27i_Nathani_-_An_Eggplant%2C_a_Plant_Called_Parsiyavushan%2C_and_Dungwort_-_Walters_W659225B_-_Full_Page.jpg"
+       label="Villa Farnesina, Le concile des Dieux" 
+description=""An Eggplant, a Plant Called Parsiyavushan, and Dungwort," from Zakariyya ibn Muhammad al-Qazwini
+ca. 1203–1283 (author) and Muhammad ibn Muhammad Shakir Ruzmah-'i Nathani (scribe), _Turkish Book of the Wonders of Creation_
+1121 AH/AD 1717"
+       attribution="Zakariya al-Qazwini, Public domain, via Wikimedia Commons"
+license="Public domain">
+
+Paragraph on Far Eastern context: China, Korea, Japan.
+
+
 ### The expanding cultures of eggplants: agriculture and art in the 19th-20th century (PART 1) 
 
 US and eggplant. Not until the nineteenth century did Northern Americans begin to significantly incoporate eggplant into their diet. Then its incorporation in horticulture, appearance of eggplant in growing guides, seed catalogs: rustic context. Measuring tapes and agricultural competitions. Normalization and naturalization. 
