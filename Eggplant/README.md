@@ -35,6 +35,7 @@ Eggplant (_Solanum melongena_) is a culinary vegetable, but in botanical terms, 
 <param ve-iframe title="Eggplant-based food by country"
 src="https://wikimap.toolforge.org/?cat=Eggplant-based_food&subcats=true&subcatdepth=1&cluster=true#close"></iframe>
 
+### World distribution
 
 World distribution (historical? production? concentration of species?) Production, trade networks, etymology, genetics. Include: Growing information around the world. Culture: perennial in the tropics, annual in more temperate zones, growing zone # range, soil, ideal temperature, pests, diseases, seed saving, companion plants. Emphasize here or in the conclusion how eggplant is well-suited to hot climates, a growing concern with climate change.
 
