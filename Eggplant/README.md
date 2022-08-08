@@ -150,7 +150,7 @@ Paragraph on Far Eastern context: China, Korea, Japan.
        attribution="National Museum of Korea, KOGL Type 1 http://www.kogl.or.kr/open/info/license_info/by.do, via Wikimedia Commons"
        fit="cover">
        
-
+### Atlantic exchanges
 
 ### The expanding cultures of eggplant: agriculture 
 
