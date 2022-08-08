@@ -79,7 +79,7 @@ license="CC BY 2.0.">
 Cultural responses to eggplant in Early Modern Europe were largely dependent on the connection from which eggplant encounters came. Europeans were usually two or three steps removed from the eggplant cultures of India and China, with Iberic and Italian food culture influenced by Islamic and Jewish Mediterranean connections, and English botanists only finding eggplant through their European neighbours. The Hortus Malabaricus is a key exception, as a locally informed document of India’s south western coast, but that is more about potentially useful information than cultural connection.
 
 <param ve-knightlab-timeline
-       source="1wL2INP3K0tfqVYfJqVJOd9NlyDXDYjajpzEb_WG8UGA"
+       source="1ScfQJfrEy7_eHs8qXtHu_qH70s_Uj0MsB3iUrR-v0oI"
        timenav-position="bottom"
        hash-bookmark="false""
        initial-zoom="1""
