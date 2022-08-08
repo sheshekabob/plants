@@ -62,8 +62,7 @@ url="https://raw.githubusercontent.com/sheshekabob/plants/Eggplant/cultivars.jpg
        label="A colored Emoji from Twitter Emoji project" 
        description="Twitter Emoji"
        attribution="Twitter"
-       license="CC BY 2.0."
-       fit="cover">
+       license="CC BY 2.0.">
 
 ### Sexualization of eggplant
 
