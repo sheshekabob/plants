@@ -60,9 +60,10 @@ As a popular vegetable in many parts of the world, eggplant now has dozens of ed
 <param ve-image 
 url="https://raw.githubusercontent.com/sheshekabob/plants/Eggplant/cultivars.jpg"
        label="A colored Emoji from Twitter Emoji project" 
-description="Twitter Emoji"
+       description="Twitter Emoji"
        attribution="Twitter"
-license="CC BY 2.0.">
+       license="CC BY 2.0."
+       fit="cover">
 
 ### Sexualization of eggplant
 
