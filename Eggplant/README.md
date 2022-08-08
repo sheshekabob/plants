@@ -2,7 +2,7 @@
 
 <param ve-config 
        title="Eggplant"
-       author="Ana Carolina Carmona Ribeiro, Nathan Cornish, and Sheila Scoville"
+       author="Ana Carolina Carmona-Ribeiro, Nathan Cornish, and Sheila Scoville"
        banner="https://upload.wikimedia.org/wikipedia/commons/5/55/Leiden_University_Library_-_Seikei_Zusetsu_vol._26%2C_page_027_-_%E6%B8%A4%E6%B5%B7%E8%8C%84%2C_%E6%B0%B4%E8%8C%84_-_Solanum_melongena_L._-_%E8%8C%84%E5%AD%90_-_idem%2C_1804.jpg" 
        layout="vertical">
 
@@ -44,6 +44,8 @@ World distribution (historical? production? concentration of species?) Productio
       Title="Aleppo, Syria"
       show-labels>      
 
+### Cultivars
+
 ### Sexualization of eggplant
 
 In North America, eggplant might be more readily recognized as a sexual organ than as a food. In the late 1990s, Japanese telecom companies designed the [eggplant emoji](https://emojipedia.org/eggplant/) as part of the keyboard of icons that now serve as the shorthand of text messages and social media. “Aubergine” is the name for the eggplant emoji in Unicode, the universal standard for encoding linguistic characters for electronic visual display. In 2010, the emoji keyboard was included in Unicode 6.0, and a year later, Apple added the keyboard to its operating system for iPhone users outside of Japan.* In no time at all, the eggplant emoticon became code for an erect penis. On September 30, 2011, the first known use of the emoji as a phallic symbol appeared on Twitter, when @iFUXXS_witHer tweeted: im jelly no 🍆 😥.* Now, for anyone the least bit tech-savvy in the US and Canada, the elongated, purple fruit with a bulbous end is synonymous with cell phone foreplay, or “sexting.” 
@@ -73,6 +75,8 @@ url="https://upload.wikimedia.org/wikipedia/commons/a/af/Le_concile_des_Dieux_da
 description="Villa Farnesina"
        attribution="Jean-Pierre Dalbéra from Paris, France"
 license="CC BY 2.0.">
+
+### Art and vegetables in the Renaissance
 
 ### Europe and Western 'interest' and 'ignorance' about the plant
 
