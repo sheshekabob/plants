@@ -140,19 +140,17 @@ Paragraph on Far Eastern context: China, Korea, Japan.
        
 
 
-### The expanding cultures of eggplants: agriculture and art in the 19th-20th century (PART 1) 
+### The expanding cultures of eggplants 
 
 US and eggplant. Not until the nineteenth century did Northern Americans begin to significantly incoporate eggplant into their diet. Then its incorporation in horticulture, appearance of eggplant in growing guides, seed catalogs: rustic context. Measuring tapes and agricultural competitions. Normalization and naturalization. 
-<param ve-image 
-       label="Eggplant emoji" 
-       description="Eggplant emoji" 
-       license="via BHL" 
-       url="https://www.biodiversitylibrary.org/pageImage/50118220#page/101/mode/1up"
-       region="413,140,2705,2632">
 
-Eggplants can be written about by people in books 
-<param ve-iframe 
-    src="https://books.google.com/books?id=LGVeCAAAQBAJ&newbks=0&lpg=PT380&dq=aubergine&pg=PT380&output=embed">
+Agricultural expansion of eggplant culture, and its normalization as food in Northern Europe and North America since the 19th century, were accompanied by a promotion of this vegetable as an artisitc subject, demonstrating how art and food are intimately related even in highly industrialized and urbanized societies. This includes examples of eggplant representations in the applied arts, such as the 20th century Portuguese "Majolica" ceramic teapot -- eggplant-shaped in purple and green (a very different form of representation in comparison to oriental vegetable-inspired objects, which usually reach a higher level of refinement and abstraction in relation to the imitated object). Another example is the leaded glass screen created by the North-American Louis C. Tiffany and Company; their designs were very much in fashion around 1870-1890, and, as in other Art Nouveau creations, valued natural elements as a source of inspiration, creating elaborate patterns like the one in the panel, where a trellis provides the support for an eggplant bush with multicolored leaves and deep black fruit.
+
+Avant-garde European painting also reveals the eggplant's expanding cultural meaning and its normalization as an household object -- as Paul Cézanne's Still Life with a Ginger Jar and Eggplants (1893-94) and Henri Matisse's Still Life with Aubergines (1911) demonstrate. In Matisse's painting, however, the three small purple eggplants represent much more than cooking ingredients; "balanced precariously on a table whose red cloth carries an undulating white pattern that reinforces their tuberous shape"*, they seem to be the visual starting point of a decorative explosion of textures and colors that spread throughout the environment and even beyond it (as the mirror, the window with the landscape beyond, and the open back door show). This painting reveals one of Matisse's fundamental themes: the conversion of his own studio into a imaginary space, permeated by the joie de vivre (joy of life); in this very personal recreation of the garden of paradise, the painter's great admiration for Persian miniatures and Oriental art emerge; and eggplants, without losing their domestic character, are reconnected to their origins, beyond the Mediterranean, in the remote Arabias or in the Far East.
+
+Decades later, North-American photographers further explored the formal properties of the fruit, its shape, color and texture. Throught abstraction and a highly refined sense of composition and light, Edward Weston (1886-1958) depicts, in Eggplant (1930) a dark globular cultivar -- the same variety of US' agricultural manuals of the end of the 19th century. As in many of his works, here he unveils the unexpected and the marvellous of natural elements and everyday objects, and their connections with the human body**. Although the reference to the dietary significance of the eggplant is still present (as the white plate proves),  the shiny ridged vegetable awakens also an aesthetical visual approach, and the urge to actually touch it and feel the smoothness of the skin, the firmness of the flesh. 
+
+This visual but also sensual sense gains strength in the work of Robert Mapplethorpe (1946-1989), whose style, according to Levinson***, is derived from that of Weston, in its creative use of light and formal experimentation. Mapplethorpe produced hundreds of nude studies and impactful erotic photographs. Eroticism is, in fact, the guiding thread of his gaze****, permeating his portraits of women, men, flowers and fruit, including a sensuous bunch of grapes and the famous Eggplant (1985) portrait. Here, a single vegetable lies alone in an unindentified space, whose neutrality is broken by the striped shade of a blind. The meaty eggplant turns into a body or a body part, marked by sun and shade; its nutritional meaning seems to be lost, and, as an object of desire, the eggplant can only be eaten with lust and concupiscence, in yet another example of the sexualization of this vegetable -- and maybe of its commodification in hyper-consumerist societies. Its curves and crevices stretch our imagination and ressemble the curves and crevices of the equally appalling torso of Thomas (Back) (1986), a black male model favored by the artist and depicted in a similar studio setting.
 
 
 ### References
