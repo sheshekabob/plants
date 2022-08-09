@@ -178,6 +178,14 @@ The importance of eggplant to China’s neighbors can also be gleaned from their
        attribution="Leiden University Libraries Digital Collections https://digitalcollections.universiteitleiden.nl/view/item/938292"
        region="-175,-253,4527,3733"
        fit="cover">
+<param ve-image 
+       url="https://collections.mfa.org/internal/media/dispatcher/1059814/resize%3Aformat%3Dpreview"
+       label="Solanum melongena L., Bohai eggplant, from Seikei Zusetsu. Compiled by by So Senshun, Shirao Kunihashira, Mukai Tomoaki, and Hori Monjuro in the years 1793–1804. Ser. 1042 vol. 26, page 027."
+       description="Seikei Zusetsu"
+       license="CC BY-SA 4.0"
+       attribution="Leiden University Libraries Digital Collections https://digitalcollections.universiteitleiden.nl/view/item/938292"
+       region="-175,-253,4527,3733"
+       fit="cover">
        
 ### Atlantic exchanges
 
