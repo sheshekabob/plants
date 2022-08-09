@@ -33,7 +33,8 @@
 <param ve-entity eid="Q4501982">
 <param ve-entity eid="Q379653">
 <param ve-entity eid="Q464485">
-<param ve-entity eid="Q28179">                      
+<param ve-entity eid="Q28179">
+<param ve-entity eid="Q76160295">
 
 Eggplant parmesan or _parmigiana di melanzane_ is like the culinary vegetable that it features—far from straightforward. Where this recipe originated seems to be in its name. "Parmigiana" points to Parma in northern Italy, yet the hard cheese produced there is only a finishing touch of this dish, not a main ingredient. Instead, some food historians locate the birthplace of parmigiana in regions in southern Italy. The writer [Clifford Wright](http://www.cliffordawright.com/caw/food/entries/display.php/topic_id/4/id/109/) argues that written records strongly indicate Naples as the origin of the dish. Those in favor of Sicily suspect that "parmigiana" might be a mispronunciation of "palmigiana," a Sicilian word for "shutters" and perhaps a metaphor for the louvred construction of the dish, with its alternating layers of fried eggplant rounds, tomato sauce, and mozzarella. Others claim "parmigiana" might be a Sicilian word for “Persian,” _parmiciana_, and a reference to the culture that helped introduce eggplant to Europe.[^1] Though unsubstantiated, this last theory gestures to a truth greater than the facts of who did what where first. Food, culture, and plants rarely stay put in a vacuum; they move and mingle.
 
@@ -160,7 +161,8 @@ Art and literature attest to a profound human relationship with the eggplant in 
        fit="cover">
 
 
-The importance of eggplant to China’s neighbors can also be gleaned from their artistic and literary traditions. A Korean artist of the Joseon Dynasty, Shin Saimdang (1504–1551), mother of the Confucian scholar and politician Yi I, included eggplant among still life paintings on an eight-panel screen. These delicate compositions represent _Chochungdo_ (“insects on flowers”), a genre developed by Shin Saimdang who emphasized careful observation of Korean flora and fauna.
+The importance of eggplant to China’s neighbors can also be gleaned from their artistic and literary traditions. A Korean artist of the Joseon Dynasty, Shin Saimdang (1504–1551), mother of the Confucian scholar and politician Yi I, included eggplant among still life paintings on an eight-panel screen. These delicate compositions represent _Chochungdo_ (“insects on flowers”), a genre developed by Shin Saimdang, who emphasized careful observation of Korean flora and fauna.^ Among sites of eggplant cultivation, northern Vietnam is included in what some believe to be China’s earliest botanical treatise, the fourth-century _Nanfang Caomu Zhuang_ (“Plants of the Southern Regions”) by Ji Han. The ancient Vietnamese trading port of Hội An was the site where a an early sixteenth-century water dropper in the shape of an upright eggplant was excavated. During the eighth century, eggplant reached Japan from China.* The agricultural text _Seikei zusetsu_ compiled in southern Japan around the beginning of the nineteenth century features a sumptuous print of eggplant described as “Bohai,” possibly indicating its Chinese origins. As revealed by the hybrid style of this imagery, this encyclopedic project was the outcome of nearly two centuries of exchange between Japanese and European scholarship through the presence of the Dutch East India Company in this .
+
 
 <param ve-image 
        url="https://upload.wikimedia.org/wikipedia/commons/8/87/Chochungdo_02.jpg"
