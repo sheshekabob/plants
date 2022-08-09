@@ -116,7 +116,7 @@ Mattioli in 16th century Italy, largely quoting from the scholar Hermolaos Barba
        label="Basilius Besler, Hortus Eystettensis ( Botanical gardens madrid)"
        description="Eggplant illustrated in Besler's Hortus Eystettensis"
        license=" Need to ask for permission"
-       attribution="madrid gardens"
+       attribution="Madrid Gardens"
        fit="cover">
 
 The 1678 Hortus Malabaricus shows how this conceptual model informed the first hand encounters of dutch imperialists with their local contacts. Van Rheede, the governor of Dutch Malabar was informed by a distinguished local herbalist called Itty Achudan on plant use. Thus, the first name recorded is the ‘braman name… Vaenna’, and information that ‘the juice relieves cows from internal abscesses and that the fruit was used to cure toothaches is not recorded in any of the european herbals mentioned above. Rheede appears to lament directly that ‘the fruit of the nightshade in our homeland is a narcotic power: but india produces edible nightshades!’. Thus, the eggplant is tied into a Western botanical framework as a miraculous product of far-away lands. 
@@ -171,11 +171,11 @@ The importance of eggplant to China’s neighbors can also be gleaned from their
        attribution="National Museum of Korea, KOGL Type 1 http://www.kogl.or.kr/open/info/license_info/by.do, via Wikimedia Commons"
        fit="cover">
 <param ve-image 
-       url="https://upload.wikimedia.org/wikipedia/commons/8/87/Chochungdo_02.jpg"
-       label="Painting of plants and insects. An example of Chochungdo, a genre established by Shin Saimdang (1504–1551), a Korean painter of the early Joseon Dynasty."
-       description="Shin Saimdang"
-       license="Korea Open Government License Type I: Attribution"
-       attribution="National Museum of Korea, KOGL Type 1 http://www.kogl.or.kr/open/info/license_info/by.do, via Wikimedia Commons"
+       url="https://github.com/sheshekabob/plants/blob/main/Eggplant/Seikei%20Zusetsu.jpg"
+       label="Solanum melongena L., Bohai eggplant, from Seikei Zusetsu. Compiled by by So Senshun, Shirao Kunihashira, Mukai Tomoaki, and Hori Monjuro in the years 1793–1804. Ser. 1042 vol. 26, page 027."
+       description="Seikei Zusetsu"
+       license="CC BY-SA 4.0"
+       attribution="Leiden University Libraries Digital Collections https://digitalcollections.universiteitleiden.nl/view/item/938292"
        fit="cover">
        
 ### Atlantic exchanges
