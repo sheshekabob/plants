@@ -3,7 +3,7 @@
 <param ve-config 
        title="Eggplant"
        author="Ana Carolina Carmona-Ribeiro, Nathan Cornish, and Sheila Scoville"
-       banner="https://raw.githubusercontent.com/sheshekabob/plants/main/Eggplant/Chochungdo_02.jpeg" 
+       banner="https://upload.wikimedia.org/wikipedia/commons/8/87/Chochungdo_02.jpg" 
        layout="vertical">
 
 <param ve-entity eid="Q973455">
