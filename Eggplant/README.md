@@ -3,7 +3,7 @@
 <param ve-config 
        title="Eggplant"
        author="Ana Carolina Carmona-Ribeiro, Nathan Cornish, and Sheila Scoville"
-       banner="https://raw.githubusercontent.com/sheshekabob/plants/main/Eggplant/Seikei%20Zusetsu_cover.jpg" 
+       banner="https://raw.githubusercontent.com/sheshekabob/plants/main/Eggplant/pulling.jpeg" 
        layout="vertical">
 
 <param ve-entity eid="Q973455">
