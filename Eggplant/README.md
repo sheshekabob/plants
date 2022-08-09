@@ -184,6 +184,7 @@ The importance of eggplant to China’s neighbors can also be gleaned from their
        description="Hawk, Eggplant and Mount Fuji"
        license="Public domain"
        attribution="Public domain. Museum of Fine Arts, Boston, https://www.mfa.org/"
+       region="-333,1,1667,1375"
        fit="cover">
        
 ### Atlantic exchanges
