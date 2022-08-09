@@ -164,7 +164,7 @@ The importance of eggplant to China’s neighbors can also be gleaned from their
 
 <param ve-image 
        url="https://upload.wikimedia.org/wikipedia/commons/8/87/Chochungdo_02.jpg"
-       label="Painting of plants and insects. An example of Chochungdo, a genre established by Shin Saimdang (1504–1551), a woman painter of the early Joseon Dynasty."
+       label="Painting of plants and insects. An example of Chochungdo, a genre established by Shin Saimdang (1504–1551), a Korean painter of the early Joseon Dynasty."
        description="Shin Saimdang"
        license="Korea Open Government License Type I: Attribution"
        attribution="National Museum of Korea, KOGL Type 1 http://www.kogl.or.kr/open/info/license_info/by.do, via Wikimedia Commons"
