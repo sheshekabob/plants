@@ -3,7 +3,7 @@
 <param ve-config 
        title="Eggplant"
        author="Ana Carolina Carmona-Ribeiro, Nathan Cornish, and Sheila Scoville"
-       banner="https://upload.wikimedia.org/wikipedia/commons/5/55/Leiden_University_Library_-_Seikei_Zusetsu_vol._26%2C_page_027_-_%E6%B8%A4%E6%B5%B7%E8%8C%84%2C_%E6%B0%B4%E8%8C%84_-_Solanum_melongena_L._-_%E8%8C%84%E5%AD%90_-_idem%2C_1804.jpg" 
+       banner="https://github.com/sheshekabob/plants/blob/main/Eggplant/Seikei%20Zusetsu.jpg?raw=true" 
        layout="vertical">
 
 <param ve-entity eid="Q973455">
@@ -176,6 +176,7 @@ The importance of eggplant to China’s neighbors can also be gleaned from their
        description="Seikei Zusetsu"
        license="CC BY-SA 4.0"
        attribution="Leiden University Libraries Digital Collections https://digitalcollections.universiteitleiden.nl/view/item/938292"
+       region="-175,-253,4527,3733"
        fit="cover">
        
 ### Atlantic exchanges
