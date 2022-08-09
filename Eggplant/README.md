@@ -180,11 +180,10 @@ The importance of eggplant to China’s neighbors can also be gleaned from their
        fit="cover">
 <param ve-image 
        url="https://collections.mfa.org/internal/media/dispatcher/1059814/resize%3Aformat%3Dpreview"
-       label="Solanum melongena L., Bohai eggplant, from Seikei Zusetsu. Compiled by by So Senshun, Shirao Kunihashira, Mukai Tomoaki, and Hori Monjuro in the years 1793–1804. Ser. 1042 vol. 26, page 027."
-       description="Seikei Zusetsu"
-       license="CC BY-SA 4.0"
-       attribution="Leiden University Libraries Digital Collections https://digitalcollections.universiteitleiden.nl/view/item/938292"
-       region="-175,-253,4527,3733"
+       label="Isoda Koryûsai (Japanese, 1735–1790), Dream Symbols of the New Year: Hawk, Eggplant and Mount Fuji. Edo period. Woodblock print (nishiki-e); ink and color on paper"
+       description="Hawk, Eggplant and Mount Fuji"
+       license="Public domain"
+       attribution="Public domain. Museum of Fine Arts, Boston, https://www.mfa.org/"
        fit="cover">
        
 ### Atlantic exchanges
