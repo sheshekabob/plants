@@ -180,10 +180,10 @@ This visual but also sensual sense gains strength in the work of Robert Mappleth
 Following the eggplant through global history shows the way plant meaning has been, and continues to be created through the interactions between cultural structures and the individuals who worked within and between them. What was an ancient and storied plant in India and China became a similarly richly appreciated plant in persian and in early islamic food culture. Through Mediterranean exchange in the early modern period, jewish and muslim communities brought eggplant into popularity in Iberia and Italy, and then by extension to an English botanical community primarily interested in its exotic, rather than culinary appeal. From Europe, the eggplant was carried through the networks of empire into the modern global food trade. In recent years it has become one the center of one of the hardest fought Genetically Modified crop issues as varieties of 'BT brinjal' endorsed by Cornell University designed to withstand pests and drastically reduce farmers' need to spray pesticide on their crops have been made illegal in India and the Phillippines but are cultivated in Bangladesh. The idea after thousands of years of and American institution sending the eggplant back in a changed form is a strange one, and this context is key to the kind of issues plant humanities deals with. The plant is not just a bare, lab grown improvement but a vessel full of cultural meaning. People question why an ancient 'indigenous' plant should need genetic modification and worry about the implications of meddling with ecological heritage. On the other hand, there is real chance through GM crops to improve people's lives and genetic engineering does not necessarily have to be so set against cultural heritage. If one thing is clear from the history of the eggplant, it is that human culture around food, medicine and ecology weaves complex, fluid meaning around the plants by which we live in ways that are powerful and important, but nevertheless fickle and difficult to pin down. 
 
 <param ve-image 
-       url=""
-       label=""
-       description=""
-       license=""
+       url="bibdigital.rjb.csic.es/idviewer/10913/429"
+       label="Melanzana"
+       description="Melanzana from besler"
+       license="nicked off the internet"
        attribution=""
        fit="cover">
 
