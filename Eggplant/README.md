@@ -160,7 +160,7 @@ Art and literature attest to a profound human relationship with the eggplant in 
        fit="cover">
 
 
-The importance of eggplant to China’s neighbors can also be gleaned from their artistic and literary traditions. A Korean artist of the Joseon Dynasty, Shin Saimdang (1504–1551), mother of the Confucian scholar and politician Yi I, included eggplant among still life paintings on an eight-panel screen. These delicate compositions represent Chochungdo (“insects on flowers”), a genre developed by Shin Saimdang who emphasized careful observation of Korean flora and fauna.
+The importance of eggplant to China’s neighbors can also be gleaned from their artistic and literary traditions. A Korean artist of the Joseon Dynasty, Shin Saimdang (1504–1551), mother of the Confucian scholar and politician Yi I, included eggplant among still life paintings on an eight-panel screen. These delicate compositions represent _Chochungdo_ (“insects on flowers”), a genre developed by Shin Saimdang who emphasized careful observation of Korean flora and fauna.
 
 <param ve-image 
        url="https://upload.wikimedia.org/wikipedia/commons/8/87/Chochungdo_02.jpg"
