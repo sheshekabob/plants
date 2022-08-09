@@ -163,7 +163,13 @@ Art and literature attest to a profound human relationship with the eggplant in 
 
 The importance of eggplant to China’s neighbors can also be gleaned from their artistic and literary traditions. A Korean artist of the Joseon Dynasty, Shin Saimdang (1504–1551), mother of the Confucian scholar and politician Yi I, included eggplant among still life paintings on an eight-panel screen. These delicate compositions represent _Chochungdo_ (“insects on flowers”), a genre developed by Shin Saimdang, who emphasized careful observation of Korean flora and fauna.^ Among sites of eggplant cultivation, northern Vietnam is included in what some believe to be China’s earliest botanical treatise, the fourth-century _Nanfang Caomu Zhuang_ (“Plants of the Southern Regions”) by Ji Han. The ancient Vietnamese trading port of Hội An was the site where an early sixteenth-century [water dropper](https://www.britishmuseum.org/collection/object/A_2001-1129-5_1) in the shape of an upright eggplant was excavated. During the eighth century, eggplant reached Japan from China.* The agricultural text _Seikei zusetsu_, compiled in southern Japan around the beginning of the nineteenth century, features a sumptuous print of eggplant described as “Bohai,” possibly indicating its Chinese origins. As revealed by the hybrid style of this imagery, this encyclopedic project was the outcome of nearly two centuries of exchange between Japanese and European scholarship through the presence of the Dutch East India Company in Nagasaki.
 
-
+<param ve-image 
+       url="https://upload.wikimedia.org/wikipedia/commons/8/87/Chochungdo_02.jpg"
+       label="Painting of plants and insects. An example of Chochungdo, a genre established by Shin Saimdang (1504–1551), a Korean painter of the early Joseon Dynasty."
+       description="Shin Saimdang"
+       license="Korea Open Government License Type I: Attribution"
+       attribution="National Museum of Korea, KOGL Type 1 http://www.kogl.or.kr/open/info/license_info/by.do, via Wikimedia Commons"
+       fit="cover">
 <param ve-image 
        url="https://upload.wikimedia.org/wikipedia/commons/8/87/Chochungdo_02.jpg"
        label="Painting of plants and insects. An example of Chochungdo, a genre established by Shin Saimdang (1504–1551), a Korean painter of the early Joseon Dynasty."
