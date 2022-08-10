@@ -51,17 +51,6 @@ Eggplant (_Solanum melongena_) is a culinary vegetable, but in botanical terms, 
 <param ve-iframe title="Eggplant-based food by country"
 src="https://wikimap.toolforge.org/?cat=Eggplant-based_food&subcats=true&subcatdepth=1&cluster=true#close"></iframe>
 
-### World distribution
-
-Eggplant is now commercially a global plant, but the vast majority of eggplant production takes place in Bangladesh, India, and China where it is a staple food in a way that it isn't in Western Europe or North America. 
-
-World distribution (historical? production? concentration of species?) Production, trade networks, etymology, genetics. Include: Growing information around the world. Culture: perennial in the tropics, annual in more temperate zones, growing zone # range, soil, ideal temperature, pests, diseases, seed saving, companion plants. Emphasize here or in the conclusion how eggplant is well-suited to hot climates, a growing concern with climate change.
-
- <param ve-map 
-      center="Q41183" 
-      zoom="10" 
-      Title="Aleppo, Syria"
-      show-labels>      
 
 ### Cultivars
 
@@ -105,6 +94,18 @@ description="Villa Farnesina"
 license="CC BY 2.0.">
 
 ### Art and vegetables in the Renaissance
+
+### World distribution
+
+Eggplant is now commercially a global plant, but the vast majority of eggplant production takes place in Bangladesh, India, and China where it is a staple food in a way that it isn't in Western Europe or North America. 
+
+World distribution (historical? production? concentration of species?) Production, trade networks, etymology, genetics. Include: Growing information around the world. Culture: perennial in the tropics, annual in more temperate zones, growing zone # range, soil, ideal temperature, pests, diseases, seed saving, companion plants. Emphasize here or in the conclusion how eggplant is well-suited to hot climates, a growing concern with climate change.
+
+ <param ve-map 
+      center="Q41183" 
+      zoom="10" 
+      Title="Aleppo, Syria"
+      show-labels>      
 
 ### Europe and Western 'interest' and 'ignorance' about the plant
 Cultural responses to eggplant in Early Modern Europe were largely dependent on the connection from which eggplant encounters came. Europeans were usually two or three steps removed from the eggplant cultures of India and China, with Iberic and Italian food culture influenced by Islamic and Jewish Mediterranean connections, and English botanists only finding eggplant through their European neighbours. The Hortus Malabaricus is a key exception, as a locally informed document of India’s south western coast, but that is more about potentially useful information than cultural connection.
