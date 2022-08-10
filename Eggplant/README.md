@@ -146,6 +146,14 @@ ca. 1203–1283 (author) and Muhammad ibn Muhammad Shakir Ruzmah-'i Nathani (scr
 
 Eggplant in India paragraph. Eggplant in India paragraph. 
 
+
+<param ve-image 
+       label="Company School"
+       description="Company School. Watercolour painting on paper of Solanum melongena, commonly referred to as an aubergine plant. Calcutta (now Kolkata, India. Nineteenth century."
+       license="CC BY-SA 4.0"
+       attribution="© The Trustees of the British Museum"
+       url="https://media.britishmuseum.org/media/Repository/Documents/2014_10/17_10/26991ccc_7559_460b_ad27_a3c700aa9665/mid_01032763_001.jpg"
+       fit="cover">
 <param ve-image 
        label="A woman pulling giant aubergines from a tree. Watercolor."
        description="A woman pulling giant aubergines from a tree"
