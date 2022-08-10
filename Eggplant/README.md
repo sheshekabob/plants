@@ -97,9 +97,7 @@ license="CC BY 2.0.">
 
 ### World distribution
 
-Eggplant is now commercially a global plant, but the vast majority of eggplant production takes place in Bangladesh, India, and China where it is a staple food in a way that it isn't in Western Europe or North America. 
-
-World distribution (historical? production? concentration of species?) Production, trade networks, etymology, genetics. Include: Growing information around the world. Culture: perennial in the tropics, annual in more temperate zones, growing zone # range, soil, ideal temperature, pests, diseases, seed saving, companion plants. Emphasize here or in the conclusion how eggplant is well-suited to hot climates, a growing concern with climate change.
+Eggplant is now commercially a global plant, but the vast majority of eggplant production takes place in Bangladesh, India, and China where it is a staple food in a way that it isn't in Western Europe or North America. It grows mostly between the tropics and those places in which it was native in ancient times remain the principle producers of the plant. This is indicative of the different ways Eggplant has been incorporated into food culture around the world, in particular how the plant is a staple crop in China, India, and Bangladesh, and a popular auxiliary vegetable in Europe and North America. Eggplant travelled round the world first through Islamic trade networks which connected India with the southern Mediterranean. Then as eggplant became popular in Iberia and Italy through contact with muslim and jewish groups and states it was connected into the colonial trade network which brought it to North and Central America where it became popular.
 
 <param ve-image 
        url="https://upload.wikimedia.org/wikipedia/commons/2/26/Countries_by_eggplant_production_in_2020.png"
