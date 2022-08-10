@@ -148,6 +148,13 @@ Eggplant in India paragraph. Eggplant in India paragraph.
 
 
 <param ve-image 
+       label="Robert Wight"
+       description="Solanum melongena, from Robert Wight, Illustrations of Indian botany, or figures illustrative of each of the natural orders of Indian plants, described in the author's prodromus florae peninsulae Indiae orientalis, page 166"
+       license="Public domain"
+       attribution="Public domain. https://www.biodiversitylibrary.org/item/39780#page/315"
+       url="https://www.biodiversitylibrary.org/pageIMAGE/10415784"
+       fit="cover">
+<param ve-image 
        label="Company School"
        description="Company School. Watercolour painting on paper of Solanum melongena, commonly referred to as an aubergine plant. Calcutta (now Kolkata, India. Nineteenth century."
        license="CC BY-SA 4.0"
