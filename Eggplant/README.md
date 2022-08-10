@@ -101,11 +101,12 @@ Eggplant is now commercially a global plant, but the vast majority of eggplant p
 
 World distribution (historical? production? concentration of species?) Production, trade networks, etymology, genetics. Include: Growing information around the world. Culture: perennial in the tropics, annual in more temperate zones, growing zone # range, soil, ideal temperature, pests, diseases, seed saving, companion plants. Emphasize here or in the conclusion how eggplant is well-suited to hot climates, a growing concern with climate change.
 
- <param ve-map 
-      center="Q41183" 
-      zoom="10" 
-      Title="Aleppo, Syria"
-      show-labels>      
+<param ve-image 
+       url="https://upload.wikimedia.org/wikipedia/commons/2/26/Countries_by_eggplant_production_in_2020.png"
+       label="World map coloured by Eggplant production"
+       description="Darker areas show greater Eggplant production"
+       license="Creative commons"
+       fit="cover">      
 
 ### Europe and Western 'interest' and 'ignorance' about the plant
 Cultural responses to eggplant in Early Modern Europe were largely dependent on the connection from which eggplant encounters came. Europeans were usually two or three steps removed from the eggplant cultures of India and China, with Iberic and Italian food culture influenced by Islamic and Jewish Mediterranean connections, and English botanists only finding eggplant through their European neighbours. The Hortus Malabaricus is a key exception, as a locally informed document of India’s south western coast, but that is more about potentially useful information than cultural connection.
