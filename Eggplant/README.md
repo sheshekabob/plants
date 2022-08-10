@@ -195,6 +195,14 @@ The importance of eggplant to China’s neighbors can also be gleaned from their
 
 US and eggplant. Not until the nineteenth century did Northern Americans begin to significantly incoporate eggplant into their diet. Then its incorporation in horticulture, appearance of eggplant in growing guides, seed catalogs: rustic context. Measuring tapes and agricultural competitions. Normalization and naturalization. 
 
+<param ve-image 
+       url="https://www.biodiversitylibrary.org/pageImage/50118220"
+       label="Black Beauty Egg plant, from Adolph Kruhm's Home vegetable gardening from A to Z, with special reference to Pacific coast conditions (1918)"
+       description="Black Beauty Egg plant"
+       license="Public domain."
+       attribution="Public domain. https://www.biodiversitylibrary.org/item/69949"
+       fit="cover">
+
 ### The expanding cultures of eggplant: art
 
 Agricultural expansion of eggplant culture, and its normalization as food in Northern Europe and North America since the 19th century, were accompanied by a promotion of this vegetable as an artistic subject, demonstrating how art and food are intimately related even in highly industrialized and urbanized societies. This includes examples of eggplant representations in the applied arts, such as the 20th century Portuguese Majolica ceramic teapot -- eggplant-shaped in purple and green (a very different form of representation in comparison to oriental vegetable-inspired objects, which usually reach a higher level of refinement and abstraction in relation to the imitated object). Another example is the leaded glass screen created by the North-American company Tiffany & Co. Their designs were very much in fashion around 1870-1890, and, as in other Art Nouveau creations, valued natural elements as a source of inspiration, creating elaborate patterns like the one in the panel, where a trellis provides the support for an eggplant bush with multicolored leaves and deep black fruit.
