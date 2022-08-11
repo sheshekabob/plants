@@ -113,7 +113,7 @@ Cultural responses to eggplant in Early Modern Europe were largely dependent on 
 
 <param ve-compare curtain
        curtain="true"
-       url="Besler2.jpg"
+       url="Besler1.jpg"
        label="Basilius Besler, Hortus Eystettensis ( Botanical gardens madrid)"
        description="Eggplant illustrated in Besler's Hortus Eystettensis"
        license=" Need to ask for permission"
@@ -121,7 +121,7 @@ Cultural responses to eggplant in Early Modern Europe were largely dependent on 
        fit="cover">
        
 <param ve-compare 
-       url="Besler1.jpg"
+       url="Besler2.jpg"
        label="Basilius Besler, Hortus Eystettensis ( Oak Springs)"
        description="Eggplant illustrated in Besler's Hortus Eystettensis"
        license=" Need to ask for permission"
