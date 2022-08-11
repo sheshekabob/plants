@@ -111,6 +111,23 @@ Eggplant is now commercially a global plant, but the vast majority of eggplant p
 ### Europe and Western 'interest' and 'ignorance' about the plant
 Cultural responses to eggplant in Early Modern Europe were largely dependent on the connection from which eggplant encounters came. Europeans were usually two or three steps removed from the eggplant cultures of India and China, with Iberic and Italian food culture influenced by Islamic and Jewish Mediterranean connections, and English botanists only finding eggplant through their European neighbours. The Hortus Malabaricus is a key exception, as a locally informed document of India’s south western coast, but that is more about potentially useful information than cultural connection.
 
+<param ve-compare curtain
+       curtain="true"
+       url="Besler1.jpg"
+       label="Basilius Besler, Hortus Eystettensis ( Botanical gardens madrid)"
+       description="Eggplant illustrated in Besler's Hortus Eystettensis"
+       license=" Need to ask for permission"
+       attribution="Madrid Gardens"
+       fit="cover">
+       
+<param ve-compare 
+       url="Besler2.jpg"
+       label="Basilius Besler, Hortus Eystettensis ( Oak Springs)"
+       description="Eggplant illustrated in Besler's Hortus Eystettensis"
+       license=" Need to ask for permission"
+       attribution="Oak springs"
+       fit="cover">
+
 Mattioli in 16th century Italy, largely quoting from the scholar Hermolaos Barbarus writes about how it was ‘generally eaten cooked with oil, salt, pepper and mushrooms’ and adds that ‘there are some of our people who feed on the mad-apple in order to arouse love’. However, he adds that they are hard to digest and create a number of digestive sicknesses and long-lasting illnesses. The new-world tomato and the mythical ‘pomi d’oro’ or golden apple are conflated as varieties of Melanzana which seems to have caused this image (from bessler) which cites Mattioli, to have been painted in golden after publication. 16th century Spain and Italy had key connections with the Islamic world in both trade and warfare in a similar way, and thus a third degree connection to the eggplant through Islamic and Jewish food culture. A benefit here is that as south as the Swiss border there appears to be no problem in growing the plant, as Fuchs describes them as ‘sown in our gardens, but frequently in … hanging window gardens’ with cucumbers and melons. Fuchs’ german botanical tradition owed much to Swiss and Italian scholarship, and his warmer climate in Tübingen connected him to this botanical culture. Northern Mediterranean eggplant encounters involved some suspicion but were dictated mostly by shared food culture. Fuchs writes, amused, that some people ‘immediately avoid the use of them, terrified by the name itself’ to suggest that suspicion of the eggplant is greatly exaggerated. English herbals, one more step removed than Italian and Spanish cultural encounters, were deeply suspicious of eggplant. Gerarde’s highly successful 1597 Herball (and Thomas Johnson’s popular 1633 edition) writes that he saw only one fruit ‘of the bigness of a goose egg one extraordinary temperate year’ in a merchant’s garden. He contended that ‘the people of Toledo do eat them with great devotion’ but ‘i rather with English men to content themselves with the meat and sauce of our own country’ because ‘these apples have a mischievous quality, the use whereof is utterly to be forsaken’. Gerarde recommends ‘to esteem this plant and have him in the garden for your pleasure’. The idea of english people and english plants being suited naturally to each other, coupled with an inability to grow eggplant locally gave it a suspicious quality which remained remarkably persistant over time. Morison's 1699 Herball desctibes them as 'condemned by doctors as harmful and perverse'.  Much of Gerarde's advice was copied straight into Miller’s famous Gardeners’ dictionary of 1754 which contends that ‘these plants are only preserved as curiosities in the english gardens’ and only eaten by ‘some italians or spaniards’. The concept of exotic plants and native goodness is important here, as we see both culinary suspicion and aesthetic admiration of plants which are several steps culturally removed from our authors. 
 
 <param ve-image 
