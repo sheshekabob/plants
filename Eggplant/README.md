@@ -245,10 +245,11 @@ Eggplant was, and still is, an important food source in African countries. There
 
 <param ve-image 
        url="https://www.biodiversitylibrary.org/pageIMAGE/289117"
-       label="Piso's Belingela"
-       description="Belingela, in Willem Piso's Historia naturalis Brasiliae (1648). "
+       label="Belingela, in Willem Piso's Historia naturalis Brasiliae (1648)"
+       description="Piso's Belingela"
        license="Public domain"
-       attribution="Public domain. https://www.biodiversitylibrary.org/item/10338#page/169/mode/1up">
+       attribution="Public domain. https://www.biodiversitylibrary.org/item/10338#page/169/mode/1up"
+       region="722,1960,2954,2718">
 
 ### The expanding cultures of eggplant: agriculture 
 
