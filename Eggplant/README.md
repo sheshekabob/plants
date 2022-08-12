@@ -41,6 +41,7 @@
 <param ve-entity eid="Q3108584">
 <param ve-entity eid="Q861297">
 <param ve-entity eid="Q6352595">
+<param ve-entity eid="Q1385325">
 
 Eggplant parmesan or _parmigiana di melanzane_ is like the culinary vegetable that it features—far from straightforward. Where this recipe originated seems to be in its name. "Parmigiana" points to Parma in northern Italy, yet the hard cheese produced there is only a finishing touch of this dish, not a main ingredient. Instead, some food historians locate the birthplace of parmigiana in regions in southern Italy. The writer [Clifford Wright](http://www.cliffordawright.com/caw/food/entries/display.php/topic_id/4/id/109/) argues that written records strongly indicate Naples as the origin of the dish. Those in favor of Sicily suspect that "parmigiana" might be a mispronunciation of "palmigiana," a Sicilian word for "shutters" and perhaps a metaphor for the louvred construction of the dish, with its alternating layers of fried eggplant rounds, tomato sauce, and mozzarella. Others claim "parmigiana" might be a Sicilian word for “Persian,” _parmiciana_, and a reference to the culture that helped introduce eggplant to Europe.[^1] Though unsubstantiated, this last theory gestures to a truth greater than the facts of who did what where first. Food, culture, and plants rarely stay put in a vacuum; they move and mingle.
 
@@ -165,7 +166,7 @@ ca. 1203–1283 (author) and Muhammad ibn Muhammad Shakir Ruzmah-'i Nathani (scr
        url="https://upload.wikimedia.org/wikipedia/commons/a/a2/Muhammad_ibn_Muhammad_Shakir_Ruzmah-%27i_Nathani_-_An_Eggplant%2C_a_Plant_Called_Parsiyavushan%2C_and_Dungwort_-_Walters_W659225B_-_Full_Page.jpg"
        region="-394,-7,1974,1816">
 
-Eggplant in India paragraph. Eggplant in India paragraph. 
+Competing theories about where eggplant was first domesticated comprehend a vast swath of the world from Africa to Asia, and India has figured large in this debate. Sanskrit documents written as early as 2,300 years ago attest to the importance of this fruit in Indian culinary and medicinal traditions, but visual representations of eggplant before the modern period elude present-day scholars. However, botanical imagery by Indian artists from the nineteenth century afford another view of Solanum melongena. In the mid-nineteenth century, the Scottish surgeon Robert Wight, who was assigned to southern India by the East India Company, published _Illustrations of Indian Botany_. This two-volume set includes elaborate plates based on illustrations attributed mainly to two Indian artists, whom Wight credited: Rungiah and Govindoo.^ Although not much is known about these artists, they were Telugu speakers and likely associated with Thanjavur painting, an artistic tradition which depicted Hindu religious subjects in mostly flat, saturated colors. Rungiah and Govindoo are included under the contested art-historical umbrella known as “Company School,” or _Kampani kalam_. Company style describes the art produced by the patronage of Indian artists by the British East India Company and other foreign companies during the eighteenth and nineteenth centuries. This blend of European naturalism with the stylized, intimate, and flat qualities of Indian devotional art can also be discerned in a nineteenth-century watercolor painting of Solanum melongena from Calcutta. Also from West Bengal, a watercolor of a woman pulling a giant eggplant from a tree typifies Kalighat painting, a style that developed from religious art and portrayed themes of everyday life.  
 
 
 <param ve-image 
@@ -240,6 +241,13 @@ The importance of eggplant to China’s neighbors can also be gleaned from their
 ### Atlantic exchanges
 
 Eggplant was, and still is, an important food source in African countries. There, in addition to S. melongena, two other Solanaceae known as Guinea squash (S. aethiopicum L.) and Gboma eggplant (S. macrocarpon L.) are consumed, both of which have fruit with a characteristic bitter taste. While S. melongena would have been introduced in Latin America by the Iberian colonists, who, in turn, knew about it through the Arabs,* the Guinea squash would have been introduced by enslaved Africans from the sixteenth century onwards (check Willem Piso). Contrary to claims that slaves crossed the Atlantic with only the clothes on their backs, Carney points out that they brought also farming skills and knowledge, introducing longstanding African foodstaples (Guinea squash, sesame, okra, watermelon, millet, sorghum, black-eyed pea, among others) to the Western Hemisphere and adapting their cultivation methods to new environmental and social conditions. "Slave food fields," subsistence plots cultivated independently by slaves, were created in..... (Brazil, Jamaica... etc, check), and constituted as more than the physical space for growing food: they represented a form (albeit restricted) of access to land, in which emerged opportunities of economic autonomy (by selling the surpluses), an opportunity to strenghten subsistence security, and, signficantly, "the genesis of attempts to extract broader acknowledgment that not all of one's labor was owned by the master."**
+
+<param ve-image 
+       url="https://www.biodiversitylibrary.org/pageIMAGE/289117"
+       label="Piso's Belingela"
+       description="Belingela, in Willem Piso's Historia naturalis Brasiliae (1648). "
+       license="Public domain"
+       attribution="Public domain. https://www.biodiversitylibrary.org/item/10338#page/169/mode/1up">
 
 ### The expanding cultures of eggplant: agriculture 
 
