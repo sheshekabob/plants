@@ -96,7 +96,8 @@ url="https://raw.githubusercontent.com/sheshekabob/plants/main/Eggplant/cultivar
        label="Eggplant varieties and cultivars" 
        description="Eggplant cultivars"
        attribution="Ana Carmona-Ribeiro"
-       license="CC BY-SA 4.0">
+       license="CC BY-SA 4.0"
+       fit="contain">
 
 ### The Eggplant Emoji: Nothing New under the Sun
 
