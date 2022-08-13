@@ -57,8 +57,8 @@ license="CC BY 2.0."
 
 World cuisine today abounds with eggplant dishes. A few classics include Eastern Mediterranean or Levantine cuisine including moussaka, baba ganoush, and makdous. Other recipes include _Mchuzi wa Biringani_ ([Tanzanian eggplant curry](https://www.congocookbook.com/vegetable-and-side-dish-recipes/mchuzi-wa-biringani-eggplant-curry/)), Indian Punjab _baingan bartha_ (mashed eggplant), Chinese Sichuan _yuxiang qiezi_ (fish-fragrant eggplant), and countless other preparations. Treated as a culinary vegetable, eggplant is technically a berry since it contains small, edible seeds. Ambiguity also characterizes eggplant’s winding journey to kitchens across the globe. While this crop is a staple in Asia and the Middle East, it’s an auxiliary food in Western Europe and the Americas, where most people know of this nightshade and may have even let it pass their lips, but compared to its New World counterparts in the Solanaceae family, tomatoes, peppers, and potatoes, the eggplant lingers at the limits of their familiarity—unless of course their background is among the cultures who cultivated an early relationship with this tropical domesticate.
 
-<param ve-iframe title="Eggplant-based food by country"
-src="https://wikimap.toolforge.org/?cat=Eggplant-based_food&subcats=true&subcatdepth=1&cluster=true#close"></iframe>
+<param ve-iframe
+src="https://wikimap.toolforge.org/?cat=Eggplant-based_food&subcats=true&subcatdepth=1&cluster=true#close">
 
 
 ### A World of Eggplants
@@ -199,8 +199,8 @@ One more step removed than the Italians and Iberians in their cultural encounter
 
 As a locally informed document of India’s southwestern coast, the _Hortus Malabaricus_ is a key exception, but one that is more about potentially useful information than cultural connection. The 1678 botanical work shows how Dutch imperialists collecting on their own terms had a very different approach to eggplant than the herbalists for whom the plant arrived at their doorstep. The “author” Hendrik Adriaan Van Reede tot Drakenstein, governor of Dutch Malabar, was mostly informed by a distinguished local herbalist called Itty Achudan on plant use. He acted as a collector of local knowledge and the curator of an account geared towards recording potentially useful local knowledge, rather than growing the European botanical corpus. Thus, the first piece of information recorded is the Braman name of the eggplant, "Vaenna,” and information that the fruit could be used to cure toothaches and that its juice "relieves cows from internal abscesses.” This is very different to the European herbals which assert that the eggplant is of "no medical use." Van Reede laments that “the fruit of the nightshade in our homeland is a narcotic power: but India produces edible nightshades!” This form of cultural encounter in which the Europeans have agency as collectors rather than as suspicious local recipients engendered a portrayal of amazement towards eggplant not found in the herbals written in Europe. Assessed as though it were a new discovery, eggplant was promoted for its potential profits.
 
-<param ve-iframe title="Hortus Malabaricus"
-src="https://bibdigital.rjb.csic.es/viewer/14368/?offset=#page=228&viewer=picture&o=&n=0&q="></iframe>
+<param ve-iframe
+src="https://bibdigital.rjb.csic.es/viewer/14368/?offset=#page=228&viewer=picture&o=&n=0&q=">
 
 ### Eggplant in Western and Eastern Asia
 
