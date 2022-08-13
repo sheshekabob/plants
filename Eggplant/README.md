@@ -169,12 +169,13 @@ The physician and botanist Leonhart Fuchs described eggplants as “sown in our 
        label="Leonhart Fuchs, from New Kreüterbuch, Basel, 1543"
        description="Leonhart Fuchs"
        license="Public domain"
+       region="-736,99,3682,3388"
        fit="cover">
 <param ve-image 
-       url="https://www.biodiversitylibrary.org/page/41534506"
+       url="https://www.biodiversitylibrary.org/pageImage/41534506"
        label="Mala insana, from Leonhart Fuchs, De historia stirpium commentarii insignes (1542)"
        description="De historia stirpium commentarii insignes"
-       license="Public domain. https://www.biodiversitylibrary.org/itemImage/129744#page/567/mode/1up"
+       license="Public domain. https://www.biodiversitylibrary.org/item/129744#page/567/mode/1up"
        fit="cover">
        
 
