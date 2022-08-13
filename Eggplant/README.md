@@ -50,6 +50,7 @@
 <param ve-entity eid="Q1246493">
 <param ve-entity eid="Q61056">
 <param ve-entity eid="Q893318">
+<param ve-entity eid="Q4982032">
 
 Eggplant parmesan or _parmigiana di melanzane_ is like the culinary vegetable that it features—far from straightforward. Where this recipe originated seems to be in its name. "Parmigiana" points to Parma in northern Italy, yet the hard cheese produced there isn’t a main ingredient, only a finishing touch. Some food historians locate the birthplace of parmigiana in regions in southern Italy. The writer [Clifford Wright](http://www.cliffordawright.com/caw/food/entries/display.php/topic_id/4/id/109/) argues that written records indicate Naples as the origin of the dish. Those in favor of Sicily suspect that "parmigiana" might be a mispronunciation of "palmigiana," a Sicilian word for "shutters" and perhaps a metaphor for the louvered construction of the dish, with its alternating layers of fried eggplant rounds, tomato sauce, and mozzarella. Others claim "parmigiana" might be _parmiciana_, a Sicilian word for “Persian,” and a nod to the culture that helped introduce eggplant to Europe.[^1] Though unsubstantiated, this last theory gestures to a truth greater than the facts of who did what where first. Food, culture, and plants rarely stay in a vacuum; they move and mingle.
 
@@ -319,7 +320,7 @@ This visual and haptic sense is more pronounced in the work of Robert Mapplethor
 
 
 ### New Eggplants, Old issues: BT-Brinjal and Globalization
-In recent years, eggplant has become the center of one of the hardest fought debates over genetically modified crops. Endorsed by Cornell University, varieties of “BT brinjal,” which were designed to withstand pests and drastically reduce the need for pesticides, have been made illegal in India and the Philippines, but they are cultivated in Bangladesh. The idea of a North American institution sending  the eggplant back, in an altered form, to one of the cultures from which it originated is controversial, and this example is key to the kind of issues with which Plant Humanities deals. Plants are more than products up for laboratory improvement, but vessels for cultural meaning. People question why an ancient “indigenous” plant should need genetic modification and worry about the implications of meddling with ecological heritage. On the other hand, there is a real chance that GM crops can improve people's lives and that genetic engineering does not necessarily have to be so set against cultural heritage. Another issue is the ownership of BT brinjal by the US agrochemical giant Monsanto (now owned by Bayer), and the accusation of bio-imperialist efforts to extract maximum profits under the guise of humanitarian concerns. The plant is now wrapped up in issues of indigenous ecology, globalization, humanitarian welfare, and international conflict in a way that centers a debate about the status of the plant in immediate crises. If one thing is clear about the history of the eggplant, it is that cultures weave complex, fluid meanings around the plants on which they depend in ways that are powerful and important, but nevertheless fickle and difficult to pin down. 
+In recent years, eggplant has become the center of one of the hardest fought debates over genetically modified crops. Endorsed by Cornell University, varieties of “BT brinjal,” genetically modified brinjal or eggplant designed to withstand pests and drastically reduce the need for pesticides, have been made illegal in India and the Philippines, but they are cultivated in Bangladesh. The idea of a North American institution sending  the eggplant back, in an altered form, to one of the cultures from which it originated is controversial, and this example is key to the kind of issues with which Plant Humanities deals. Plants are more than products up for laboratory improvement, but vessels for cultural meaning. People question why an ancient “indigenous” plant should need genetic modification and worry about the implications of meddling with ecological heritage. On the other hand, there is a real chance that GM crops can improve people's lives and that genetic engineering does not necessarily have to be so set against cultural heritage. Another issue is the ownership of BT brinjal by the US agrochemical giant Monsanto (now owned by Bayer), and the accusation of bio-imperialist efforts to extract maximum profits under the guise of humanitarian concerns. The plant is now wrapped up in issues of indigenous ecology, globalization, humanitarian welfare, and international conflict in a way that centers a debate about the status of the plant in immediate crises. If one thing is clear about the history of the eggplant, it is that cultures weave complex, fluid meanings around the plants on which they depend in ways that are powerful and important, but nevertheless fickle and difficult to pin down. 
 
 <param ve-image 
        url="https://upload.wikimedia.org/wikipedia/commons/b/b7/BT_Brinjal_Protest_Bangalore_India.JPG"
@@ -328,13 +329,6 @@ In recent years, eggplant has become the center of one of the hardest fought deb
        attribution="Infoeco, <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons"
        fit="cover">
 
-<param ve-image 
-       url="bibdigital.rjb.csic.es/idviewer/10913/429"
-       label="Melanzana"
-       description="Melanzana from besler"
-       license="nicked off the internet"
-       attribution=""
-       fit="cover">
 
 ### References
 
