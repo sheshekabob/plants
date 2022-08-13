@@ -336,17 +336,17 @@ Decades later, North-American photographers further explored the formal properti
 This visual and haptic sense is more pronounced in the work of Robert Mapplethorpe, whose creative use of light and formal experimentation is derived from Weston. Mapplethorpe produced hundreds of nude studies and erotic photographs. Eroticism is, in fact, the guiding thread of his gaze, permeating his portraits of women, men, flowers, and fruit, including a sensuous bunch of grapes and his well-known work _Eggplant_ (1985). In the latter photo, a single vegetable lies alone in an unidentified space, whose neutrality is broken by banded light filtered through window blinds. Marked by sun and shade, the meaty eggplant seems to transform into a body or part of one. Its nutritional meaning falls away, and, as an object of desire, the eggplant can only be consumed as an object of lust in yet another example of its sexualization, and perhaps, also its commodification in a hyper-capitalist society. The fruit’s curves and crevices stretch our imagination and resemble the curves and crevices of the equally appealing torso that fills _Thomas (Back)_ (1986), a photo depicting an African American male model whom Mapplethorpe favored and posed in a similar studio setting.
 
 <param ve-compare curtain 
-	compare="true"
-       url="https://raw.githubusercontent.com/sheshekabob/plants/main/Eggplant/mapplethorpe.jpeg"
-       label="Robert Mapplethorpe, Eggplant (1985)" 
-       description="photography by Robert Mapplethorpe"
-       license="??????">
-<param ve-compare 
+       compare="true"
        url="https://raw.githubusercontent.com/sheshekabob/plants/main/Eggplant/mapplethorpe2.jpeg"
        label="Robert Mapplethorpe, Thomas (Back) (1986)" 
        description="photography by Robert Mapplethorpe"
        license="??????">
-
+<param ve-compare 
+       url="https://raw.githubusercontent.com/sheshekabob/plants/main/Eggplant/mapplethorpe.jpeg"
+       label="Robert Mapplethorpe, Eggplant (1985)" 
+       description="photography by Robert Mapplethorpe"
+       license="??????">
+       
 ### New Eggplants, Old issues: BT-Brinjal and Globalization
 In recent years, eggplant has become the center of one of the hardest fought debates over genetically modified crops. Endorsed by Cornell University, varieties of “BT brinjal,” genetically modified eggplant designed to withstand pests and drastically reduce the need for pesticides, have been made illegal in India and the Philippines, but they are cultivated in Bangladesh. The idea of a North American institution sending  the eggplant back, in an altered form, to one of the cultures from which it originated is controversial, and this example is key to the kind of issues with which Plant Humanities deals. Plants are more than products up for laboratory improvement, but vessels for cultural meaning. People question why an ancient “indigenous” plant should need genetic modification and worry about the implications of meddling with ecological heritage. On the other hand, there is a real chance that GM crops can improve people's lives and that genetic engineering does not necessarily have to be so set against cultural heritage. Another issue is the ownership of BT brinjal by the US agrochemical giant Monsanto (now owned by Bayer), and the accusation of bio-imperialist efforts to extract maximum profits under the guise of humanitarian concerns. The plant is now wrapped up in issues of indigenous ecology, globalization, humanitarian welfare, and international conflict in a way that centers a debate about the status of the plant in immediate crises. If one thing is clear about the history of the eggplant, it is that cultures weave complex, fluid meanings around the plants on which they depend in ways that are powerful and important, but nevertheless fickle and difficult to pin down. 
 
