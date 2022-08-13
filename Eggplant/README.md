@@ -138,7 +138,7 @@ The Villa Farnesina features 21 images of club-shaped eggplants, colored purple 
 
 <param ve-image 
 url="https://upload.wikimedia.org/wikipedia/commons/e/e7/Giuseppe_Arcimboldo_-_Summer_-_Google_Art_Project.jpg"
-       label="Giuseppe Arcimboldo, _Zommer_(1563), from the_ Four Seasons_ series, oil on canvas"
+       label="Giuseppe Arcimboldo, Zommer (1563), from the Four Seasons series, oil on canvas"
        description="Summer"
        license="Public domain"
        region="-970,1,6930,6376">
@@ -147,7 +147,7 @@ Not only visually striking, Arcimboldo’s compositions defied a distinction mad
 
 <param ve-image 
 url="https://upload.wikimedia.org/wikipedia/commons/b/b5/Vertumnus_%C3%A5rstidernas_gud_m%C3%A5lad_av_Giuseppe_Arcimboldo_1591_-_Skoklosters_slott_-_91503.tiff"
-       label="Giuseppe Arcimboldo, a portrait of Rudolf II, Holy Roman Emperor as Vertumnus, the Roman god of the seasons, c. 1590–91, oil on canvas" 
+       label="Giuseppe Arcimboldo, Vertumnus (c. 1590–91), a portrait of Rudolf II, oil on canvas" 
 description="Vertumnus"
 license="Public domain"
 region="-2293,-53,16382,14731">
