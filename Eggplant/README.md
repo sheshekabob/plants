@@ -42,6 +42,7 @@
 <param ve-entity eid="Q861297">
 <param ve-entity eid="Q6352595">
 <param ve-entity eid="Q1385325">
+<param ve-entity eid="Q60756">
 
 Eggplant parmesan or _parmigiana di melanzane_ is like the culinary vegetable that it features—far from straightforward. Where this recipe originated seems to be in its name. "Parmigiana" points to Parma in northern Italy, yet the hard cheese produced there isn’t a main ingredient, only a finishing touch. Some food historians locate the birthplace of parmigiana in regions in southern Italy. The writer [Clifford Wright](http://www.cliffordawright.com/caw/food/entries/display.php/topic_id/4/id/109/) argues that written records indicate Naples as the origin of the dish. Those in favor of Sicily suspect that "parmigiana" might be a mispronunciation of "palmigiana," a Sicilian word for "shutters" and perhaps a metaphor for the louvered construction of the dish, with its alternating layers of fried eggplant rounds, tomato sauce, and mozzarella. Others claim "parmigiana" might be _parmiciana_, a Sicilian word for “Persian,” and a nod to the culture that helped introduce eggplant to Europe.[^1] Though unsubstantiated, this last theory gestures to a truth greater than the facts of who did what where first. Food, culture, and plants rarely stay in a vacuum; they move and mingle.
 
@@ -157,11 +158,19 @@ In the sixteenth century, cultural responses to eggplant were shaped by the conn
        url="https://github.com/sheshekabob/plants/blob/main/Eggplant/Besler1.jpg?raw=true"
        label="Basilius Besler, Hortus Eystettensis ( Oak Springs)"
        description="Eggplant illustrated in Besler's Hortus Eystettensis"
-       license=" Need to ask for permission"
+       license="Need to ask for permission"
        attribution="Oak springs"
        fit="cover">
 
 The physician and botanist Leonhart Fuchs described eggplants as “sown in our gardens, but frequently in…hanging window gardens” with cucumbers and melons. Fuchs’ German botanical tradition owed much to Swiss and Italian scholarship, and his warmer climate in Tübingen connected him to this botanical culture. Northern Mediterranean eggplant encounters involved some suspicion, but were dictated mostly by shared food culture. To suggest that suspicion of the eggplant was greatly exaggerated, an amused Fuchs wrote that some people “immediately avoid the use of them, terrified by the name itself.” Biologically speaking, the eggplant could grow in European climes, but cultural bias against foreign foods shaped the way people interacted with the plant.  
+
+<param ve-image 
+       url="https://upload.wikimedia.org/wikipedia/commons/4/49/Leonhart_Fuchs_1543.jpg"
+       label="Leonhart Fuchs, from New Kreüterbuch, Basel, 1543"
+       description="Leonhart Fuchs"
+       license="Public domain"
+       fit="cover">
+
 
 <param ve-image 
        url="bibdigital.rjb.csic.es/idviewer/10913/429"
@@ -238,7 +247,6 @@ Art and literature attest to a profound human relationship with the eggplant in 
        license="CC BY-SA 4.0"
        attribution="© The Trustees of the British Museum"
        fit="cover">
-
 
 The importance of eggplant to China’s neighbors can also be gleaned from their artistic and literary traditions. A Korean artist of the Joseon Dynasty, Shin Saimdang (1504–1551), mother of the Confucian scholar and politician Yi I, included eggplant among still-life paintings on an eight-panel screen. These delicate compositions represent _Chochungdo_ ("insects on flowers"), a genre developed by Shin Saimdang, who emphasized careful observation of Korean flora and fauna.^ Among sites of eggplant cultivation, northern Vietnam is included in what some believe to be China’s earliest botanical treatise, the fourth-century _Nanfang Caomu Zhuang_ (Plants of the Southern Regions) by Ji Han. The ancient Vietnamese trading port of Hội An was the site where an early sixteenth-century [water dropper](https://www.britishmuseum.org/collection/object/A_2001-1129-5_1) in the shape of an upright eggplant was excavated. During the eighth century, eggplant reached Japan from China.* The agricultural text _Seikei zusetsu_, compiled in southern Japan around the start of the nineteenth century, features a sumptuous print of eggplant described as “Bohai,” possibly indicating its Chinese origins. As revealed by its hybrid visual style, this encyclopedic project was the outcome of nearly two centuries of exchange between Japanese and European scholarship through the presence of the Dutch East India Company in Nagasaki.# Since the Edo period (1603–1867), eggplant has belonged to a New Year’s tradition. In Japan, a _hatsuyume_ is the first dream that someone has after December 31, and dreaming of Mount Fuji, a hawk, and an eggplant are auspicious signs for the rest of the year. Different theories abound over the meaning of these items in this context. One idea is the significance of homophones in Japan. “Eggplant” in Japanese is _nasu_ (ナス), which sounds like the verbs for “accomplish” or “succeed.”% Numerous prints and other forms of [Japanese visual culture](https://collections.mfa.org/search/objects/*/eggplant%20fuji) juxtapose these three items.
 
