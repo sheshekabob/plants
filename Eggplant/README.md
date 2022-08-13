@@ -142,7 +142,7 @@ region="-2293,-53,16382,14731">
 
 ### European Herbals: Secondhand and Thirdhand Encounters
 
-Cultural responses to eggplant in Early Modern Europe were largely dependent on the connection from which eggplant encounters came. Europeans were usually two or three steps removed from the eggplant cultures of India and China, with Iberic and Italian food culture influenced by Islamic and Jewish Mediterranean connections, and English botanists only finding eggplant through their European neighbours. The Hortus Malabaricus is a key exception, as a locally informed document of India’s south western coast, but that is more about potentially useful information than cultural connection.
+In the sixteenth century, cultural responses to eggplant were shaped by the connections that allowed encounters with this fruit. Europeans were usually two or three steps removed from the food cultures of India and China, as the eggplant traveled by Islamic trade routes to the southern Mediterranean. Italy and Iberia had key connections with the Islamic world in both trade and warfare and thus a third-degree connection to eggplant, through Islamic and Jewish communities. In sixteenth-century Italy, the doctor and naturalist Pietro Andrea Mattioli wrote that eggplant was “generally eaten cooked with oil, salt, pepper and mushrooms,” adding that “some of our people…feed on the mad-apple in order to arouse love.” Mattioli also warned that this food was hard to digest and created digestive illnesses and long-lasting health issues. 
 
 <param ve-compare curtain
        curtain="true"
