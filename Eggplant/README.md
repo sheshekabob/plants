@@ -329,7 +329,7 @@ Avant-garde European painting such as Henri Matisse's _Still Life with Aubergine
        description="Henri Matisse"
        license="Ville de Grenoble / Musée de Grenoble-J.L.Lacroix © Succession H. Matisse"
        attribution="Musée de Grenoble. https://www.museedegrenoble.fr"
-       fit="cover">
+       fit="contain">
        
 Decades later, North-American photographers further explored the formal properties of the fruit, its shape, color and texture. Throught abstraction and a highly refined sense of composition and light, Edward Weston (1886-1958) depicts, in _Eggplant_ (1930) a dark globular cultivar -- the same variety of US' agricultural manuals of the end of the 19th century. As in many of his works, here he unveils the unexpected and the marvellous of natural elements and everyday objects, and their connections with the human body**. Although the reference to the dietary significance of the eggplant is still present (as the white plate proves),  the shiny ridged vegetable awakens also an aesthetical visual approach, and the urge to actually touch it and feel the smoothness of the skin, the firmness of the flesh.
 
@@ -339,7 +339,7 @@ Decades later, North-American photographers further explored the formal properti
        description="Henri Matisse"
        license="Ville de Grenoble / Musée de Grenoble-J.L.Lacroix © Succession H. Matisse"
        attribution="Musée de Grenoble. https://www.museedegrenoble.fr"
-       fit="cover">
+       fit="contain">
        
 This visual and haptic sense is more pronounced in the work of Robert Mapplethorpe, whose creative use of light and formal experimentation is derived from Weston. Mapplethorpe produced hundreds of nude studies and erotic photographs. Eroticism is, in fact, the guiding thread of his gaze, permeating his portraits of women, men, flowers, and fruit, including a sensuous bunch of grapes and his well-known work _Eggplant_ (1985). In the latter photo, a single vegetable lies alone in an unidentified space, whose neutrality is broken by banded light filtered through window blinds. Marked by sun and shade, the meaty eggplant seems to transform into a body or part of one. Its nutritional meaning falls away, and the eggplant can only be consumed as an object of lust in yet another example of its sexualization, and perhaps, also its commodification in a hyper-capitalist society. The fruit’s curves and crevices stretch our imagination and resemble the curves and crevices of the equally appealing torso that fills _Thomas (Back)_ (1986), a photo depicting an African American male model whom Mapplethorpe favored and posed in a similar studio setting.
 
