@@ -54,7 +54,7 @@ description="Baked aubergines with Parmesan cheese"
 license="CC BY 2.0."
        region="0,153,1912,984">
 
-World cuisine today abounds with eggplant dishes. A few classics include Eastern Mediterranean or Levantine cuisine including moussaka, baba ganoush, and makdous. Other recipes include _Mchuzi wa Biringani_ ([Tanzanian eggplant curry](https://www.congocookbook.com/vegetable-and-side-dish-recipes/mchuzi-wa-biringani-eggplant-curry/)), Indian Punjab _baingan bartha_ (mashed eggplant), Chinese Sichuan _yuxiang qiezi_ (fish-fragrant eggplant), and countless other preparations. Treated as a culinary vegetable, eggplant is technically a berry since it contains small, edible seeds. Ambiguity also characterizes eggplant’s winding journey to kitchens across the globe. Commercially, the eggplant is global, yet more than 80% of its [production](https://en.wikipedia.org/wiki/List_of_countries_by_eggplant_production) occurs in China and India, followed by Egypt, Turkey, and Indonesia. This distribution reflects how eggplant has been incorporated into various food cultures, and the extent to which each culture has incorporated it. While this crop is a staple in Asia and the Middle East, it’s an auxiliary food in Western Europe and the Americas, where most people know of this nightshade and may have even let it pass their lips, but compared to its New World counterparts in the Solanaceae family, tomatoes, peppers, and potatoes, the eggplant lingers at the limits of their familiarity—unless of course their background is among the cultures who cultivated an early relationship with this tropical domesticate.
+World cuisine today abounds with eggplant dishes. A few classics include Eastern Mediterranean or Levantine cuisine including moussaka, baba ganoush, and makdous. Other recipes include _Mchuzi wa Biringani_ ([Tanzanian eggplant curry](https://www.congocookbook.com/vegetable-and-side-dish-recipes/mchuzi-wa-biringani-eggplant-curry/)), Indian Punjab _baingan bartha_ (mashed eggplant), Chinese Sichuan _yuxiang qiezi_ (fish-fragrant eggplant), and countless other preparations. Treated as a culinary vegetable, eggplant is technically a berry since it contains small, edible seeds. Ambiguity also characterizes eggplant’s winding journey to kitchens across the globe. While this crop is a staple in Asia and the Middle East, it’s an auxiliary food in Western Europe and the Americas, where most people know of this nightshade and may have even let it pass their lips, but compared to its New World counterparts in the Solanaceae family, tomatoes, peppers, and potatoes, the eggplant lingers at the limits of their familiarity—unless of course their background is among the cultures who cultivated an early relationship with this tropical domesticate.
 
 <param ve-iframe title="Eggplant-based food by country"
 src="https://wikimap.toolforge.org/?cat=Eggplant-based_food&subcats=true&subcatdepth=1&cluster=true#close"></iframe>
@@ -62,7 +62,14 @@ src="https://wikimap.toolforge.org/?cat=Eggplant-based_food&subcats=true&subcatd
 
 ### A World of Eggplants
 
-Following the eggplant through global history demonstrates the reciprocity of plant-and-human relationships: culture and its agents define plants, and plants in turn define culture. In the case of the eggplant, what was an ancient and storied plant in India and China also became richly appreciated in the rest of the Far East, as well as in Persian and early Islamic cultures to the west. Home to many of eggplant’s wild relatives, Africa also established a deep connection with this crop early on. Through Mediterranean exchange in the early modern period, Jewish and Muslim communities helped bring eggplant into popularity in Italy, Spain, and Portugal—and by extension, the Americas. Eggplant also reached northern Europe, whose botanical communities were initially more interested in its exotic appeal than its culinary or medicinal uses. From Europe, the eggplant moved through the networks of empires into the modern global food trade. 
+As a commodity, the eggplant is global, yet more than 80% of its [production](https://en.wikipedia.org/wiki/List_of_countries_by_eggplant_production) occurs in China and India, followed by Egypt, Turkey, and Indonesia. This distribution reflects how eggplant has been incorporated into various food cultures, and the extent to which each culture has incorporated it. Following the eggplant through global history demonstrates the reciprocity of plant-and-human relationships: culture and its agents define plants, and plants in turn define culture. In the case of the eggplant, what was an ancient and storied plant in India and China also became richly appreciated in the rest of the Far East, as well as in Persian and early Islamic cultures to the west. Home to many of eggplant’s wild relatives, Africa also established a deep connection with this crop early on. Through Mediterranean exchange in the early modern period, Jewish and Muslim communities helped bring eggplant into popularity in Italy, Spain, and Portugal—and by extension, the Americas. Eggplant also reached northern Europe, whose botanical communities were initially more interested in its exotic appeal than its culinary or medicinal uses. From Europe, the eggplant moved through the networks of empires into the modern global food trade. 
+
+<param ve-image 
+       url="https://upload.wikimedia.org/wikipedia/commons/2/26/Countries_by_eggplant_production_in_2020.png"
+       label="World map coloured by Eggplant production"
+       description="Darker areas show greater Eggplant production"
+       license="Creative commons"
+       fit="cover">  
 
 The etymologies of [_Solanum melongena_ L.,](https://en.wikipedia.org/wiki/Eggplant) the scientific name for the common eggplant devised by Carl Linnaeus in 1753 following the rules of his game-changing binomial system of classification, constitute a way of understanding the global exchanges in which this plant took part. Still used by North Americans, the name _eggplant_ was coined in the sixteenth century by the English, who nowadays prefer the French word _aubergine_, which in turn seems to be a corruption of the Arab word _al-babingãn_. Portuguese and Spanish speakers also use the Arab names _berinjela_ and _berenjena_. The Indian term _baingãn_ is critical in this Western alphabet soup since it’s apparently the basis of all the other words. However, India now also uses the term _brinjal_, a corruption from the already corrupted Portuguese _berinjela_. Although certain African countries currently use _brinjal_, the region of the former long-lasting Ethiopian Empire is home to the word _mälänzana_, probably imported into Italy, where it was transformed into _mala insana_ ("crazy apple") and finally, the contemporary _melanzana_.
 
@@ -114,19 +121,7 @@ url="https://upload.wikimedia.org/wikipedia/commons/a/af/Le_concile_des_Dieux_da
 description="Villa Farnesina"
        attribution="Jean-Pierre Dalbéra from Paris, France"
 license="CC BY 2.0.">
-
-### Art and vegetables in the Renaissance
-
-### World distribution
-
-Eggplant is now commercially a global plant, but the vast majority of eggplant production takes place in Bangladesh, India, and China where it is a staple food in a way that it isn't in Western Europe or North America. It grows mostly between the tropics and those places in which it was native in ancient times remain the principle producers of the plant. This is indicative of the different ways Eggplant has been incorporated into food culture around the world, in particular how the plant is a staple crop in China, India, and Bangladesh, and a popular auxiliary vegetable in Europe and North America. Eggplant travelled round the world first through Islamic trade networks which connected India with the southern Mediterranean. Then as eggplant became popular in Iberia and Italy through contact with muslim and jewish groups and states it was connected into the colonial trade network which brought it to North and Central America where it became popular.
-
-<param ve-image 
-       url="https://upload.wikimedia.org/wikipedia/commons/2/26/Countries_by_eggplant_production_in_2020.png"
-       label="World map coloured by Eggplant production"
-       description="Darker areas show greater Eggplant production"
-       license="Creative commons"
-       fit="cover">      
+    
 
 ### Europe and Western 'interest' and 'ignorance' about the plant
 Cultural responses to eggplant in Early Modern Europe were largely dependent on the connection from which eggplant encounters came. Europeans were usually two or three steps removed from the eggplant cultures of India and China, with Iberic and Italian food culture influenced by Islamic and Jewish Mediterranean connections, and English botanists only finding eggplant through their European neighbours. The Hortus Malabaricus is a key exception, as a locally informed document of India’s south western coast, but that is more about potentially useful information than cultural connection.
