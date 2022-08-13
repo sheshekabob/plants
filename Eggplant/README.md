@@ -43,7 +43,7 @@
 <param ve-entity eid="Q6352595">
 <param ve-entity eid="Q1385325">
 <param ve-entity eid="Q60756">
-<param ve-entity eid="Q7751">
+<param ve-entity eid="Q7751"> <!-- Arcimboldo -->
 <param ve-entity eid="Q50662777">
 <param ve-entity eid="Q8011">
 <param ve-entity eid="Q131401">
@@ -51,9 +51,6 @@
 <param ve-entity eid="Q61056">
 <param ve-entity eid="Q893318">
 <param ve-entity eid="Q4982032"> 
-<param ve-entity eid="Q7751"> <!-- Arcimboldo -->
-<param ve-entity eid="Q50662777"> <!-- Kunstkammer -->
-
 
 Eggplant parmesan or _parmigiana di melanzane_ is like the culinary vegetable that it features—far from straightforward. Where this recipe originated seems to be in its name. "Parmigiana" points to Parma in northern Italy, yet the hard cheese produced there isn’t a main ingredient, only a finishing touch. Some food historians locate the birthplace of parmigiana in regions in southern Italy. The writer [Clifford Wright](http://www.cliffordawright.com/caw/food/entries/display.php/topic_id/4/id/109/) argues that written records indicate Naples as the origin of the dish. Those in favor of Sicily suspect that "parmigiana" might be a mispronunciation of "palmigiana," a Sicilian word for "shutters" and perhaps a metaphor for the louvered construction of the dish, with its alternating layers of fried eggplant rounds, tomato sauce, and mozzarella. Others claim "parmigiana" might be _parmiciana_, a Sicilian word for “Persian,” and a nod to the culture that helped introduce eggplant to Europe.[^1] Though unsubstantiated, this last theory gestures to a truth greater than the facts of who did what where first. Food, culture, and plants rarely stay in a vacuum; they move and mingle.
 
