@@ -83,7 +83,7 @@ The etymologies of [_Solanum melongena_ L.,](https://en.wikipedia.org/wiki/Eggpl
 
 <param ve-image 
 url="https://pic.blog.plover.com/lang/etym/eggplant-map/eggplant-map.png"
-       label="The Diffusion of Eggplant Etymologies" 
+       label="Different words for Eggplants" 
        description="Etymology"
        attribution="https://blog.plover.com/lang/etym/eggplant-map.html"
        license="Permission pending"
@@ -291,7 +291,7 @@ Eggplant remains an important food source in countries of Africa. Along with _S.
 <param ve-image 
        url="https://www.biodiversitylibrary.org/pageIMAGE/289117"
        label="Belingela, in Willem Piso's Historia naturalis Brasiliae (1648)"
-       description="Piso's Belingela"
+       description="Belingela or guinea squash"
        license="Public domain"
        attribution="Public domain. https://www.biodiversitylibrary.org/item/10338#page/169/mode/1up"
        region="722,1960,2954,2718">
@@ -314,14 +314,14 @@ As _S. melongena_ settled into Western culture, shedding some of its exoticism a
        url="https://morsemuseum.org/wp-content/uploads/2022/03/eggplant.jpg"
        label="Tiffany & Co., Eggplant transom (c.1879-81), leaded glass"
        description="Tiffany transom"
-       license="?????"
+       license="Permission pending"
        attribution="The Charles Hosmer Morse Museum of American Art. https://morsemuseum.org"
        fit="cover">
 <param ve-image 
        url="https://raw.githubusercontent.com/sheshekabob/plants/main/Eggplant/majolica%20teapot.jpg"
        label="Eggplant teapot, Portuguese Majolica ceramics"
        description="Teapot"
-       license="?????"
+       license="Permission pending"
        attribution="Majolica International Society. http://majolicasociety.com"
        fit="contain">
        
@@ -331,7 +331,7 @@ Avant-garde European painting such as Henri Matisse's _Still Life with Aubergine
        url="https://images.navigart.fr/1000/5C/85/5C85774.jpg"
        label="Henri Matisse, Still Life with Aubergines (1911), tempera painting"
        description="Henri Matisse"
-       license="Ville de Grenoble / Musée de Grenoble-J.L.Lacroix © Succession H. Matisse"
+       license="Permission pending - Musée de Grenoble-J.L.Lacroix © Succession H. Matisse"
        attribution="Musée de Grenoble. https://www.museedegrenoble.fr"
        fit="contain">
        
@@ -341,7 +341,7 @@ Decades later, North-American photographers further explored the formal properti
        url="https://raw.githubusercontent.com/sheshekabob/plants/main/Eggplant/Weston.jpg"
        label="Edward Weston, Eggplant (1930), gelatin silver print"
        description="Edward Weston"
-       license="???????"
+       license="Permission pending"
        attribution="???????"
        fit="contain">
        
@@ -352,13 +352,13 @@ This visual and haptic sense is more pronounced in the work of Robert Mapplethor
        url="https://raw.githubusercontent.com/sheshekabob/plants/main/Eggplant/mapplethorpe5.jpg"
        label="Robert Mapplethorpe, Thomas (Back) (1986), gelatin silver print" 
        description="photography by Robert Mapplethorpe"
-       license="??????"
+       license="Permission pending"
        attribution="Fine Arts Museum of San Francisco. https://art.famsf.org/">
 <param ve-compare 
        url="https://raw.githubusercontent.com/sheshekabob/plants/main/Eggplant/mapplethorpe.jpeg"
        label="Robert Mapplethorpe, Eggplant (1985), gelatin silver print" 
        description="photography by Robert Mapplethorpe"
-       license="Copyright © Robert Mapplethorpe Foundation">
+       license="Permission pending - Copyright © Robert Mapplethorpe Foundation">
        
 ### New Eggplants, Old issues: BT-Brinjal and Globalization
 In recent years, eggplant has become the center of one of the hardest fought debates over genetically modified crops. Endorsed by Cornell University, varieties of “BT brinjal,” genetically modified eggplant designed to withstand pests and drastically reduce the need for pesticides, have been made illegal in India and the Philippines, but they are cultivated in Bangladesh. The idea of a North American institution sending  the eggplant back, in an altered form, to one of the cultures from which it originated is controversial, and this example is key to the kind of issues with which Plant Humanities deals. Plants are more than products up for laboratory improvement, but vessels for cultural meaning. People question why an ancient “indigenous” plant should need genetic modification and worry about the implications of meddling with ecological heritage. On the other hand, there is a real chance that GM crops can improve people's lives and that genetic engineering does not necessarily have to be so set against cultural heritage. Another issue is the ownership of BT brinjal by the US agrochemical giant Monsanto (now owned by Bayer), and the accusation of bio-imperialist efforts to extract maximum profits under the guise of humanitarian concerns. The plant is now wrapped up in issues of indigenous ecology, globalization, humanitarian welfare, and international conflict in a way that centers a debate about the status of the plant in immediate crises. If one thing is clear about the history of the eggplant, it is that cultures weave complex, fluid meanings around the plants on which they depend in ways that are powerful and important, but nevertheless fickle and difficult to pin down. 
