@@ -180,14 +180,6 @@ The physician and botanist Leonhart Fuchs described eggplants as “sown in our 
        fit="cover">
        
 
-<param ve-image 
-       url="bibdigital.rjb.csic.es/idviewer/10913/429"
-       label="Basilius Besler, Hortus Eystettensis (Botanical Gardens Madrid)"
-       description="Eggplant illustrated in Besler's Hortus Eystettensis"
-       license=" Need to ask for permission"
-       attribution="Madrid Gardens"
-       fit="cover">
-
 One more step removed than the Italians and Iberians in their cultural encounters, authors of English herbals were deeply suspicious of eggplant. In his highly successful 1597 _Herball_ (and Thomas Johnson’s popular 1633 edition), John Gerard wrote that he saw only one fruit “of the bigness of a goose egg one extraordinary temperate year” in a merchant’s garden. He contended that “the people of Toledo do eat them with great devotion,” but “I rather with English men to content themselves with the meat and sauce of our own country,” because “these apples have a mischievous quality, the use whereof is utterly to be forsaken.” Gerard recommended “to esteem this plant and have him in the garden for your pleasure.” The idea of English people and English plants being suited naturally to each other, coupled with an inability to grow eggplant locally gave it a doubtful quality, which persisted over time. The Scottish botanist and taxonomist Robert Morison's 1699 _Historia Plantarum Universalis Oxoniensis (Vol. 3)_ describes them as “condemned by doctors as harmful and perverse.” Much of Gerard's advice was copied straight into Philip Miller’s famous _The Gardeners Dictionary_ of 1754, which contends that “these plants are only preserved as curiosities in the English gardens” and only eaten by “some Italians or Spaniards.” The concept of exotic plants and native goodness is important, as we see both culinary prejudice and aesthetic admiration of plants that are several steps culturally removed from these authors. Just as Fuchs suggested that association with Islamic culture at first made Italians suspicious of the eggplant, its ties to Spanish and Italian culture made the plant seem strange to British gardeners. 
 
 <param ve-knightlab-timeline
