@@ -322,6 +322,13 @@ This visual and haptic sense is more pronounced in the work of Robert Mapplethor
 In recent years, eggplant has become the center of one of the hardest fought debates over genetically modified crops. Endorsed by Cornell University, varieties of “BT brinjal,” which were designed to withstand pests and drastically reduce the need for pesticides, have been made illegal in India and the Philippines, but they are cultivated in Bangladesh. The idea of a North American institution sending  the eggplant back, in an altered form, to one of the cultures from which it originated is controversial, and this example is key to the kind of issues with which Plant Humanities deals. Plants are more than products up for laboratory improvement, but vessels for cultural meaning. People question why an ancient “indigenous” plant should need genetic modification and worry about the implications of meddling with ecological heritage. On the other hand, there is a real chance that GM crops can improve people's lives and that genetic engineering does not necessarily have to be so set against cultural heritage. Another issue is the ownership of BT brinjal by the US agrochemical giant Monsanto (now owned by Bayer), and the accusation of bio-imperialist efforts to extract maximum profits under the guise of humanitarian concerns. The plant is now wrapped up in issues of indigenous ecology, globalization, humanitarian welfare, and international conflict in a way that centers a debate about the status of the plant in immediate crises. If one thing is clear about the history of the eggplant, it is that cultures weave complex, fluid meanings around the plants on which they depend in ways that are powerful and important, but nevertheless fickle and difficult to pin down. 
 
 <param ve-image 
+       url="https://upload.wikimedia.org/wikipedia/commons/b/b7/BT_Brinjal_Protest_Bangalore_India.JPG"
+       label="Baskets of many different kind of Brinjal (aka "Eggplant") put out by protesters during the listening tour of India's environment minister relating to the introduction of BT Brinjal. Spring 2010 in Bangalore, India."
+       license="CC BY-SA 3.0"
+       attribution="Infoeco, <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons"
+       fit="cover">
+
+<param ve-image 
        url="bibdigital.rjb.csic.es/idviewer/10913/429"
        label="Melanzana"
        description="Melanzana from besler"
