@@ -1,7 +1,7 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 
 <param ve-config 
-       title="Eggplant"
+       title="Eggplant: an expanding culture"
        author="Ana Carolina Carmona-Ribeiro, Nathan Cornish, and Sheila Scoville"
        banner="https://upload.wikimedia.org/wikipedia/commons/8/87/Chochungdo_02.jpg"
        layout="vertical">
