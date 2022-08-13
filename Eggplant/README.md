@@ -324,7 +324,7 @@ As _S. melongena_ settled into Western culture, shedding some of its exoticism a
 Avant-garde European painting such as Henri Matisse's _Still Life with Aubergines_ (1911) also reveal the expanding cultural meaning of eggplant and its normalization as a household object. In this painting, the three purple eggplants represent much more than culinary ingredients. "Balanced precariously on a table whose red cloth carries an undulating white pattern that reinforces their tuberous shape," they seem to be the visual starting point of a decorative explosion of textures and colors, which spread throughout the interior and beyond, as shown by the mirror, the open back door, and the window with a landscape in the distance. This painting reveals one of Matisse's fundamental themes: the conversion of his own studio into an imaginary space, permeated by the _joie de vivre_ ("joy of life"). In this personal recreation of the garden of paradise, the painter's great admiration for Persian miniatures and Asian art emerge, and eggplants, without losing their domestic character, are reconnected to their origins, beyond the Mediterranean, in the remote Middle and Far East.
 
 <param ve-image 
-       url="https://www.museedegrenoble.fr/oeuvre/1581/1922-interieur-aux-aubergines.htm"
+       url="https://images.navigart.fr/1000/5C/85/5C85774.jpg"
        label="Henri Matisse, Still Life with Aubergines (1911), tempera painting"
        description="Henri Matisse"
        license="Ville de Grenoble / Musée de Grenoble-J.L.Lacroix © Succession H. Matisse"
