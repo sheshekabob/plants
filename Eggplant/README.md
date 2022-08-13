@@ -57,7 +57,6 @@
 
 Eggplant parmesan or _parmigiana di melanzane_ is like the culinary vegetable that it features—far from straightforward. Where this recipe originated seems to be in its name. "Parmigiana" points to Parma in northern Italy, yet the hard cheese produced there isn’t a main ingredient, only a finishing touch. Some food historians locate the birthplace of parmigiana in regions in southern Italy. The writer [Clifford Wright](http://www.cliffordawright.com/caw/food/entries/display.php/topic_id/4/id/109/) argues that written records indicate Naples as the origin of the dish. Those in favor of Sicily suspect that "parmigiana" might be a mispronunciation of "palmigiana," a Sicilian word for "shutters" and perhaps a metaphor for the louvered construction of the dish, with its alternating layers of fried eggplant rounds, tomato sauce, and mozzarella. Others claim "parmigiana" might be _parmiciana_, a Sicilian word for “Persian,” and a nod to the culture that helped introduce eggplant to Europe.[^1] Though unsubstantiated, this last theory gestures to a truth greater than the facts of who did what where first. Food, culture, and plants rarely stay in a vacuum; they move and mingle.
 
-
 <param ve-image 
 url="https://upload.wikimedia.org/wikipedia/commons/8/8b/Melanzane_alla_Parmigiana.jpg"
        label="Melanzane alla Parmigiana" 
@@ -109,18 +108,19 @@ Compared to much of the rest of the world, Europe and the Americas had a belated
 <param ve-image 
 url="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Twemoji_1f346.svg/2048px-Twemoji_1f346.svg.png"
        label="A colored Emoji from Twitter Emoji project" 
-description="Twitter Emoji"
+       description="Twitter Emoji"
        attribution="Twitter"
-license="CC BY 2.0.">
+       license="CC BY 2.0."
+       fit="contain">
 
 The digital age is just the latest chapter of the eggplant’s erotic entanglements. Written in Sanskrit roughly 2,000 years ago, the _Kama Sutra_ touts this nightshade as a libido booster. This ancient Indian self-help guide recommends rubbing the male member, or “lingam,” with eggplant to produce “a swelling lasting for one month.” As questionable as it sounds, this claim is not far from the mark. [Recent](https://www.escardio.org/The-ESC/Press-Office/Press-releases/mediterranean-diet-shows-promise-in-men-with-erectile-dysfunction) [studies](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6893753/) have shown that eating more eggplant can reduce hypertension, a major cause of [erectile dysfunction.](https://www.webmd.com/hypertension-high-blood-pressure/guide/high-blood-pressure-erectile-dysfunction) Around the time that the _Kama Sutra_ was written, practitioners of Ayurveda, a classical system of Indian medicine, documented the many health benefits of certain wild relatives of the eggplant, species still found in pharmacopeias today. Among the world’s earliest records of eggplant are foundational Ayurvedic texts like the _Charaka Samhita_ and _Sushruta Samhita_. Written a millennium later, in the eleventh century, the _Taqwim al-Sihhah_ (The Maintenance of Health) by the Arab physician Ibn Buṭlān of Baghdad features eggplant again in a sexual context. Translated into Latin and illustrated in Italy as the _Tacuinum Sanitatis_, this medical treatise includes versions depicting a couple loitering by an oversized eggplant bush. Under the spell of the risqué fruit, they engage in a triste to the dismay of a woman nearby. 
 
 <param ve-image 
 url="https://raw.githubusercontent.com/sheshekabob/plants/main/IBN_BUTLA%CC%82N_Tacuinum_sanitatis__btv1b105072169_55.jpeg"
        label="Folio 21r of the Tacuinum sanitatis, Latin 9333, originally by Ibn Buṭlān" 
-description="Tacuinum sanitatis, Latin 9333"
+       description="Tacuinum sanitatis, Latin 9333"
        attribution="gallica.bnf.fr / Bibliothèque nationale de France"
-license="CC BY 2.0."
+       license="CC BY 2.0."
        region="0,49,1024,943">
 
 ### Eggplant in the Renaissance: Between Art and Natural History
@@ -130,14 +130,14 @@ _Gastronomica_ writer John Varriano notes the sexual innuendo of food and botani
 <param ve-image 
 url="https://upload.wikimedia.org/wikipedia/commons/a/af/Le_concile_des_Dieux_dans_la_loggia_d%27Amour_et_de_Psych%C3%A9_%28Villa_Farnesina%2C_Rome%29_%2833898412830%29.jpg"
        label="The Council of the Gods in the Loggia of Cupid and Psyche by Raphael, festoons by Giovanni da Udine, Villa Farnesina, Rome" 
-description="Villa Farnesina"
+       description="Villa Farnesina"
        attribution="Jean-Pierre Dalbéra from Paris, France"
-license="CC BY 2.0.">
+       license="CC BY 2.0.">
 
 The Villa Farnesina features 21 images of club-shaped eggplants, colored purple and white or deep yellow, indicating maturity. Many other illusionistic Renaissance murals juxtapose plants and animals with figures of Classical mythology—more examples of the ambiguity "at the heart of early modern scientific enquiry," and of a particular cultural climate that preceded the establishment of modern science. In the sixteenth century, interest in natural history dovetailed art and botanical study, pursuits that mutually benefited each other. Like Albrecht Dürer and Leonardo da Vinci, the Italian artist Giuseppe Arcimboldo included botanical illustration in his artistic repertoire, using this knowledge to create the visual puns that make his work a hit in museums today. Arcimboldo served the Habsburg family in Austria, working in an "avant-garde atmosphere" that included a [_Kunstkammer_,](https://www.metmuseum.org/toah/hd/kuns/hd_kuns.htm) a zoo, and parties in which the court dressed as the elements and seasons, following the artist's designs. Arcimboldo is best known for portraits of people composed of painted vegetables, fruits, legumes, cereals, foliage, and flowers. In his painting _Zomer_ (1563), a club-shaped eggplant and an elongated, white eggplant suggest, along with dozens of other vegetables, the head and neck of an allegory for "Summer." In _Vertumnus_ (c. 1590), the Habsburg emperor Rudolf II is represented as the Roman god who presided over the seasons, change, and the growth of plants. Once again, an elongated eggplant is part of the emperor's “neck.” 
 
 <param ve-image 
-url="https://upload.wikimedia.org/wikipedia/commons/e/e7/Giuseppe_Arcimboldo_-_Summer_-_Google_Art_Project.jpg"
+       url="https://upload.wikimedia.org/wikipedia/commons/e/e7/Giuseppe_Arcimboldo_-_Summer_-_Google_Art_Project.jpg"
        label="Giuseppe Arcimboldo, Zommer (1563), from the Four Seasons series, oil on canvas"
        description="Summer"
        license="Public domain"
