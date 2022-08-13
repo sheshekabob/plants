@@ -150,7 +150,7 @@ In the sixteenth century, cultural responses to eggplant were shaped by the conn
        url="https://raw.githubusercontent.com/sheshekabob/plants/main/Eggplant/Besler2.jpg"
        label="Basilius Besler, Hortus Eystettensis ( Botanical gardens madrid)"
        description="Eggplant illustrated in Besler's Hortus Eystettensis"
-       license=" Need to ask for permission"
+       license="Need to ask for permission"
        attribution="Madrid Gardens"
        fit="cover">
        
@@ -170,11 +170,17 @@ The physician and botanist Leonhart Fuchs described eggplants as “sown in our 
        description="Leonhart Fuchs"
        license="Public domain"
        fit="cover">
-
+<param ve-image 
+       url="https://www.biodiversitylibrary.org/page/41534506"
+       label="Mala insana, from Leonhart Fuchs, De historia stirpium commentarii insignes (1542)"
+       description="De historia stirpium commentarii insignes"
+       license="Public domain. https://www.biodiversitylibrary.org/itemImage/129744#page/567/mode/1up"
+       fit="cover">
+       
 
 <param ve-image 
        url="bibdigital.rjb.csic.es/idviewer/10913/429"
-       label="Basilius Besler, Hortus Eystettensis ( Botanical gardens madrid)"
+       label="Basilius Besler, Hortus Eystettensis (Botanical Gardens Madrid)"
        description="Eggplant illustrated in Besler's Hortus Eystettensis"
        license=" Need to ask for permission"
        attribution="Madrid Gardens"
