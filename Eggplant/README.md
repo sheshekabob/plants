@@ -218,8 +218,8 @@ Theories on where eggplant was first domesticated comprehend a vast swath of the
 
 
 <param ve-image 
-       label="Robert Wight"
-       description="Robert Wight, Illustrations of Indian botany, or figures illustrative of each of the natural orders of Indian plants, described in the author's Prodromus florae peninsulae Indiae orientalis"
+       label="Robert Wight, Illustrations of Indian botany, or figures illustrative of each of the natural orders of Indian plants, described in the author's Prodromus florae peninsulae Indiae orientalis"
+       description="Robert Wight"
        license="Public domain"
        attribution="Public domain. https://www.biodiversitylibrary.org/item/39780#page/315"
        url="https://www.biodiversitylibrary.org/pageIMAGE/10415784"
