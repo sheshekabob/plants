@@ -377,13 +377,7 @@ In recent years, eggplant has become the center of one of the hardest fought deb
 ### References
 
 [^1]: Clifford A. Wright, _Mediterranean Vegetables: A Cook’s Compendium of All the Vegetables from the World’s Healthiest Cuisine_ (Boston, MA: Harvard Common Press, 2012), 134.
-* Benjamin Zimmer, Jane Solomon, and Charles E. Carson, “Among the New Words,” _American Speech_ 91, no. 2 (May 1, 2016): 203, https://doi.org/10.1215/00031283-3633118.
-* Zimmer, Solomon, and Carson, “Among the New Words,” 223-24.
-* Vatsyayana, _The Kama Sutra of Vatsyayana: Translated from the Sanscrit. In Seven Parts, with Preface, Introduction, and Concluding Remarks_, trans. Bhagavanlal Indrajit, Bhide Shivaram Parashuram, and Richard Francis Burton (London & Benares: Kama Shastra Society of London and Benares, 1888), 175. https://www.gutenberg.org/files/27827/27827-h/27827-h.htm
-* Chithprabha Kudlu and Glenn Davis Stone, “The Trials of Genetically Modified Food,” _Food, Culture & Society_ 16, no. 1 (March 1, 2013): 29. https://doi.org/10.2752/175174413X13500468045326.
-* Rachel S. Meyer et al., “Phylogeographic Relationships among Asian Eggplants and New Perspectives on Eggplant Domestication,” _Molecular Phylogenetics and Evolution_ 63, no. 3 (June 1, 2012): 687, https://doi.org/10.1016/j.ympev.2012.02.006.
-* John Varriano, “Fruits and Vegetables as Sexual Metaphor in Late Renaissance Rome,” _Gastronomica_ 5, no. 4 (Fall 2005): 8–9.
-* Varriano, “Fruits and Vegetables as Sexual Metaphor in Late Renaissance Rome,” 8.
+
 
 
 
