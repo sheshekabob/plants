@@ -332,20 +332,29 @@ Avant-garde European painting such as Henri Matisse's _Still Life with Aubergine
        fit="cover">
        
 Decades later, North-American photographers further explored the formal properties of the fruit, its shape, color and texture. Throught abstraction and a highly refined sense of composition and light, Edward Weston (1886-1958) depicts, in _Eggplant_ (1930) a dark globular cultivar -- the same variety of US' agricultural manuals of the end of the 19th century. As in many of his works, here he unveils the unexpected and the marvellous of natural elements and everyday objects, and their connections with the human body**. Although the reference to the dietary significance of the eggplant is still present (as the white plate proves),  the shiny ridged vegetable awakens also an aesthetical visual approach, and the urge to actually touch it and feel the smoothness of the skin, the firmness of the flesh.
+
+<param ve-image 
+       url="https://raw.githubusercontent.com/sheshekabob/plants/main/Eggplant/Weston.jpg"
+       label="Edward Weston, Eggplant (1930), gelatin silver print"
+       description="Henri Matisse"
+       license="Ville de Grenoble / Musée de Grenoble-J.L.Lacroix © Succession H. Matisse"
+       attribution="Musée de Grenoble. https://www.museedegrenoble.fr"
+       fit="cover">
        
-This visual and haptic sense is more pronounced in the work of Robert Mapplethorpe, whose creative use of light and formal experimentation is derived from Weston. Mapplethorpe produced hundreds of nude studies and erotic photographs. Eroticism is, in fact, the guiding thread of his gaze, permeating his portraits of women, men, flowers, and fruit, including a sensuous bunch of grapes and his well-known work _Eggplant_ (1985). In the latter photo, a single vegetable lies alone in an unidentified space, whose neutrality is broken by banded light filtered through window blinds. Marked by sun and shade, the meaty eggplant seems to transform into a body or part of one. Its nutritional meaning falls away, and, as an object of desire, the eggplant can only be consumed as an object of lust in yet another example of its sexualization, and perhaps, also its commodification in a hyper-capitalist society. The fruit’s curves and crevices stretch our imagination and resemble the curves and crevices of the equally appealing torso that fills _Thomas (Back)_ (1986), a photo depicting an African American male model whom Mapplethorpe favored and posed in a similar studio setting.
+This visual and haptic sense is more pronounced in the work of Robert Mapplethorpe, whose creative use of light and formal experimentation is derived from Weston. Mapplethorpe produced hundreds of nude studies and erotic photographs. Eroticism is, in fact, the guiding thread of his gaze, permeating his portraits of women, men, flowers, and fruit, including a sensuous bunch of grapes and his well-known work _Eggplant_ (1985). In the latter photo, a single vegetable lies alone in an unidentified space, whose neutrality is broken by banded light filtered through window blinds. Marked by sun and shade, the meaty eggplant seems to transform into a body or part of one. Its nutritional meaning falls away, and the eggplant can only be consumed as an object of lust in yet another example of its sexualization, and perhaps, also its commodification in a hyper-capitalist society. The fruit’s curves and crevices stretch our imagination and resemble the curves and crevices of the equally appealing torso that fills _Thomas (Back)_ (1986), a photo depicting an African American male model whom Mapplethorpe favored and posed in a similar studio setting.
 
 <param ve-compare curtain 
        compare="true"
        url="https://raw.githubusercontent.com/sheshekabob/plants/main/Eggplant/mapplethorpe5.jpg"
-       label="Robert Mapplethorpe, Thomas (Back) (1986)" 
+       label="Robert Mapplethorpe, Thomas (Back) (1986), gelatin silver print" 
        description="photography by Robert Mapplethorpe"
-       license="??????">
+       license="??????"
+       attribution="Fine Arts Museum of San Francisco. https://art.famsf.org/">
 <param ve-compare 
        url="https://raw.githubusercontent.com/sheshekabob/plants/main/Eggplant/mapplethorpe.jpeg"
-       label="Robert Mapplethorpe, Eggplant (1985)" 
+       label="Robert Mapplethorpe, Eggplant (1985), gelatin silver print" 
        description="photography by Robert Mapplethorpe"
-       license="??????">
+       license="Copyright © Robert Mapplethorpe Foundation">
        
 ### New Eggplants, Old issues: BT-Brinjal and Globalization
 In recent years, eggplant has become the center of one of the hardest fought debates over genetically modified crops. Endorsed by Cornell University, varieties of “BT brinjal,” genetically modified eggplant designed to withstand pests and drastically reduce the need for pesticides, have been made illegal in India and the Philippines, but they are cultivated in Bangladesh. The idea of a North American institution sending  the eggplant back, in an altered form, to one of the cultures from which it originated is controversial, and this example is key to the kind of issues with which Plant Humanities deals. Plants are more than products up for laboratory improvement, but vessels for cultural meaning. People question why an ancient “indigenous” plant should need genetic modification and worry about the implications of meddling with ecological heritage. On the other hand, there is a real chance that GM crops can improve people's lives and that genetic engineering does not necessarily have to be so set against cultural heritage. Another issue is the ownership of BT brinjal by the US agrochemical giant Monsanto (now owned by Bayer), and the accusation of bio-imperialist efforts to extract maximum profits under the guise of humanitarian concerns. The plant is now wrapped up in issues of indigenous ecology, globalization, humanitarian welfare, and international conflict in a way that centers a debate about the status of the plant in immediate crises. If one thing is clear about the history of the eggplant, it is that cultures weave complex, fluid meanings around the plants on which they depend in ways that are powerful and important, but nevertheless fickle and difficult to pin down. 
