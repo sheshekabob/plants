@@ -3,7 +3,7 @@
 <param ve-config 
        title="Eggplant"
        author="Ana Carolina Carmona-Ribeiro, Nathan Cornish, and Sheila Scoville"
-       banner="https://upload.wikimedia.org/wikipedia/commons/8/87/Chochungdo_02.jpg" 
+       banner="http://www.manyoancollection.org/wp-content/uploads/images/works/1993.8_detail.jpg"
        layout="vertical">
 
 <param ve-entity eid="Q973455">
