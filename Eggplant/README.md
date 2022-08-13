@@ -127,9 +127,9 @@ _Gastronomica_ writer John Varriano notes the sexual innuendo of food and botani
 
 <param ve-image 
 url="https://upload.wikimedia.org/wikipedia/commons/a/af/Le_concile_des_Dieux_dans_la_loggia_d%27Amour_et_de_Psych%C3%A9_%28Villa_Farnesina%2C_Rome%29_%2833898412830%29.jpg"
-       label="The Council of the Gods in the Loggia of Cupid and Psyche by Raphael, festoons by Giovanni da Udine, Villa Farnesina, Rome" 
+       label="Loggia of Cupid and Psyche by Raphael, festoons by Giovanni da Udine, Villa Farnesina, Rome" 
        description="Villa Farnesina"
-       attribution="Jean-Pierre Dalbéra from Paris, France"
+       attribution="Jean-Pierre Dalbéra, Paris, France"
        license="CC BY 2.0.">
 
 The Villa Farnesina features 21 images of club-shaped eggplants, colored purple and white or deep yellow, indicating maturity. Many other illusionistic Renaissance murals juxtapose plants and animals with figures of Classical mythology—more examples of the ambiguity "at the heart of early modern scientific enquiry," and of a particular cultural climate that preceded the establishment of modern science. In the sixteenth century, interest in natural history dovetailed art and botanical study, pursuits that mutually benefited each other. Like Albrecht Dürer and Leonardo da Vinci, the Italian artist Giuseppe Arcimboldo included botanical illustration in his artistic repertoire, using this knowledge to create the visual puns that make his work a hit in museums today. Arcimboldo served the Habsburg family in Austria, working in an "avant-garde atmosphere" that included a [_Kunstkammer_,](https://www.metmuseum.org/toah/hd/kuns/hd_kuns.htm) a zoo, and parties in which the court dressed as the elements and seasons, following the artist's designs. Arcimboldo is best known for portraits of people composed of painted vegetables, fruits, legumes, cereals, foliage, and flowers. In his painting _Zomer_ (1563), a club-shaped eggplant and an elongated, white eggplant suggest, along with dozens of other vegetables, the head and neck of an allegory for "Summer." In _Vertumnus_ (c. 1590), the Habsburg emperor Rudolf II is represented as the Roman god who presided over the seasons, change, and the growth of plants. Once again, an elongated eggplant is part of the emperor's “neck.” 
@@ -219,7 +219,7 @@ Theories on where eggplant was first domesticated comprehend a vast swath of the
 
 <param ve-image 
        label="Robert Wight"
-       description="Solanum melongena, from Robert Wight, Illustrations of Indian botany, or figures illustrative of each of the natural orders of Indian plants, described in the author's prodromus florae peninsulae Indiae orientalis, page 166"
+       description="Robert Wight, Illustrations of Indian botany, or figures illustrative of each of the natural orders of Indian plants, described in the author's Prodromus florae peninsulae Indiae orientalis"
        license="Public domain"
        attribution="Public domain. https://www.biodiversitylibrary.org/item/39780#page/315"
        url="https://www.biodiversitylibrary.org/pageIMAGE/10415784"
@@ -227,15 +227,15 @@ Theories on where eggplant was first domesticated comprehend a vast swath of the
        fit="cover">
 <param ve-image 
        label="Company School"
-       description="Company School. Watercolour painting on paper of Solanum melongena, commonly referred to as an aubergine plant. Calcutta (now Kolkata, India. Nineteenth century."
+       description="Watercolour painting on paper of Solanum melongena. Calcutta, India, 19th century"
        license="CC BY-SA 4.0"
        attribution="© The Trustees of the British Museum"
        url="https://media.britishmuseum.org/media/Repository/Documents/2014_10/17_10/26991ccc_7559_460b_ad27_a3c700aa9665/mid_01032763_001.jpg"
        region="-239,-50,1197,1102"
        fit="cover">
 <param ve-image 
-       label="A woman pulling giant aubergines from a tree. Watercolor."
-       description="A woman pulling giant aubergines from a tree"
+       label="A woman pulling giant aubergines from a tree"
+       description="A woman pulling giant aubergines from a tree, watercolor."
        license="Public domain"
        attribution="A woman pulling giant aubergines from a tree. Watercolour. Wellcome Collection. https://wellcomecollection.org/works/buu2vm47. Public domain."
        url="https://iiif.wellcomecollection.org/image/V0044992/full/640%2C/0/default.jpg"
@@ -246,14 +246,14 @@ Art and literature attest to a profound human relationship with the eggplant in 
 
 <param ve-image 
        url="https://raw.githubusercontent.com/sheshekabob/plants/main/Eggplant/Yinshan.jpg"
-       label="Chinese eggplant, from the dietary manual Yinshan Zhengyao (Dietary Principles) written by Hu Sihui in 1330. Public domain."
+       label="Hu Sihui, Chinese eggplant, from the dietary manual Yinshan Zhengyao (Dietary Principles) (1330)"
        description="Yinshan Zhengyao"
        license="Public domain"
        region="-500,-50,2504,2117"
        fit="cover">
 <param ve-image 
        url="https://raw.githubusercontent.com/sheshekabob/plants/main/Eggplant/MingDynasty_Eggplant.jpg"
-       label="Artist unknown. 蔬果圖 (shu guo tu, or vegetables and fruit). Album leaf, ink and colours on silk. Ming Dynasty. 1368-1644."
+       label="Artist unknown. 蔬果圖 (shu guo tu, or vegetables and fruit). Album leaf, ink and colours on silk. Ming Dynasty (1368-1644)"
        description="Ming Dynasty painting"
        license="CC BY-SA 4.0"
        attribution="© The Trustees of the British Museum"
@@ -263,7 +263,7 @@ The importance of eggplant to China’s neighbors can also be gleaned from their
 
 <param ve-image 
        url="https://upload.wikimedia.org/wikipedia/commons/8/87/Chochungdo_02.jpg"
-       label="Painting of plants and insects. An example of Chochungdo, a genre established by Shin Saimdang (1504–1551), a Korean painter of the early Joseon Dynasty."
+       label="Shin Saimdang, Painting of plants and insects (Chochungdo)"
        description="Shin Saimdang"
        license="Korea Open Government License Type I: Attribution"
        attribution="National Museum of Korea, KOGL Type 1 http://www.kogl.or.kr/open/info/license_info/by.do, via Wikimedia Commons"
