@@ -57,8 +57,7 @@ license="CC BY 2.0."
 World cuisine today abounds with eggplant dishes. A few classics include Eastern Mediterranean or Levantine cuisine including moussaka, baba ganoush, and makdous. Other recipes include _Mchuzi wa Biringani_ ([Tanzanian eggplant curry](https://www.congocookbook.com/vegetable-and-side-dish-recipes/mchuzi-wa-biringani-eggplant-curry/)), Indian Punjab _baingan bartha_ (mashed eggplant), Chinese Sichuan _yuxiang qiezi_ (fish-fragrant eggplant), and countless other preparations. Treated as a culinary vegetable, eggplant is technically a berry since it contains small, edible seeds. Ambiguity also characterizes eggplant’s winding journey to kitchens across the globe. While this crop is a staple in Asia and the Middle East, it’s an auxiliary food in Western Europe and the Americas, where most people know of this nightshade and may have even let it pass their lips, but compared to its New World counterparts in the Solanaceae family, tomatoes, peppers, and potatoes, the eggplant lingers at the limits of their familiarity—unless of course their background is among the cultures who cultivated an early relationship with this tropical domesticate.
 
 <param ve-iframe title="Eggplant-based food by country"
-src="https://wikimap.toolforge.org/?cat=Eggplant-based_food&subcats=true&subcatdepth=1&cluster=true#close"></iframe
-region="519,-1065,5789,5327">
+src="https://wikimap.toolforge.org/?cat=Eggplant-based_food&subcats=true&subcatdepth=1&cluster=true#close"></iframe>
 
 
 ### A World of Eggplants
@@ -67,10 +66,10 @@ As a commodity, the eggplant is global, yet more than 80% of its [production](ht
 
 <param ve-image 
        url="https://upload.wikimedia.org/wikipedia/commons/2/26/Countries_by_eggplant_production_in_2020.png"
-       label="World map coloured by Eggplant production"
+       label="A choropleth map showing countries by eggplant (aubergine) production in tonnes, based on 2020 data from the Food and Agriculture Organization Corporate Statistical Database (FAOSTAT)"
        description="Darker areas show greater Eggplant production"
-       license="Creative commons"
-       fit="cover">  
+       license="CC BY-SA 4.0"
+       region="519,-1065,5789,5327">  
 
 The etymologies of [_Solanum melongena_ L.,](https://en.wikipedia.org/wiki/Eggplant) the scientific name for the common eggplant devised by Carl Linnaeus in 1753 following the rules of his game-changing binomial system of classification, constitute a way of understanding the global exchanges in which this plant took part. Still used by North Americans, the name _eggplant_ was coined in the sixteenth century by the English, who nowadays prefer the French word _aubergine_, which in turn seems to be a corruption of the Arab word _al-babingãn_. Portuguese and Spanish speakers also use the Arab names _berinjela_ and _berenjena_. The Indian term _baingãn_ is critical in this Western alphabet soup since it’s apparently the basis of all the other words. However, India now also uses the term _brinjal_, a corruption from the already corrupted Portuguese _berinjela_. Although certain African countries currently use _brinjal_, the region of the former long-lasting Ethiopian Empire is home to the word _mälänzana_, probably imported into Italy, where it was transformed into _mala insana_ ("crazy apple") and finally, the contemporary _melanzana_.
 
