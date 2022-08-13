@@ -44,7 +44,6 @@
 <param ve-entity eid="Q1385325">
 <param ve-entity eid="Q60756">
 <param ve-entity eid="Q7751"> <!-- Arcimboldo -->
-<param ve-entity eid="Q50662777">
 <param ve-entity eid="Q8011">
 <param ve-entity eid="Q131401">
 <param ve-entity eid="Q1246493">
