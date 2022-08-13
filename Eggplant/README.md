@@ -74,7 +74,7 @@ As a commodity, the eggplant is global, yet more than 80% of its [production](ht
 
 <param ve-image 
        url="https://upload.wikimedia.org/wikipedia/commons/2/26/Countries_by_eggplant_production_in_2020.png"
-       label="A choropleth map showing countries by eggplant (aubergine) production in tonnes, based on 2020 data from the Food and Agriculture Organization Corporate Statistical Database (FAOSTAT)"
+       label="Map showing countries by eggplant production in tonnes (FAOSTAT 2020)"
        description="Darker areas show greater Eggplant production"
        license="CC BY-SA 4.0"
        region="519,-1065,5789,5327">  
@@ -114,8 +114,8 @@ The digital age is just the latest chapter of the eggplant’s erotic entangleme
 
 <param ve-image 
 url="https://raw.githubusercontent.com/sheshekabob/plants/main/IBN_BUTLA%CC%82N_Tacuinum_sanitatis__btv1b105072169_55.jpeg"
-       label="Folio 21r of the Tacuinum sanitatis, Latin 9333, originally by Ibn Buṭlān" 
-       description="Tacuinum sanitatis, Latin 9333"
+       label="Ibn Buṭlān, Tacuinum sanitatis" 
+       description="Tacuinum sanitatis, Folio 21r, Latin 9333"
        attribution="gallica.bnf.fr / Bibliothèque nationale de France"
        license="CC BY 2.0."
        region="0,49,1024,943">
