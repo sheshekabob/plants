@@ -337,7 +337,7 @@ This visual and haptic sense is more pronounced in the work of Robert Mapplethor
 
 <param ve-compare curtain 
        compare="true"
-       url="https://raw.githubusercontent.com/sheshekabob/plants/main/Eggplant/mapplethorpe4.jpg"
+       url="https://raw.githubusercontent.com/sheshekabob/plants/main/Eggplant/mapplethorpe5.jpg"
        label="Robert Mapplethorpe, Thomas (Back) (1986)" 
        description="photography by Robert Mapplethorpe"
        license="??????">
