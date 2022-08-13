@@ -92,10 +92,10 @@ url="https://pic.blog.plover.com/lang/etym/eggplant-map/eggplant-map.png"
 Eggplant has dozens of varieties and cultivars, as this genus hybridizes easily, with or without human help. Genetic analyses show that characteristics like size, shape, and taste were decisive in the eggplant's domestication, which began over 2,000 years ago. The size "changed from small to large, taste changed from not palatable to what was termed at the time sweetish,” and “a wider variety of fruit shapes was cultivated." Horticulturists, gardeners, and cooks get excited when talking about eggplant cultivars. The Japanese Pickling, for example, is described as "sweet and mellow tasting with creamy, meaty flesh." The names of cultivars reveal their grower’s fertile imaginations, such as the Fairy Tale, so called perhaps for its lovely violet skin with white stripes; the Little Fingers, which grows in clusters of 20 fruits or more; the Black Beauty, jet-black like Anna Sewell's famous horse; or the hybrid Ichiban, meaning "best" in Japanese. The ornamental attributes of eggplants are also admired, like the eye-catching white and purple Italian Rosa Bianca, the tiny watermelon-like Thai eggplant, or the Old White Egg, possibly the first eggplant to reach England in the 1700s. And while the ubiquitous eggplant emoji is solid purple, the fruits can be white, red, yellow, green, reddish-purple, light purple, dark purple, black, striped, or "marbled."
 
 <param ve-image 
-url="https://raw.githubusercontent.com/sheshekabob/plants/main/Eggplant/cultivars.jpg"
+url="https://raw.githubusercontent.com/sheshekabob/plants/main/Eggplant/cultivars2.jpg"
        label="Eggplant varieties and cultivars" 
        description="Eggplant cultivars"
-       attribution="Ana"
+       attribution="Ana Carmona-Ribeiro"
        license="CC BY-SA 4.0">
 
 ### The Eggplant Emoji: Nothing New under the Sun
