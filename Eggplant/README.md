@@ -335,8 +335,8 @@ Decades later, North-American photographers further explored the formal properti
        
 This visual and haptic sense is more pronounced in the work of Robert Mapplethorpe, whose creative use of light and formal experimentation is derived from Weston. Mapplethorpe produced hundreds of nude studies and erotic photographs. Eroticism is, in fact, the guiding thread of his gaze, permeating his portraits of women, men, flowers, and fruit, including a sensuous bunch of grapes and his well-known work _Eggplant_ (1985). In the latter photo, a single vegetable lies alone in an unidentified space, whose neutrality is broken by banded light filtered through window blinds. Marked by sun and shade, the meaty eggplant seems to transform into a body or part of one. Its nutritional meaning falls away, and, as an object of desire, the eggplant can only be consumed as an object of lust in yet another example of its sexualization, and perhaps, also its commodification in a hyper-capitalist society. The fruit’s curves and crevices stretch our imagination and resemble the curves and crevices of the equally appealing torso that fills _Thomas (Back)_ (1986), a photo depicting an African American male model whom Mapplethorpe favored and posed in a similar studio setting.
 
-<param ve-compare 
-       curtain="true"
+<param ve-compare curtain 
+	compare="true"
        url="https://raw.githubusercontent.com/sheshekabob/plants/main/Eggplant/mapplethorpe.jpeg"
        label="Robert Mapplethorpe, Eggplant (1985)" 
        description="photography by Robert Mapplethorpe"
