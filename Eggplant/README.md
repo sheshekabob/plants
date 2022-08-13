@@ -126,10 +126,10 @@ The Villa Farnesina features 21 images of club-shaped eggplants, colored purple 
 
 <param ve-image 
 url="https://upload.wikimedia.org/wikipedia/commons/e/e7/Giuseppe_Arcimboldo_-_Summer_-_Google_Art_Project.jpg"
-       label="Giuseppe Arcimboldo, Summer, from the Four Seasons series, 1563, oil on canvas" 
-description="Summer"
-license="Public domain"
-regoin="-970,1,6930,6376">
+       label="Giuseppe Arcimboldo, Summer, from the Four Seasons series, 1563, oil on canvas"
+       description="Summer"
+       license="Public domain"
+       region="-970,1,6930,6376">
 
 Not only visually striking, Arcimboldo’s compositions defied a distinction made in late medieval and early Renaissance thought, which considered the fruits of trees a luxury reserved for the upper classes, while peasants were left with the “low” vegetables grown under or near the soil. Arcimboldo had a great “scientific fluency,” as every plant in his work is recognizable from a botanical point of view. His oeuvre reveals the political and philosophical significance of the junction between art and natural history in the early modern period: beyond the visual puns meant to amuse king and court, his portraits also symbolize “the copiousness of creation and the power of the ruling family over everything," and the grand theme of dignitas hominis, where “man is a prodigy, worthy of veneration and honor, for his character summarizes all creation.”
 
@@ -138,7 +138,7 @@ url="https://upload.wikimedia.org/wikipedia/commons/b/b5/Vertumnus_%C3%A5rstider
        label="Giuseppe Arcimboldo, a portrait of Rudolf II, Holy Roman Emperor as Vertumnus, the Roman god of the seasons, c. 1590–91, oil on canvas" 
 description="Vertumnus"
 license="Public domain"
-regoin="-2293,-53,16382,14731">
+region="-2293,-53,16382,14731">
 
 ### European Herbals: Secondhand and Thirdhand Encounters
 
