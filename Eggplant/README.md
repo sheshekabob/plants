@@ -129,7 +129,7 @@ _Gastronomica_ writer John Varriano notes the sexual innuendo of food and botani
 
 <param ve-image 
 url="https://upload.wikimedia.org/wikipedia/commons/a/af/Le_concile_des_Dieux_dans_la_loggia_d%27Amour_et_de_Psych%C3%A9_%28Villa_Farnesina%2C_Rome%29_%2833898412830%29.jpg"
-       label="The Council of the Gods in the Loggia of Cupid and Psyche by Raphael, festoons by Giovanni da Udine, from Villa Farnesina, Rome" 
+       label="The Council of the Gods in the Loggia of Cupid and Psyche by Raphael, festoons by Giovanni da Udine, Villa Farnesina, Rome" 
 description="Villa Farnesina"
        attribution="Jean-Pierre Dalbéra from Paris, France"
 license="CC BY 2.0.">
@@ -138,7 +138,7 @@ The Villa Farnesina features 21 images of club-shaped eggplants, colored purple 
 
 <param ve-image 
 url="https://upload.wikimedia.org/wikipedia/commons/e/e7/Giuseppe_Arcimboldo_-_Summer_-_Google_Art_Project.jpg"
-       label="Giuseppe Arcimboldo, Summer, from the Four Seasons series, 1563, oil on canvas"
+       label="Giuseppe Arcimboldo, _Zommer_(1563), from the_ Four Seasons_ series, oil on canvas"
        description="Summer"
        license="Public domain"
        region="-970,1,6930,6376">
