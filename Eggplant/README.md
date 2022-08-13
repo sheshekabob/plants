@@ -57,7 +57,8 @@ license="CC BY 2.0."
 World cuisine today abounds with eggplant dishes. A few classics include Eastern Mediterranean or Levantine cuisine including moussaka, baba ganoush, and makdous. Other recipes include _Mchuzi wa Biringani_ ([Tanzanian eggplant curry](https://www.congocookbook.com/vegetable-and-side-dish-recipes/mchuzi-wa-biringani-eggplant-curry/)), Indian Punjab _baingan bartha_ (mashed eggplant), Chinese Sichuan _yuxiang qiezi_ (fish-fragrant eggplant), and countless other preparations. Treated as a culinary vegetable, eggplant is technically a berry since it contains small, edible seeds. Ambiguity also characterizes eggplant’s winding journey to kitchens across the globe. While this crop is a staple in Asia and the Middle East, it’s an auxiliary food in Western Europe and the Americas, where most people know of this nightshade and may have even let it pass their lips, but compared to its New World counterparts in the Solanaceae family, tomatoes, peppers, and potatoes, the eggplant lingers at the limits of their familiarity—unless of course their background is among the cultures who cultivated an early relationship with this tropical domesticate.
 
 <param ve-iframe title="Eggplant-based food by country"
-src="https://wikimap.toolforge.org/?cat=Eggplant-based_food&subcats=true&subcatdepth=1&cluster=true#close"></iframe>
+src="https://wikimap.toolforge.org/?cat=Eggplant-based_food&subcats=true&subcatdepth=1&cluster=true#close"></iframe
+region="519,-1065,5789,5327">
 
 
 ### A World of Eggplants
