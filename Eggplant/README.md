@@ -141,7 +141,7 @@ The Villa Farnesina features 21 images of club-shaped eggplants, colored purple 
        label="Giuseppe Arcimboldo, Zommer (1563), from the Four Seasons series, oil on canvas"
        description="Summer"
        license="Public domain"
-       region="-970,1,6930,6376">
+       region="934,1365,1733,2093">
 
 Not only visually striking, Arcimboldo’s compositions defied a distinction made in late medieval and early Renaissance thought, which considered the fruits of trees a luxury reserved for the upper classes, while peasants were left with the “low” vegetables grown under or near the soil. Arcimboldo had a great “scientific fluency,” as every plant in his work is recognizable from a botanical point of view. His oeuvre reveals the political and philosophical significance of the junction between art and natural history in the early modern period: beyond the visual puns meant to amuse king and court, his portraits also symbolize “the copiousness of creation and the power of the ruling family over everything," and the grand theme of _dignitas hominis_, where “man is a prodigy, worthy of veneration and honor, for his character summarizes all creation.”
 
