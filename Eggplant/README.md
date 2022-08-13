@@ -315,10 +315,17 @@ As _S. melongena_ settled into Western culture, shedding some of its exoticism a
 
 <param ve-image 
        url="https://morsemuseum.org/wp-content/uploads/2022/03/eggplant.jpg"
-       label="Tiffany & Co., Eggplant transom (c.1879-81)"
+       label="Tiffany & Co., Eggplant transom (c.1879-81), leaded glass"
        description="Tiffany transom"
        license="?????"
-       attribution="????"
+       attribution="The Charles Hosmer Morse Museum of American Art. https://morsemuseum.org"
+       fit="cover">
+<param ve-image 
+       url="https://hollis.harvard.edu/permalink/f/1mdq5o5/TN_cdi_artstor_primary_AWSS35953_35953_39585118"
+       label="Eggplant-shaped teapot (XXXX), Portuguese Majolica ceramics"
+       description="................."
+       license="?????"
+       attribution="Majolica International Society. http://majolicasociety.com"
        fit="cover">
        
 Avant-garde European painting such as _Henri Matisse's Still Life with Aubergines_ (1911) also reveal the expanding cultural meaning of eggplant and its normalization as a household object. In Matisse's painting, three purple eggplants represent much more than culinary ingredients. "Balanced precariously on a table whose red cloth carries an undulating white pattern that reinforces their tuberous shape," they seem to be the visual starting point of a decorative explosion of textures and colors, which spread throughout the interior and beyond, as shown by the mirror, the open back door, and the window with a landscape in the distance. This painting reveals one of Matisse's fundamental themes: the conversion of his own studio into an imaginary space, permeated by the _joie de vivre_ ("joy of life"). In this personal recreation of the garden of paradise, the painter's great admiration for Persian miniatures and Asian art emerge, and eggplants, without losing their domestic character, are reconnected to their origins, beyond the Mediterranean, in the remote Middle and Far East.
