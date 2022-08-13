@@ -157,7 +157,7 @@ In the sixteenth century, cultural responses to eggplant were shaped by the conn
 <param ve-compare curtain
        curtain="true"
        url="https://raw.githubusercontent.com/sheshekabob/plants/main/Eggplant/Besler2.jpg"
-       label="Basilius Besler, Hortus Eystettensis ( Botanical gardens madrid)"
+       label="Basilius Besler, Hortus Eystettensis (Botanical gardens madrid)"
        description="Eggplant illustrated in Besler's Hortus Eystettensis"
        license="Need to ask for permission"
        attribution="Madrid Gardens"
@@ -165,7 +165,7 @@ In the sixteenth century, cultural responses to eggplant were shaped by the conn
        
 <param ve-compare 
        url="https://github.com/sheshekabob/plants/blob/main/Eggplant/Besler1.jpg?raw=true"
-       label="Basilius Besler, Hortus Eystettensis ( Oak Springs)"
+       label="Basilius Besler, Hortus Eystettensis (Oak Springs)"
        description="Eggplant illustrated in Besler's Hortus Eystettensis"
        license="Need to ask for permission"
        attribution="Oak springs"
@@ -301,7 +301,7 @@ According to Professor of Southern Letters David Shields, the antebellum souther
 
 <param ve-image 
        url="https://www.biodiversitylibrary.org/pageImage/50118220"
-       label="Black Beauty Egg plant, from Adolph Kruhm's Home vegetable gardening from A to Z, with special reference to Pacific coast conditions (1918)"
+       label="Black Beauty Egg plant, from Adolph Kruhm's Home vegetable gardening from A to Z (1918)"
        description="Black Beauty Egg plant"
        license="Public domain."
        attribution="Public domain. https://www.biodiversitylibrary.org/item/69949"
@@ -366,7 +366,7 @@ In recent years, eggplant has become the center of one of the hardest fought deb
 
 <param ve-image 
        url="https://upload.wikimedia.org/wikipedia/commons/b/b7/BT_Brinjal_Protest_Bangalore_India.JPG"
-       label="Baskets of many different kind of Brinjal (aka "Eggplant") put out by protesters during the listening tour of India's environment minister relating to the introduction of BT Brinjal. Spring 2010 in Bangalore, India."
+       label="Many different varieties of eggplants put out by protesters during the listening tour of India's environment minister relating to the introduction of BT Brinjal. Spring 2010, Bangalore, India."
        license="CC BY-SA 3.0"
        attribution="Infoeco, <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons"
        fit="cover">
