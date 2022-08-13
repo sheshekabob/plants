@@ -57,9 +57,9 @@ Eggplant parmesan or _parmigiana di melanzane_ is like the culinary vegetable th
 <param ve-image 
 url="https://upload.wikimedia.org/wikipedia/commons/8/8b/Melanzane_alla_Parmigiana.jpg"
        label="Melanzane alla Parmigiana" 
-description="Baked aubergines with Parmesan cheese"
+       description="Baked aubergines with Parmesan cheese"
        attribution="Flickr.com user Blue Lotus"
-license="CC BY 2.0."
+       license="CC BY 2.0."
        region="0,153,1912,984">
 
 World cuisine today abounds with eggplant dishes. A few classics include Eastern Mediterranean or Levantine cuisine including moussaka, baba ganoush, and makdous. Other recipes include _Mchuzi wa Biringani_ ([Tanzanian eggplant curry](https://www.congocookbook.com/vegetable-and-side-dish-recipes/mchuzi-wa-biringani-eggplant-curry/)), Indian Punjab _baingan bartha_ (mashed eggplant), Chinese Sichuan _yuxiang qiezi_ (fish-fragrant eggplant), and countless other preparations. Treated as a culinary vegetable, eggplant is technically a berry since it contains small, edible seeds. Ambiguity also characterizes eggplant’s winding journey to kitchens across the globe. While this crop is a staple in Asia and the Middle East, it’s an auxiliary food in Western Europe and the Americas, where most people know of this nightshade and may have even let it pass their lips, but compared to its New World counterparts in the Solanaceae family, tomatoes, peppers, and potatoes, the eggplant lingers at the limits of their familiarity—unless of course their background is among the cultures who cultivated an early relationship with this tropical domesticate.
@@ -87,7 +87,8 @@ url="https://pic.blog.plover.com/lang/etym/eggplant-map/eggplant-map.png"
        description="Etymology"
        attribution="https://blog.plover.com/lang/etym/eggplant-map.html"
        license="Permission pending"
-       region="137,-342,1861,1712">
+       region="137,-342,1861,1712"
+       fit="contain">
 
 Eggplant has dozens of varieties and cultivars, as this genus hybridizes easily, with or without human help. Genetic analyses show that characteristics like size, shape, and taste were decisive in the eggplant's domestication, which began over 2,000 years ago. The size "changed from small to large, taste changed from not palatable to what was termed at the time sweetish,” and “a wider variety of fruit shapes was cultivated." Horticulturists, gardeners, and cooks get excited when talking about eggplant cultivars. The Japanese Pickling, for example, is described as "sweet and mellow tasting with creamy, meaty flesh." The names of cultivars reveal their grower’s fertile imaginations, such as the Fairy Tale, so called perhaps for its lovely violet skin with white stripes; the Little Fingers, which grows in clusters of 20 fruits or more; the Black Beauty, jet-black like Anna Sewell's famous horse; or the hybrid Ichiban, meaning "best" in Japanese. The ornamental attributes of eggplants are also admired, like the eye-catching white and purple Italian Rosa Bianca, the tiny watermelon-like Thai eggplant, or the Old White Egg, possibly the first eggplant to reach England in the 1700s. And while the ubiquitous eggplant emoji is solid purple, the fruits can be white, red, yellow, green, reddish-purple, light purple, dark purple, black, striped, or "marbled."
 
