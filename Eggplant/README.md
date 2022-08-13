@@ -143,7 +143,7 @@ The Villa Farnesina features 21 images of club-shaped eggplants, colored purple 
        license="Public domain"
        region="-970,1,6930,6376">
 
-Not only visually striking, Arcimboldo’s compositions defied a distinction made in late medieval and early Renaissance thought, which considered the fruits of trees a luxury reserved for the upper classes, while peasants were left with the “low” vegetables grown under or near the soil. Arcimboldo had a great “scientific fluency,” as every plant in his work is recognizable from a botanical point of view. His oeuvre reveals the political and philosophical significance of the junction between art and natural history in the early modern period: beyond the visual puns meant to amuse king and court, his portraits also symbolize “the copiousness of creation and the power of the ruling family over everything," and the grand theme of dignitas hominis, where “man is a prodigy, worthy of veneration and honor, for his character summarizes all creation.”
+Not only visually striking, Arcimboldo’s compositions defied a distinction made in late medieval and early Renaissance thought, which considered the fruits of trees a luxury reserved for the upper classes, while peasants were left with the “low” vegetables grown under or near the soil. Arcimboldo had a great “scientific fluency,” as every plant in his work is recognizable from a botanical point of view. His oeuvre reveals the political and philosophical significance of the junction between art and natural history in the early modern period: beyond the visual puns meant to amuse king and court, his portraits also symbolize “the copiousness of creation and the power of the ruling family over everything," and the grand theme of _dignitas hominis_, where “man is a prodigy, worthy of veneration and honor, for his character summarizes all creation.”
 
 <param ve-image 
 url="https://upload.wikimedia.org/wikipedia/commons/b/b5/Vertumnus_%C3%A5rstidernas_gud_m%C3%A5lad_av_Giuseppe_Arcimboldo_1591_-_Skoklosters_slott_-_91503.tiff"
@@ -320,6 +320,13 @@ As _S. melongena_ settled into Western culture, shedding some of its exoticism a
        license="?????"
        attribution="The Charles Hosmer Morse Museum of American Art. https://morsemuseum.org"
        fit="cover">
+<param ve-image 
+       url="https://raw.githubusercontent.com/sheshekabob/plants/main/Eggplant/majolica%20teapot.jpg"
+       label="Eggplant teapot, Portuguese Majolica ceramics"
+       description="Teapot"
+       license="?????"
+       attribution="Majolica International Society. http://majolicasociety.com"
+       fit="cover">
        
 Avant-garde European painting such as Henri Matisse's _Still Life with Aubergines_ (1911) also reveal the expanding cultural meaning of eggplant and its normalization as a household object. In this painting, the three purple eggplants represent much more than culinary ingredients. "Balanced precariously on a table whose red cloth carries an undulating white pattern that reinforces their tuberous shape," they seem to be the visual starting point of a decorative explosion of textures and colors, which spread throughout the interior and beyond, as shown by the mirror, the open back door, and the window with a landscape in the distance. This painting reveals one of Matisse's fundamental themes: the conversion of his own studio into an imaginary space, permeated by the _joie de vivre_ ("joy of life"). In this personal recreation of the garden of paradise, the painter's great admiration for Persian miniatures and Asian art emerge, and eggplants, without losing their domestic character, are reconnected to their origins, beyond the Mediterranean, in the remote Middle and Far East.
 
@@ -336,9 +343,9 @@ Decades later, North-American photographers further explored the formal properti
 <param ve-image 
        url="https://raw.githubusercontent.com/sheshekabob/plants/main/Eggplant/Weston.jpg"
        label="Edward Weston, Eggplant (1930), gelatin silver print"
-       description="Henri Matisse"
-       license="Ville de Grenoble / Musée de Grenoble-J.L.Lacroix © Succession H. Matisse"
-       attribution="Musée de Grenoble. https://www.museedegrenoble.fr"
+       description="Edward Weston"
+       license="???????"
+       attribution="???????"
        fit="contain">
        
 This visual and haptic sense is more pronounced in the work of Robert Mapplethorpe, whose creative use of light and formal experimentation is derived from Weston. Mapplethorpe produced hundreds of nude studies and erotic photographs. Eroticism is, in fact, the guiding thread of his gaze, permeating his portraits of women, men, flowers, and fruit, including a sensuous bunch of grapes and his well-known work _Eggplant_ (1985). In the latter photo, a single vegetable lies alone in an unidentified space, whose neutrality is broken by banded light filtered through window blinds. Marked by sun and shade, the meaty eggplant seems to transform into a body or part of one. Its nutritional meaning falls away, and the eggplant can only be consumed as an object of lust in yet another example of its sexualization, and perhaps, also its commodification in a hyper-capitalist society. The fruit’s curves and crevices stretch our imagination and resemble the curves and crevices of the equally appealing torso that fills _Thomas (Back)_ (1986), a photo depicting an African American male model whom Mapplethorpe favored and posed in a similar studio setting.
