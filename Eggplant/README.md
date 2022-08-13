@@ -340,12 +340,14 @@ This visual and haptic sense is more pronounced in the work of Robert Mapplethor
        url="https://raw.githubusercontent.com/sheshekabob/plants/main/Eggplant/mapplethorpe.jpeg"
        label="Robert Mapplethorpe, Eggplant (1985)" 
        description="photography by Robert Mapplethorpe"
-       license="??????">
+       license="??????"
+       attribution="...................">
 <param ve-compare 
-       url="https://upload.wikimedia.org/wikipedia/commons/c/cb/Gianlorenzo_bernini%2C_apollo_e_adfne%2C_marmo%2C_1622-25%2C_05.jpg"
+       url="https://raw.githubusercontent.com/sheshekabob/plants/main/Eggplant/mapplethorpe2.jpeg"
        label="Robert Mapplethorpe, Thomas (Back) (1986)" 
        description="photography by Robert Mapplethorpe"
-       license="??????">
+       license="??????"
+       attribution="...................">
 
 ### New Eggplants, Old issues: BT-Brinjal and Globalization
 In recent years, eggplant has become the center of one of the hardest fought debates over genetically modified crops. Endorsed by Cornell University, varieties of “BT brinjal,” genetically modified eggplant designed to withstand pests and drastically reduce the need for pesticides, have been made illegal in India and the Philippines, but they are cultivated in Bangladesh. The idea of a North American institution sending  the eggplant back, in an altered form, to one of the cultures from which it originated is controversial, and this example is key to the kind of issues with which Plant Humanities deals. Plants are more than products up for laboratory improvement, but vessels for cultural meaning. People question why an ancient “indigenous” plant should need genetic modification and worry about the implications of meddling with ecological heritage. On the other hand, there is a real chance that GM crops can improve people's lives and that genetic engineering does not necessarily have to be so set against cultural heritage. Another issue is the ownership of BT brinjal by the US agrochemical giant Monsanto (now owned by Bayer), and the accusation of bio-imperialist efforts to extract maximum profits under the guise of humanitarian concerns. The plant is now wrapped up in issues of indigenous ecology, globalization, humanitarian welfare, and international conflict in a way that centers a debate about the status of the plant in immediate crises. If one thing is clear about the history of the eggplant, it is that cultures weave complex, fluid meanings around the plants on which they depend in ways that are powerful and important, but nevertheless fickle and difficult to pin down. 
