@@ -84,7 +84,7 @@ The etymologies of [_Solanum melongena_ L.,](https://www.biodiversitylibrary.org
 
 <param ve-image 
 url="https://pic.blog.plover.com/lang/etym/eggplant-map/eggplant-map.png"
-       label="Different words for Eggplants" 
+       label="Different words for eggplant" 
        description="Etymology"
        attribution="https://blog.plover.com/lang/etym/eggplant-map.html"
        license="Permission pending"
