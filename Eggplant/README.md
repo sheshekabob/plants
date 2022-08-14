@@ -187,7 +187,7 @@ The physician and botanist [Leonhart Fuchs](https://en.wikipedia.org/wiki/Leonha
        label="Mala insana, from Leonhart Fuchs, De historia stirpium commentarii insignes (1542)"
        description="De historia stirpium commentarii insignes"
        license="Public domain. https://www.biodiversitylibrary.org/item/129744#page/567/mode/1up"
-       region"=-936,240,4682,4308"
+       region"=-936,316,4682,4049"
        fit="cover">
        
 
