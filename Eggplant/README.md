@@ -392,6 +392,7 @@ In recent years, eggplant has become the center of one of the hardest fought deb
 ### References
 
 [^1]: Clifford A. Wright, _Mediterranean Vegetables: A Cook’s Compendium of All the Vegetables from the World’s Healthiest Cuisine_ (Boston, MA: Harvard Common Press, 2012), 134.
+[^2]: Xavier Aubriot, Sandra Knapp, Mindy Syfert, Péter Poczai, Sven Buerki. “Shedding new light on the origin and spread of the brinjal eggplant (Solanum melongena L.) and its wild relatives.” _American Journal of Botany_, 105(7), 2018: 1175–87, https://doi.org/10.1002/ajb2.1133 
 
 
 
