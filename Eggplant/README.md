@@ -55,6 +55,7 @@
 <param ve-entity eid="Q36642">
 <param ve-entity eid="Q65027">
 <param ve-entity eid="Q457191">
+<param ve-entity eid="Q60756)">
 
 Eggplant parmesan or _parmigiana di melanzane_ is like the culinary vegetable that it features—far from straightforward. Where this recipe originated seems to be in its name. "Parmigiana" points to Parma in northern Italy, yet the hard cheese produced there isn’t a main ingredient, only a finishing touch. Some food historians locate the birthplace of parmigiana in southern Italy. The cookbook author [Clifford Wright](http://www.cliffordawright.com/caw/food/entries/display.php/topic_id/4/id/109/) argues that written records indicate Naples as the origin. Those in favor of Sicily suspect that "parmigiana" might be a mispronunciation of "palmigiana," a Sicilian word for "shutters" and perhaps a metaphor for the louvered construction of the dish, with its alternating layers of fried eggplant rounds, tomato sauce, and mozzarella. Others claim "parmigiana" might be related to _parmiciana_, a Sicilian word for “Persian” and a nod to the culture that helped introduce eggplant to Europe.[^1] Though unsubstantiated, this last theory gestures to a truth greater than the facts of who did what where first. Food, culture, and plants rarely stay in a vacuum; they move and mingle.
 
@@ -175,7 +176,7 @@ In the sixteenth century, cultural responses to eggplant were shaped by the conn
        attribution="Oak springs"
        fit="cover">
 
-The physician and botanist Leonhart Fuchs described eggplants as “sown in our gardens, but frequently in…hanging window gardens” with cucumbers and melons. Fuchs’ German botanical tradition owed much to Swiss and Italian scholarship, and his warmer climate in Tübingen connected him to this botanical culture. Northern Mediterranean eggplant encounters involved some suspicion, but were dictated mostly by shared food culture. To suggest that suspicion of the eggplant was greatly exaggerated, an amused Fuchs wrote that some people “immediately avoid the use of them, terrified by the name itself.” Biologically speaking, the eggplant could grow in European climes, but cultural bias against foreign foods shaped the way people interacted with the plant.  
+The physician and botanist Leonhart Fuchs described eggplants as “sown in our gardens, but frequently in…hanging window gardens” with cucumbers and melons. Fuchs’ German botanical tradition owed much to Swiss and Italian scholarship, and his warmer climate in Tübingen connected him to these botanical cultures. In the northern Mediterranean, the eggplant was initially met with some suspicion, even though these encounters were dictated mostly by the sharing of food. To suggest that suspicion of the eggplant was greatly exaggerated, an amused Fuchs wrote that some people “immediately avoid the use of them, terrified by the name itself.” Althought the eggplant could grow in European climes, cultural bias against foreign foods shaped the way people interacted with the plant.  
 
 <param ve-image 
        url="https://upload.wikimedia.org/wikipedia/commons/4/49/Leonhart_Fuchs_1543.jpg"
