@@ -197,7 +197,7 @@ The physician and botanist Leonhart Fuchs described eggplants as “sown in our 
        label="Mala insana, from Leonhart Fuchs, De historia stirpium commentarii insignes (1542)"
        description="De historia stirpium commentarii insignes"
        license="Public domain. https://www.biodiversitylibrary.org/item/129744#page/567/mode/1up"
-       region"=-936,316,4682,4049"
+       region=-"936,316,4682,4049"
        fit="cover">
        
 
@@ -212,8 +212,12 @@ Authors of English herbals were one more step removed from eggplant than their s
 
 As a locally informed document of India’s southwestern coast, the _Hortus Malabaricus_ of 1678 is a key exception, but one that is more about potentially useful information than cultural connection. This botanical work on the plants of “Malabar” (modern-day Kerala) shows how Dutch imperialists collecting on their own terms had a very different approach to eggplant than the herbalists for whom the plant arrived at their doorstep. The “author” Hendrik van Rheede, governor of Dutch Malabar, was mostly informed on plant use by the distinguished Indian herbalist Itty Achudan, who acted as a curator of an account geared towards recording useful local knowledge. Thus, the first information recorded was the Braman name for eggplant, "Vaenna,” with the note that it could be used to cure toothaches, and its juice "relieves cows from internal abscesses.” This differs greatly from the warnings against eggplant found in the European herbals, whose main objective was to increase the European botanical corpus. Van Reede laments that “the fruit of the nightshade in our homeland is a narcotic power: but India produces edible nightshades!” Cultural encounters in which the Europeans were collectors, rather than suspicious recipients, demonstrated amazement towards eggplant, while promoting it for potential profit.
 
-<param ve-iframe
-src="https://bibdigital.rjb.csic.es/viewer/14368/?offset=#page=228&viewer=picture&o=&n=0&q=">
+<param ve-image 
+       url="https://ia800509.us.archive.org/BookReader/BookReaderImages.php?zip=/5/items/Hortus_Indicus_Malabaricus_Volume10/Hortus_Malabaricus_Volume_10_jp2.zip&file=Hortus_Malabaricus_Volume_10_jp2/Hortus_Malabaricus_Volume_10_0163.jp2&id=Hortus_Indicus_Malabaricus_Volume10&scale=4&rotate=0"
+       label="Eggplant, from Hortus Malabaricus (1678)"
+       description="Hortus Malabaricus, Vol 10"
+       license="Public domain"
+       region=""
 
 ### Eggplant in Western and Eastern Asia
 
