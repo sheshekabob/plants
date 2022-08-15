@@ -431,9 +431,9 @@ In recent years, eggplant has become the center of one of the hardest fought deb
 [^38]: Daunay and Janick, “History and Iconography of Eggplant,” 17.
 [^39]: Shantonu Abe Chatterjee, “Crop Diversity in 19th Century Japan. An Analysis of the Seikei Zusetsu Agricultural Encyclopedia Gifted to Philipp Franz von Siebold.” (MSc thesis, Wageningen, The Netherlands, Biosystematics Group, Wageningen University, 2016), 1–2.
 [^40]: Robin D. Gill, _The 5th Season: In Praise of Olde Haiku New Year Ku_ (Books 1 & 2 of 4), vol. 1 (n.p.: Paraverse Press, 2007), 297.
-[^41]: Judith A. Carney and Richard N. Rosomoff, “African Food and the Atlantic Crossing,” in _In the Shadow of Slavery: Africa’s Botanical Legacy in the Atlantic World_ (University of California Press, 2009), 65–79. http://www.jstor.org/stable/10.1525/j.ctt1pnp15.10. 
+[^41]: Judith A. Carney and Richard N. Rosomoff, “African Food and the Atlantic Crossing,” in _In the Shadow of Slavery: Africa’s Botanical Legacy in the Atlantic World_ (University of California Press, 2009), 65–79. http://www.jstor.org/stable/10.1525/j.ctt1pnp15.10.
 [^42]: David S. Shields, “Guinea Squash,” _The Rice Paper Newsletter_, Carolina Gold Rice Foundation, Spring 2011, http://www.thecarolinagoldricefoundation.org/news/2016/6/4/guinea-squash.
-[^43]: L. H. Bailey and W. M. Munson, _Experiences with Egg Plants,_ Bulletin 26 (Ithaca, NY: Cornell University, 1891), 3, note.
+[^43]: L. H. Bailey and W. M. Munson, _Experiences with Egg Plants_, Bulletin 26 (Ithaca, NY: Cornell University, 1891), 3, note.
 [^44]: Adolph Kruhm, Home vegetable gardening from A to Z, with special reference to Pacific coast conditions (Garden City, New York: Doubleday, Page & company, 1918), 88.
 [^45]: Henrimatisse.org. 2022. Still Life with Aubergines, 1911 by Henri Matisse. [online] Accessed 13 August 2022, https://www.henrimatisse.org/still-life-with-aubergines.jsp.
 [^46]: Weston has also portrayed onions, cabbages, and other vegetables, and especially peppers, in close-up images he called "still lifes." About Weston, see Amy Conger, _Edward Weston: Photographs from the Collection of the Center for Creative Photography_, (Center for Creative Photography, University of Arizona, 1992). 
