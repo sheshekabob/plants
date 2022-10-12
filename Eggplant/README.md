@@ -237,7 +237,7 @@ Fuchs referenced the Persian physician and writer Avicenna (or Ibn Sina), as a s
        url="https://upload.wikimedia.org/wikipedia/commons/a/a7/Abbasid_Caliphate_850AD.png"
        region="-136,-448,2437,2242">
 
-Sanskrit documents written as early as 2,300 years ago attest to the importance of eggplant in Indian culinary and medicinal traditions. Ancient images of eggplant are elusive, but early modern Indian art provides another view of _Solanum melongena_. [^29] In the mid-nineteenth century, Robert Wight, a worker for the East India Company, published _Illustrations of Indian Botany_, which includes drawings mainly attributed to Rungiah and Govindoo, artists associated with Tanjore painting known for its depictions of Hindu religious subjects in flat, saturated colors.[^30] Along with other local artists commissioned by European trade companies, Rungiah and Govindoo are also considered part of “Company School,” or _Kampani kalam_[^31] painting, a blend of European naturalism and the stylized, intimate qualities of Indian devotional art.   
+Sanskrit documents written as early as 2,300 years ago attest to the importance of eggplant in Indian culinary and medicinal traditions. Ancient images of eggplant are elusive, but early modern Indian art provides another view of _Solanum melongena_.[^29] In the mid-nineteenth century, Robert Wight, a worker for the East India Company, published _Illustrations of Indian Botany_, which includes drawings mainly attributed to Rungiah and Govindoo, artists associated with Tanjore painting known for its depictions of Hindu religious subjects in flat, saturated colors.[^30] Along with other local artists commissioned by European trade companies, Rungiah and Govindoo are also considered part of “Company School,” or _Kampani kalam_[^31] painting, a blend of European naturalism and the stylized, intimate qualities of Indian devotional art.   
 
 
 <param ve-image 
@@ -249,7 +249,7 @@ Sanskrit documents written as early as 2,300 years ago attest to the importance 
        region="-933,-101,4669,4296"
        fit="cover">
 <param ve-image 
-       label="Made in Calcutta in the 19th century, kampani kalam or "Company School" watercolour painting on paper of Solanum melongena"
+       label="Made in Calcutta in the 19th century, kampani kalam or Company School watercolour painting of Solanum melongena"
        description="Company School"
        license="CC BY-SA 4.0"
        attribution="© The Trustees of the British Museum"
