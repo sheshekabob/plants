@@ -125,7 +125,7 @@ url="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Twemoji_1f346.svg
        license="CC BY 2.0."
        fit="contain">
 <param ve-compare
-       url="https://upload.wikimedia.org/wikipedia/commons/1/1c/Solanum_melongena_ja001.jpg"
+       url="https://upload.wikimedia.org/wikipedia/commons/9/95/Alberg%C3%ADnia_%28Solanum_melongena%29%2C_jard%C3%AD_bot%C3%A0nic_de_Val%C3%A8ncia.JPG"
        label="Eggplant"
        description="Eggplant"
        license="CC BY-SA 4.0">
