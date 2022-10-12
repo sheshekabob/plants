@@ -114,15 +114,21 @@ url="https://raw.githubusercontent.com/sheshekabob/plants/main/Eggplant/cultivar
 
 ### The Eggplant Emoji: Nothing New under the Sun
 
-Europe and the Americas had a belated introduction to eggplant. Its relative novelty in the West might explain why many North Americans today more readily recognize the eggplant as a sexual organ than as a food. In the late 1990s, Japanese telecom companies designed the [eggplant emoji](https://emojipedia.org/eggplant/) as part of the keyboard of icons that now serve as the shorthand of text messages and social media. “Aubergine” is the name for the eggplant emoji in Unicode, the universal standard for encoding linguistic characters for electronic visual display. In 2010, the emoji keyboard was included in Unicode 6.0, and a year later, Apple added the keyboard to its operating system for iPhone users outside of Japan.[^5] In no time, the eggplant emoticon became code for an erect penis. On September 30, 2011, the first known use of the emoji as a phallic symbol appeared on Twitter, when @iFUXXS_witHer tweeted: im jelly no 🍆 😥.[^6] Now, for anyone the least bit tech-savvy in the US and Canada, the elongated, purple fruit with a bulbous end is synonymous with cell phone foreplay, or “sexting.” 
+Europe and the Americas had a belated introduction to eggplant. Its relative novelty in the West might explain why many North Americans today more readily recognize the eggplant as a sexual organ than as a food. In the late 1990s, Japanese telecom companies designed the [eggplant emoji](https://emojipedia.org/eggplant/) as part of the keyboard of icons that now serve as the shorthand of text messages and social media. “Aubergine” is the name for the eggplant emoji in Unicode, the universal standard for encoding linguistic characters for electronic visual display. In 2010, the emoji keyboard was included in Unicode 6.0, and a year later, Apple added the keyboard to its operating system for iPhone users outside of Japan.[^5] In no time, the eggplant emoticon became code for an erect penis. On September 30, 2011, the first known use of the emoji as a phallic symbol appeared on Twitter, when @iFUXXS_witHer tweeted: im jelly no 🍆 😥.[^6] Now, for the tech-savvy in the US and Canada, the long, purple fruit with a bulbous end is synonymous with cell phone foreplay, or “sexting.” 
 
-<param ve-image 
+param ve-compare curtain
+	compare="true" 
 url="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Twemoji_1f346.svg/2048px-Twemoji_1f346.svg.png"
        label="A colored Emoji from Twitter Emoji project" 
        description="Twitter Emoji"
        attribution="Twitter"
        license="CC BY 2.0."
        fit="contain">
+<param ve-compare
+       url="https://upload.wikimedia.org/wikipedia/commons/1/1f/Eggplant_01.jpg"
+       label="Eggplant"
+       description="Eggplant"
+       license="CC BY-SA 4.0">
 
 The digital age is just the latest chapter of the eggplant’s erotic entanglements. Written in Sanskrit roughly 2,000 years ago, the _Kama Sutra_ touts this nightshade as a libido booster. This ancient Indian self-help guide recommends rubbing the male member, or “lingam,” with eggplant to produce “a swelling lasting for one month.”[^7] As questionable as it sounds, this claim is not far from the mark. [Recent](https://www.escardio.org/The-ESC/Press-Office/Press-releases/mediterranean-diet-shows-promise-in-men-with-erectile-dysfunction) [studies](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6893753/) have shown that eating more eggplant can reduce hypertension, a major cause of [erectile dysfunction.](https://www.webmd.com/hypertension-high-blood-pressure/guide/high-blood-pressure-erectile-dysfunction) Around the time that the _Kama Sutra_ was written, practitioners of Ayurveda, a classical system of Indian medicine, documented the many health benefits of certain wild relatives of the eggplant, species still found in pharmacopeias today.[^8] Among the world’s earliest records of eggplant are foundational Ayurvedic texts like the _Charaka Samhita_ and _Sushruta Samhita_.[^9] Written a millennium later, in the eleventh century, the _Taqwim al-Sihhah_ (The Maintenance of Health) by the Arab physician Ibn Buṭlān of Baghdad features eggplant again in a sexual situation. Translated into Latin and illustrated in Italy as the _Tacuinum Sanitatis_, this medical treatise includes versions depicting a couple loitering by an oversized eggplant bush. Under the spell of the risqué fruit, they engage in a triste to the dismay of a woman nearby. 
 
