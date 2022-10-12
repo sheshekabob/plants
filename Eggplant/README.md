@@ -127,8 +127,7 @@ Europe and the Americas had a belated introduction to eggplant. Its relative nov
        url="https://upload.wikimedia.org/wikipedia/commons/4/45/JEggplant0237Palapalafvf_06.JPG"
        label="Eggplant"
        description="Eggplant"
-       license="CC BY-SA 4.0"
-       region="202,959,2683,2570">
+       license="CC BY-SA 4.0">
 
 The digital age is just the latest chapter of the eggplant’s erotic entanglements. Written in Sanskrit 2,000 years ago, the _Kama Sutra_ recommends rubbing the male member, or “lingam,” with eggplant to produce “a swelling lasting for one month.”[^7] This claim is not far from the mark. [Recent](https://www.escardio.org/The-ESC/Press-Office/Press-releases/mediterranean-diet-shows-promise-in-men-with-erectile-dysfunction) [studies](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6893753/) suggest that eating more eggplant reduces hypertension, a major cause of [erectile dysfunction.](https://www.webmd.com/hypertension-high-blood-pressure/guide/high-blood-pressure-erectile-dysfunction) Practitioners of Ayurveda, a classical system of Indian medicine, documented the health benefits of some of the eggplant's wild relatives, species found in pharmacopeias today.[^8] Among the world’s earliest records of eggplant are Ayurvedic texts like the _Charaka Samhita_ and _Sushruta Samhita_.[^9] Written a millennium later, in the eleventh century, the _Taqwim al-Sihhah_ (The Maintenance of Health) by the physician Ibn Buṭlān of Baghdad features eggplant again in a sexual situation. Translated into Latin and illustrated in Italy as the _Tacuinum Sanitatis_, this medical treatise includes versions in which a couple loiters by an eggplant bush. Under the spell of the risqué fruit, they engage in a triste. 
 
