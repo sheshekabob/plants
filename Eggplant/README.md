@@ -124,7 +124,7 @@ Europe and the Americas had a belated introduction to eggplant. Its relative nov
        attribution="Twitter"
        license="CC BY 2.0.">
 <param ve-compare
-       url="https://upload.wikimedia.org/wikipedia/commons/1/1c/Bad%C4%B1mcan.JPG"
+       url="https://upload.wikimedia.org/wikipedia/commons/4/45/JEggplant0237Palapalafvf_06.JPG"
        label="Eggplant"
        description="Eggplant"
        license="CC BY-SA 4.0"
