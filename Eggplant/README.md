@@ -237,7 +237,7 @@ Fuchs referenced the Persian physician and writer Avicenna (or Ibn Sina), as a s
        url="https://upload.wikimedia.org/wikipedia/commons/a/a7/Abbasid_Caliphate_850AD.png"
        region="-136,-448,2437,2242">
 
-Sanskrit documents written as early as 2,300 years ago attest to the importance of eggplant in Indian culinary and medicinal traditions. Ancient images of eggplant are elusive, but early modern Indian art provides another view of _Solanum melongena_. [^29] In the mid-nineteenth century, Robert Wight, a worker for the East India Company, published _Illustrations of Indian Botany_, which includes drawings mainly attributed to Rungiah and Govindoo, artists associated with Tanjore painting known for its depictions of Hindu religious subjects in flat, saturated colors.[^30] Along with other local artists commissioned by European trade companies, Rungiah and Govindoo are also considered part of “Company School,” or _Kampani kalam_[^31] painting which blended European naturalism with the stylized, intimate qualities of Indian devotional.   
+Sanskrit documents written as early as 2,300 years ago attest to the importance of eggplant in Indian culinary and medicinal traditions. Ancient images of eggplant are elusive, but early modern Indian art provides another view of _Solanum melongena_. [^29] In the mid-nineteenth century, Robert Wight, a worker for the East India Company, published _Illustrations of Indian Botany_, which includes drawings mainly attributed to Rungiah and Govindoo, artists associated with Tanjore painting known for its depictions of Hindu religious subjects in flat, saturated colors.[^30] Along with other local artists commissioned by European trade companies, Rungiah and Govindoo are also considered part of “Company School,” or _Kampani kalam_[^31] painting, a blend of European naturalism and the stylized, intimate qualities of Indian devotional art.   
 
 
 <param ve-image 
@@ -249,16 +249,16 @@ Sanskrit documents written as early as 2,300 years ago attest to the importance 
        region="-933,-101,4669,4296"
        fit="cover">
 <param ve-image 
-       label="Company School"
-       description="Kampani kalam or Company School watercolour painting on paper of Solanum melongena. Calcutta, India, 19th century"
+       label="Made in Calcutta in the 19th century, kampani kalam or "Company School" watercolour painting on paper of Solanum melongena"
+       description="Company School"
        license="CC BY-SA 4.0"
        attribution="© The Trustees of the British Museum"
        url="https://media.britishmuseum.org/media/Repository/Documents/2014_10/17_10/26991ccc_7559_460b_ad27_a3c700aa9665/mid_01032763_001.jpg"
        region="-239,-50,1197,1102"
        fit="cover">
 <param ve-image 
-       label="A woman pulling giant aubergines from a tree"
-       description="Made in West Bengal, a watercolor of a woman harvesting a giant eggplant is in the style of Kalighat painting, known for its depictions of everyday life."
+       label="Made in West Bengal, a watercolor of a woman harvesting a giant eggplant is in the style of Kalighat painting, known for its depictions of everyday life"
+       description="A woman pulling giant aubergines from a tree"
        license="Public domain"
        attribution="A woman pulling giant aubergines from a tree. Watercolour. Wellcome Collection. https://wellcomecollection.org/works/buu2vm47. Public domain."
        url="https://iiif.wellcomecollection.org/image/V0044992/full/640%2C/0/default.jpg"
