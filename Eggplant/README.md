@@ -125,7 +125,7 @@ url="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Twemoji_1f346.svg
        license="CC BY 2.0."
        fit="contain">
 <param ve-compare
-       url="https://upload.wikimedia.org/wikipedia/commons/1/1f/Eggplant_01.jpg"
+       url="[https://upload.wikimedia.org/wikipedia/commons/1/1f/Eggplant_01.jpg]"
        label="Eggplant"
        description="Eggplant"
        license="CC BY-SA 4.0">
