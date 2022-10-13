@@ -125,7 +125,7 @@ Europe and the Americas had a belated introduction to eggplant, and its relative
        license="CC BY 2.0.">
        
 <param ve-compare
-       url="https://upload.wikimedia.org/wikipedia/commons/d/db/Tarum.jpg"
+       url="https://assets.bonappetit.com/photos/5f23269615fa96522dcee4ee/1:1/w_1969,h_1969,c_limit/Basically-Eggplant.jpg"
        label="Eggplant"
        description="Eggplant"
        license="CC BY-SA 4.0">
