@@ -276,7 +276,7 @@ Art and literature attest to a long human relationship with eggplant in China, w
        fit="cover">
 <param ve-image 
        url="https://raw.githubusercontent.com/sheshekabob/plants/main/Eggplant/MingDynasty_Eggplant.jpg"
-       label="Out of the collapse of the Yuan dynasty arose the imperial Ming Dynasty, when foreign trade expanded, as China came into greater contact with outside cultures. A European influence can be detected in the realism with which an unknown artist rendered eggplants in a Ming-era (1368-1644) still-life painting, 蔬果圖 (shu guo tu, or vegetables and fruit)."
+       label="After the imperial Ming Dynasty arose out of the collapse of the Yuan dynasty, China came into greater contact with outside cultures. A European influence can be detected in the realism with which an unknown artist rendered eggplants in a Ming-era (1368-1644) still-life painting, 蔬果圖 (shu guo tu, or vegetables and fruit)."
        description="Ming Dynasty painting"
        license="CC BY-SA 4.0"
        attribution="© The Trustees of the British Museum"
