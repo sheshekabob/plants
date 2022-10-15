@@ -44,6 +44,7 @@
 <param ve-entity eid="Q1385325">
 <param ve-entity eid="Q60756">
 <param ve-entity eid="Q7751"> <!-- Arcimboldo -->
+<param ve-entity eid="Q34636"> <!-- Art Nouveau -->
 <param ve-entity eid="Q8011">
 <param ve-entity eid="Q131401">
 <param ve-entity eid="Q1246493">
@@ -336,7 +337,7 @@ According to David Shields, the antebellum southern US incorporated eggplant alo
        
 ### Expanding Cultures of Eggplant in Late Modern Art
 
-As _S. melongena_ settled into Western culture, shedding some of its exoticism and becoming more normalized, its aesthetic appeal drew the attention of European and North American artists. Eggplant became an artistic subject, demonstrating how art and food are intimately related even in highly industrialized and urbanized societies. This includes examples of eggplant representations in the applied arts, such as a twentieth-century Portuguese [Majolica ceramic](http://majolicasociety.com/majolica-history/) teapot in the shape of a purple and green eggplant—a form of representation different from Asian vegetable-inspired objects, which are usually more refined and abstract. Another example is a leaded glass screen made by the North American company [Louis C. Tiffany and Company](https://www.morsemuseum.org/louis-comfort-tiffany/tiffany-studios) for a transom window at the George Kemp house in New York City. In fashion around 1870–1890, their Art Nouveau designs include elaborate patterns and borrow inspiration from natural elements, as displayed by the transom’s depiction of an eggplant bush with multicolored leaves and deep black fruit.
+As _S. melongena_ settled into Western culture, shedding some of its exoticism and becoming more normalized, its aesthetic appeal drew the attention of European and North American artists. Eggplant became an artistic subject, demonstrating how art and food are intimately related even in highly industrialized and urbanized societies. This includes eggplant representations in the applied arts, such as a twentieth-century [Majolica ceramic](http://majolicasociety.com/majolica-history/) teapot in the shape of a purple and green eggplant—a form of representation different from Asian vegetable-inspired objects, which are usually more refined and abstract. Another example is a leaded glass screen made by the North American company [Louis C. Tiffany and Company](https://www.morsemuseum.org/louis-comfort-tiffany/tiffany-studios) for a transom window at the George Kemp house in New York City. In fashion around 1870–1890, their Art Nouveau designs include elaborate patterns and borrow inspiration from natural elements, as displayed by the transom’s depiction of an eggplant bush with multicolored leaves and deep black fruit.
 
 <param ve-image 
        url="https://morsemuseum.org/wp-content/uploads/2022/03/eggplant.jpg"
