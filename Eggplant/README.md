@@ -237,7 +237,6 @@ Fuchs referenced the Persian physician and writer Avicenna (or Ibn Sina), as a s
 
 Sanskrit documents written as early as 2,300 years ago attest to eggplant's importance to Indian cuisine and medicine. Ancient images of this plant are elusive, but early modern Indian art provides alternate views of _Solanum melongena_.[^29] In the mid-nineteenth century, Robert Wight, a worker for the East India Company, published _Illustrations of Indian Botany_, which includes drawings of eggplant and other plants attributed mainly to Rungiah and Govindoo, two artists associated with Tanjore painting known for depicting Hindu religious subjects in flat, saturated colors.[^30] Along with other local artists commissioned by European trade companies in India, Rungiah and Govindoo are also categorized as Company style or _Kampani kalam_, which blended European naturalism with the stylized, intimate qualities of Indian devotional art.[^31] 
 
-
 <param ve-image 
        label="Robert Wight, Illustrations of Indian botany, or figures illustrative of each of the natural orders of Indian plants, described in the author's Prodromus florae peninsulae Indiae orientalis"
        description="Robert Wight"
@@ -327,7 +326,14 @@ According to David Shields, the antebellum southern US incorporated eggplant alo
        license="Public domain."
        attribution="Public domain. https://www.biodiversitylibrary.org/item/69949"
        fit="cover">
-
+<param ve-image 
+       url="https://raw.githubusercontent.com/sheshekabob/plants/main/Eggplant/seedbox oaksprings.jpg"
+       label="Vintage seedbox, from Shaker Seeds (1XXX)"
+       description="Seedbox from the Oaksprings Garden Library Collection"
+       license="?????"
+       attribution="http://oakspringgarden.org/"
+       fit="cover">
+       
 ### Expanding Cultures of Eggplant in Late Modern Art
 
 As _S. melongena_ settled into Western culture, shedding some of its exoticism and becoming more normalized, its aesthetic appeal drew the attention of European and North American artists. Eggplant became an artistic subject, demonstrating how art and food are intimately related even in highly industrialized and urbanized societies. This includes examples of eggplant representations in the applied arts, such as a twentieth-century Portuguese [Majolica ceramic](http://majolicasociety.com/majolica-history/) teapot in the shape of a purple and green eggplant—a form of representation different from Asian vegetable-inspired objects, which are usually more refined and abstract. Another example is a leaded glass screen made by the North American company [Louis C. Tiffany and Company](https://www.morsemuseum.org/louis-comfort-tiffany/tiffany-studios) for a transom window at the George Kemp house in New York City. In fashion around 1870–1890, their Art Nouveau designs include elaborate patterns and borrow inspiration from natural elements, as displayed by the transom’s depiction of an eggplant bush with multicolored leaves and deep black fruit.
