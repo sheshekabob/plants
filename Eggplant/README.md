@@ -326,7 +326,7 @@ According to David Shields, the antebellum southern US incorporated eggplant alo
        description="Black Beauty Egg plant"
        license="Public domain."
        attribution="Public domain. https://www.biodiversitylibrary.org/item/69949"
-       fit="cover">
+       fit="contain">
 <param ve-image 
        url="https://raw.githubusercontent.com/sheshekabob/plants/main/Eggplant/seedbox oaksprings.jpg"
        label="Vintage seedbox, from Shaker Seeds (1XXX)"
