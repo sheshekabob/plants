@@ -332,7 +332,7 @@ According to David Shields, the antebellum southern US incorporated eggplant alo
        description="Seedbox from the Oaksprings Garden Library Collection"
        license="?????"
        attribution="http://oakspringgarden.org/"
-       fit="cover">
+       fit="contain">
        
 ### Expanding Cultures of Eggplant in Late Modern Art
 
