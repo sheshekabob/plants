@@ -174,21 +174,19 @@ region="-2293,-53,16382,14731">
 In the sixteenth century, cultural responses to eggplant were shaped by the connections that permitted people to encounter this tropical fruit. Europeans were usually two or three steps removed from the food cultures of India and China, as the eggplant traveled by Islamic trade routes to the southern Mediterranean. Italy and Iberia had key connections with the Islamic world in both trade and warfare and thus a third-degree connection to eggplant, through Islamic and Jewish communities. In sixteenth-century Italy, the doctor and naturalist Pietro Andrea Mattioli wrote that eggplant was “generally eaten cooked with oil, salt, pepper and mushrooms,” adding that “some of our people…feed on the mad-apple in order to arouse love.”[^20] He also warned that this food was hard to digest and created digestive illnesses and long-lasting health issues. The New World tomato and the mythical “pomo d’oro” (golden apple) were often conflated as varieties of _melanzana_. This confusion might be why gold was applied to the eggplants in a copy of the _Hortus Eystettensis_ by the botanist Basilius Besler, who cited Mattioli.
 
 <param ve-compare curtain
-       curtain="true"
+       compare="true"
        url="https://raw.githubusercontent.com/sheshekabob/plants/main/Eggplant/besler2_t.jpg"
-       label="Basilius Besler, Hortus Eystettensis (Botanical gardens madrid)"
+       label="Basilius Besler, Hortus Eystettensis (Real Jardim Botânico de Madrid)"
        description="Eggplant illustrated in Besler's Hortus Eystettensis"
        license="Need to ask for permission"
-       attribution="Madrid Gardens"
-       fit="cover">
+       attribution="Real Jardim Botânico de Madrid">
        
 <param ve-compare 
        url="https://github.com/sheshekabob/plants/blob/main/Eggplant/Besler1_t.jpg"
        label="Basilius Besler, Hortus Eystettensis (Oak Springs)"
        description="Eggplant illustrated in Besler's Hortus Eystettensis"
        license="Need to ask for permission"
-       attribution="Oak springs"
-       fit="cover">
+       attribution="Oak springs">
 
 The physician and botanist Leonhart Fuchs described eggplants as “sown in our gardens, but frequently in…hanging window gardens” with cucumbers and melons.[^21] Fuchs’ German botanical tradition owed much to Swiss and Italian scholarship, and his warmer climate in Tübingen connected him to these botanical cultures. In the northern Mediterranean, the eggplant was initially met with some suspicion, even though these encounters were dictated mostly by the sharing of food. To suggest that suspicion of eggplant was greatly exaggerated, an amused Fuchs wrote that some people “immediately avoid the use of them, terrified by the name itself.” Even though eggplant could grow in European climes, cultural bias against foreign foods shaped the way people interacted with the plant.  
 
