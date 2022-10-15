@@ -183,7 +183,7 @@ In the sixteenth century, cultural responses to eggplant were shaped by the conn
        fit="cover">
        
 <param ve-compare 
-       url="https://github.com/sheshekabob/plants/blob/main/Eggplant/Besler1_t.jpg?raw=true"
+       url="https://github.com/sheshekabob/plants/blob/main/Eggplant/Besler1_t.jpg"
        label="Basilius Besler, Hortus Eystettensis (Oak Springs)"
        description="Eggplant illustrated in Besler's Hortus Eystettensis"
        license="Need to ask for permission"
