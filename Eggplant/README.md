@@ -326,7 +326,7 @@ According to David Shields, the antebellum southern US incorporated eggplant alo
        description="Black Beauty Egg plant"
        license="Public domain."
        attribution="Public domain. https://www.biodiversitylibrary.org/item/69949"
-       fit="contain">
+       fit="cover">
 <param ve-image 
        url="https://raw.githubusercontent.com/sheshekabob/plants/main/Eggplant/seedbox oaksprings.jpg"
        label="Vintage seedbox, from Shaker Seeds (1XXX)"
@@ -364,7 +364,7 @@ Avant-garde European painting such as Henri Matisse's _Still Life with Aubergine
        attribution="Musée de Grenoble. https://www.museedegrenoble.fr"
        fit="contain">
        
-Decades later, North American photographers further explored the formal properties of the fruit, its shape, color, and texture. Through abstraction and a highly refined sense of composition and light, Edward Weston depicts a dark globular cultivar in _Eggplant_ (1930), the same variety featured in agricultural literature at the time. As in many of Weston's photos, _Eggplant_ unveils the unexpected and the marvelous in natural elements and everyday objects, as well as their resemblance to the human body.[^46] Although the dietary significance of the eggplant is still present, underscored by the white plate, the shiny, ridged vegetable also awakens an aesthetic visual approach, and the urge to actually touch it and feel the smoothness of the skin, the firmness of the flesh.
+Decades later, North American photographers further explored the formal properties of the fruit, its shape, color, and texture. Through abstraction and a highly refined sense of composition and light, Edward Weston depicts a dark globular _Eggplant_ (1930), the same cultivar featured in agricultural literature at the time. As in many of his photos, _Eggplant_ unveils the unexpected and the marvelous in natural elements and everyday objects, as well as their resemblance to the human body.[^46] Although the dietary significance of the eggplant is still present, underscored by the white plate, the shiny, ridged vegetable also awakens an aesthetic visual approach, and the urge to actually touch it and feel the smoothness of the skin, the firmness of the flesh.
 
 <param ve-image 
        url="https://raw.githubusercontent.com/sheshekabob/plants/main/Eggplant/Weston.jpg"
