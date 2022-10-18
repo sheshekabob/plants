@@ -2,7 +2,6 @@
 
 <param ve-config 
        title="Eggplant: an expanding culture"
-       author="Ana Carolina Carmona-Ribeiro, Nathan Cornish, and Sheila Scoville"
        banner="https://raw.githubusercontent.com/sheshekabob/plants/main/Eggplant/Seikei%20Zusetsu_cover.jpg"
        layout="vertical">
 
