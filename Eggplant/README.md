@@ -71,13 +71,7 @@
 
 To turn a picky eater on to eggplant, many cooks defer to Italy and one of its breakout recipes, _==parmigiana=={Q973455} di melanzane_. However, just like its namesake ingredient and the jagged journey of this tropical domesticate across the globe, the exact origins of eggplant parmesan are debated. "Parmigiana" seems to point to northern Italy, but the cheeese made in Parma is not the star of the dish, only a finishing touch. [Archival research](http://www.cliffordawright.com/caw/food/entries/display.php/topic_id/4/id/109/) points to Naples as the rightful birthplace, while others make a case for Sicily. The latter camp claims that "parmigiana" is a mispronunciation of "palmigiana," a Sicilian word for "shutters," and possibly a metaphor for layers of fried eggplant rounds, tomato sauce, and mozzarella. "Parmigiana" also sounds like _parmiciana_, which means “Persian" in Sicilian, so perhaps the credit should instead go to the culture that helped introduce Europe to eggplant.[^1] Though unproven, this last theory reveals more than the facts of who did what where first. Plants and their cultural repertoires rarely stay put; they much prefer to move and mingle.
 
-<param ve-image 
-url="https://upload.wikimedia.org/wikipedia/commons/8/8b/Melanzane_alla_Parmigiana.jpg"
-       label="Melanzane alla Parmigiana" 
-       description="Baked aubergines with Parmesan cheese"
-       attribution="Flickr.com user Blue Lotus"
-       license="CC BY 2.0."
-       region="0,153,1912,984">
+.ve-media wc:Melanzane_alla_Parmigiana.jpg left caption="Dynamic image"
 
 World cuisine today abounds with eggplant dishes. A few classics like moussaka, baba ganoush, and makdous come from Levantine cuisine. Other gateway recipes include Indian Punjab mashed eggplant (_baingan bartha_), Chinese Sichuan fish-fragrant eggplant (_yuxiang qiezi_), and Tanzanian eggplant curry ([_mchuzi wa biringani_](https://www.congocookbook.com/vegetable-and-side-dish-recipes/mchuzi-wa-biringani-eggplant-curry/)). Treated as a culinary vegetable, eggplant is technically a berry as it contains small, edible seeds, and despits its low nutritional value, its cooked creamy texture and ability to sponge up flavors make it a hit in the kitchen. In Asia and the Middle East, eggplant is a dietary fixture, but in western Europe and the Americas, it still elicits suspicion as a nightshade, unlike its New World counterparts in the Solanaceae family, tomatoes, peppers, and potatoes, which have been fully embraced.
 
