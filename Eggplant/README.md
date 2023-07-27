@@ -394,8 +394,8 @@ A US company not only exporting a genetically altered crop back to the regions f
 <param ve-image 
        url="https://upload.wikimedia.org/wikipedia/commons/0/00/Only_planet_with_parmigiana_-_Fridays_for_Future_pre-COP26_Milano%2C_Lombardy%2C_Italy_-_2021-10-01.jpg"
        label="At a Fridays for Future strike for the environment on October 1, 2021 in Milan, a student holds a banner that reads: “Save the Earth, it’s the only place with parmigiana.”
-       license="CC BY-SA 3.0"
-       fit="cover">
+       license="CC BY-SA 4.0"
+       attribution="Mænsard vokse, <https://creativecommons.org/licenses/by-sa/4.0/deed.en>, via Wikimedia Commons">
 
 
 ### References
