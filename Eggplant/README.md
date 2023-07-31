@@ -3,7 +3,7 @@
 
 
 <param ve-config 
-       title="Eggplant: an expanding culture"
+       title="Eggplant: An Expanding Culture"
        author="Ana Carolina Carmona-Ribeiro, Nathan Cornish, and Sheila Scoville"
        source-image="https://raw.githubusercontent.com/sheshekabob/plants/main/Eggplant/Seikei%20Zusetsu_cover.jpg"
        banner="https://raw.githubusercontent.com/sheshekabob/plants/main/Eggplant/Seikei%20Zusetsu_cover.jpg"
@@ -70,6 +70,7 @@
 <param ve-entity eid="Q346988"> <!-- E. Weston -->
 <param ve-entity eid="Q312786"> <!-- R. Maplethorpe -->
 
+### A Global Food
 To turn a picky eater on to eggplant, many cooks defer to Italy and its breakout recipe _==parmigiana=={Q973455} di melanzane_. For good reason, eggplant parmesan is an international favorite, yet its exact origins are a matter of debate. "Parmigiana" points to northern Italy as the birthplace of the dish, but hard cheese from Parma is not an integral component, only a finishing touch. [The archive](http://www.cliffordawright.com/caw/food/entries/display.php/topic_id/4/id/109/) points south to Naples, but a case has also been made for Sicily. "Parmigiana" could be a mispronunciation of "palmigiana," a Sicilian word for "shutters"—perhaps a metaphor for a casserole with alternating layers of fried eggplant rounds, tomato sauce, and mozzarella. According to another theory, "parmigiana" sounds like _parmiciana_, Sicilian for “Persian," so the credit could ultimately go to the culture that helped introduce eggplant to Mediterranean cooks centuries ago.[^1] But more important than who did what where first is a truth revealed by eggplant's jagged journey to kitchens across the globe: plants and their cultural repertoires rarely stay put; they much prefer to move and mingle.
 
 <param ve-image
