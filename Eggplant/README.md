@@ -9,25 +9,6 @@
        banner="https://raw.githubusercontent.com/sheshekabob/plants/main/Eggplant/Seikei%20Zusetsu_cover.jpg"
        layout="vertical">
 
-<param ve-entity eid="Q7313">
-<param ve-entity eid="Q9903">
-<param ve-entity eid="Q2119204">
-<param ve-entity eid="Q553520">
-<param ve-entity eid="Q1265657">
-<param ve-entity eid="Q4501982">
-<param ve-entity eid="Q379653">
-<param ve-entity eid="Q464485">
-<param ve-entity eid="Q28179">
-<param ve-entity eid="Q76160295">
-<param ve-entity eid="Q184963">
-<param ve-entity eid="Q1588971">
-<param ve-entity eid="Q47087943">
-<param ve-entity eid="Q1375864">
-<param ve-entity eid="Q3108584">
-<param ve-entity eid="Q861297">
-<param ve-entity eid="Q6352595">
-<param ve-entity eid="Q1385325">
-<param ve-entity eid="Q60756">
 <param ve-entity eid="Q7751"> <!-- Arcimboldo -->
 <param ve-entity eid="Q34636"> <!-- Art Nouveau -->
 <param ve-entity eid="Q8011">
@@ -173,7 +154,7 @@ In the sixteenth century, cultural responses to eggplant were shaped by the conn
        license="Need to ask for permission"
        attribution="Oak springs">
 
-The German physician and botanist Leonhart Fuchs' botanical tradition owed much to Swiss and Italian scholarship, and his warmer climate in Tübingen connected him to these botanical cultures. He described eggplants as “sown in our gardens, but frequently in…hanging window gardens” with cucumbers and melons.[^21]  In the northern Mediterranean, the eggplant was initially met with some suspicion, even though these encounters were dictated mostly by the sharing of food. To suggest that suspicion of eggplant was greatly exaggerated, an amused Fuchs wrote that some people “immediately avoid the use of them, terrified by the name itself.” Although eggplant could grow in European climes, cultural bias against foreign foods shaped the way people interacted with the plant.  
+The German physician and botanist <span eid="Q60756">Leonhart Fuchs'</span>. botanical tradition owed much to Swiss and Italian scholarship, and his warmer climate in Tübingen connected him to these botanical cultures. He described eggplants as “sown in our gardens, but frequently in…hanging window gardens” with cucumbers and melons.[^21]  In the northern Mediterranean, the eggplant was initially met with some suspicion, even though these encounters were dictated mostly by the sharing of food. To suggest that suspicion of eggplant was greatly exaggerated, an amused Fuchs wrote that some people “immediately avoid the use of them, terrified by the name itself.” Although eggplant could grow in European climes, cultural bias against foreign foods shaped the way people interacted with the plant.  
 
 <param ve-image 
        url="https://upload.wikimedia.org/wikipedia/commons/4/49/Leonhart_Fuchs_1543.jpg"
@@ -219,7 +200,7 @@ Eggplant traveled light, leaving behind much of its cultural meaning, but it acq
        url="https://upload.wikimedia.org/wikipedia/commons/a/a7/Abbasid_Caliphate_850AD.png"
        region="-136,-448,2437,2242">
 
-The routes that had brought eggplant west receded to India. Sanskrit documents written as early as 2,300 years ago attest to eggplant's importance to Indian cuisine and medicine. Ancient images of this plant are elusive, but early modern Indian art provides a view of _Solanum melongena_ different from that of early European herbals.[^29] In the mid-nineteenth century, Robert Wight, a worker for the East India Company, published _Illustrations of Indian Botany_, which includes drawings of eggplant and other plants attributed mainly to Rungiah and Govindoo, two artists associated with Tanjore painting known for depicting Hindu religious subjects in flat, saturated colors.[^30] Along with other local artists commissioned by European trade companies in India, Rungiah and Govindoo are also categorized as Company style or _Kampani kalam_, which blended European naturalism with the stylized, intimate qualities of Indian devotional art.[^31] 
+The routes that had brought eggplant west receded to India. Sanskrit documents written as early as 2,300 years ago attest to eggplant's importance to Indian cuisine and medicine. Ancient images of this plant are elusive, but early modern Indian art provides a view of _Solanum melongena_ different from that of early European herbals.[^29] In the mid-nineteenth century, <span eid="Q1375864">Robert Wight</span>, a worker for the East India Company, published _Illustrations of Indian Botany_, which includes drawings of eggplant and other plants attributed mainly to <span eid="Q47087943">Rungiah</span> and Govindoo, two artists associated with <span eid="Q3108584">Tanjore painting</span> known for depicting Hindu religious subjects in flat, saturated colors.[^30] Along with other local artists commissioned by European trade companies in India, Rungiah and Govindoo are also categorized as <span eid="Q861297">Company style</span> or _Kampani kalam_, which blended European naturalism with the stylized, intimate qualities of Indian devotional art.[^31] 
 
 <param ve-image 
        label="Robert Wight, Illustrations of Indian botany, or figures illustrative of each of the natural orders of Indian plants, described in the author's Prodromus florae peninsulae Indiae orientalis"
@@ -246,7 +227,7 @@ The routes that had brought eggplant west receded to India. Sanskrit documents w
        region="-213,52,1067,902"
        fit="cover">
 
-Art and literature attest to a long human relationship with eggplant in China, where this crop was cultivated no later than 59 BCE, the year of the first known written Chinese record of eggplant by the poet Wang Bao.[^32] Ancient literature reveals how Chinese farmers bred eggplants to be larger, longer, sweeter, and less bitter and spiny. For example, a sixth-century text states that eggplants were typically pellet-sized, but 600 years later, their size was compared to teacups.[^33] The [earliest known Chinese illustration of eggplant](https://pubmed.ncbi.nlm.nih.gov/18819950/#&gid=article-figures&pid=fscigsc-2-uid-1) is in a work of <span eid="Q1291275">materia medica</span> written in 1061 CE, and around 200 years later, another text includes an [eggplant painted in vivid colors.](https://pubmed.ncbi.nlm.nih.gov/18819950/#&gid=article-figures&pid=fscigsc-3-uid-2)[^34] Eggplant also appears in _Yinshan Zhengyao_ (Dietary Principles) written in 1330 by a <span eid="Q7313">Yuan Dynasty</span> dietician of the Mongol emperor. This treatise lists several recipes, including stuffed eggplant, a dish that reveals China's long-standing Turkish presence.[^35]
+Art and literature attest to a long human relationship with eggplant in China, where this crop was cultivated no later than 59 BCE, the year of the first known written Chinese record of eggplant by the poet <span eid="Q2119204">Wang Bao</span>.[^32] Ancient literature reveals how Chinese farmers bred eggplants to be larger, longer, sweeter, and less bitter and spiny. For example, a sixth-century text states that eggplants were typically pellet-sized, but 600 years later, their size was compared to teacups.[^33] The [earliest known Chinese illustration of eggplant](https://pubmed.ncbi.nlm.nih.gov/18819950/#&gid=article-figures&pid=fscigsc-2-uid-1) is in a work of <span eid="Q1291275">materia medica</span> written in 1061 CE, and around 200 years later, another text includes an [eggplant painted in vivid colors.](https://pubmed.ncbi.nlm.nih.gov/18819950/#&gid=article-figures&pid=fscigsc-3-uid-2)[^34] Eggplant also appears in _Yinshan Zhengyao_ (Dietary Principles) written in 1330 by a <span eid="Q7313">Yuan Dynasty</span> dietician of the Mongol emperor. This treatise lists several recipes, including stuffed eggplant, a dish that reveals China's long-standing Turkish presence.[^35]
 
 <param ve-image 
        url="https://raw.githubusercontent.com/sheshekabob/plants/main/Eggplant/Yinshan.jpg"
@@ -263,7 +244,7 @@ Art and literature attest to a long human relationship with eggplant in China, w
        attribution="© The Trustees of the British Museum"
        fit="cover">
 
-The artistic and literary traditions show the insinuation of eggplant into neighboring Asian cultures. The Korean artist Shin Saimdang (1504–1551) made eggplant a subject of her still-life paintings that represent _Chochungdo_ ("insects on flowers"), a genre that carefully observes native flora and fauna.[^36] By the fourth century, Southeast Asians were cultivating eggplant, and the importance that the crop acquired in Vietnam is underscored by a sixteenth-century [water dropper](https://www.britishmuseum.org/collection/object/A_2001-1129-5_1) excavated at Hội An.[^37] In the eighth century, the eggplant crossed the Sea of Japan.[^38] The nineteenth-century agricultural text _Seikei zusetsu_ includes a sumptuous print of eggplant depicted in a hybrid style indicative of nearly two centuries of Japanese and European exchange enabled by the presence of the Dutch East India Company in Nagasaki.[^39] As people deepen their connections with plants, they treat them as more than sources of nutrition or medicine. For instance, since Japan's Edo period (1603–1867), eggplant has been part of the tradition of _Hatsuyume_, in which dreaming of Mount Fuji, a hawk, and an eggplant are regarded as auspicious signs for a new year.[^40] 
+The artistic and literary traditions show the insinuation of eggplant into neighboring Asian cultures. The Korean artist <span eid="Q464485">Shin Saimdang (1504–1551)</span> made eggplant a subject of her still-life paintings that represent _Chochungdo_ ("insects on flowers"), a genre that carefully observes native flora and fauna.[^36] By the fourth century, Southeast Asians were cultivating eggplant, and the importance that the crop acquired in Vietnam is underscored by a sixteenth-century [water dropper](https://www.britishmuseum.org/collection/object/A_2001-1129-5_1) excavated at Hội An.[^37] In the eighth century, the eggplant crossed the Sea of Japan.[^38] The nineteenth-century agricultural text <span eid="Q76160295">_Seikei zusetsu_</span> includes a sumptuous print of eggplant depicted in a hybrid style indicative of nearly two centuries of Japanese and European exchange enabled by the presence of the Dutch East India Company in Nagasaki.[^39] As people deepen their connections with plants, they treat them as more than sources of nutrition or medicine. For instance, since Japan's <span eid="Q184963">Edo period</span> (1603–1867), eggplant has been part of the tradition of <span eid="Q1588971">_Hatsuyume_</span>, in which dreaming of Mount Fuji, a hawk, and an eggplant are regarded as auspicious signs for a new year.[^40] 
 
 <param ve-image 
        url="https://upload.wikimedia.org/wikipedia/commons/8/87/Chochungdo_02.jpg"
@@ -291,7 +272,7 @@ The artistic and literary traditions show the insinuation of eggplant into neigh
        
 ### Atlantic Encounters and the Expanding (Agri)cultures of Eggplant 
 
-Along with _S. melongena_, eggplant cultivars of Africa include the scarlet-colored guinea squash ([_S. aethiopicum L._](https://worldcrops.org/crops/garden-egg)) and the crunchy Gboma eggplant (_S. macrocarpon L._). _S. melongena_ was introduced to the Americas in the sixteenth century, but enslaved Africans also brought over guinea squash, according to the Dutch physician and naturalist Willem Piso in his document of Brazilian flora, the [_Historia naturalis Brasiliae_](https://pt.wikipedia.org/wiki/Historia_Naturalis_Brasiliae) (1648). Scholars Judith Carney and Richard Rosomoff argue that enslaved labor crossed the Atlantic bearing not only than the clothes on their backs, but also African food staples, including guinea squash, sesame, okra, watermelon, millet, sorghum, and black-eyed peas, and the skills and knowledge to farm such crops. Adapting to the new environmental and social conditions, enslaved workers cultivated “food fields,” which were a restricted form of access to land that afforded a degree of security, autonomy, and the “acknowledgment that not all of one's labor was owned by the master.”[^41]
+Along with _S. melongena_, eggplant cultivars of Africa include the scarlet-colored guinea squash ([_S. aethiopicum L._](https://worldcrops.org/crops/garden-egg)) and the crunchy Gboma eggplant (_S. macrocarpon L._). _S. melongena_ was introduced to the Americas in the sixteenth century, but enslaved Africans also brought over guinea squash, according to the Dutch physician and naturalist <span eid="Q1385325">Willem Piso</span>. in his document of Brazilian flora, the [_Historia naturalis Brasiliae_](https://pt.wikipedia.org/wiki/Historia_Naturalis_Brasiliae) (1648). Scholars Judith Carney and Richard Rosomoff argue that enslaved labor crossed the Atlantic bearing not only than the clothes on their backs, but also African food staples, including guinea squash, sesame, okra, watermelon, millet, sorghum, and black-eyed peas, and the skills and knowledge to farm such crops. Adapting to the new environmental and social conditions, enslaved workers cultivated “food fields,” which were a restricted form of access to land that afforded a degree of security, autonomy, and the “acknowledgment that not all of one's labor was owned by the master.”[^41]
 
 <param ve-image 
        url="https://www.biodiversitylibrary.org/pageIMAGE/289117"
