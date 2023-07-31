@@ -326,7 +326,6 @@ In recent years, eggplant has become the center of one of the hardest fought deb
        url="https://upload.wikimedia.org/wikipedia/commons/b/b7/BT_Brinjal_Protest_Bangalore_India.JPG"
        label="Different varieties of eggplants put out by protesters in Bangalore during the listening tour of India's environment minister relating to the introduction of BT Brinjal (2010)"
        license="CC BY-SA 3.0"
-       attribution="Infoeco, <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons"
        fit="cover">
        {#paragraph23}
 
