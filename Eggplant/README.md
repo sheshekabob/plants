@@ -76,20 +76,21 @@ To turn a picky eater on to eggplant, many cooks defer to Italy and its breakout
 <param ve-image
        label="Melanzane alla Parmigiana, baked aubergines with Parmesan cheese."
        url="https://upload.wikimedia.org/wikipedia/commons/8/8b/Melanzane_alla_Parmigiana.jpg">
+       {#paragraph1}
+
 
 World cuisine today abounds with dishes in which eggplant plays the star role. A few classics like moussaka, baba ganoush, and makdous come from Levantine cuisine. Other gateway recipes include Indian Punjab mashed eggplant (_baingan bartha_), Chinese Sichuan fish-fragrant eggplant (_yuxiang qiezi_), and Tanzanian eggplant curry ([_mchuzi wa biringani_](https://www.congocookbook.com/vegetable-and-side-dish-recipes/mchuzi-wa-biringani-eggplant-curry/)). Technically a berry as it contains edible seeds, eggplant is a culinary vegetable, and though it lacks much nutritional value, its cooked creamy texture and ability to sponge up flavors make it a kitchen hit. In Asia and the Middle East, eggplant is a dietary fixture, but in the West, it has yet to shake its stigma as a member of the Solanaceae family, known to harbor toxic alkaloids, whereas New World nightshades like tomatoes, peppers, and potatoes have been fully embraced.
- 
-<param ve-iframe
-src="https://wikimap.toolforge.org/?cat=Eggplant-based_food&subcats=true&subcatdepth=1&cluster=true#close">
-
-The winding path of eggplant through space and time is mirrored by a [map of its current production](https://en.wikipedia.org/wiki/List_of_countries_by_eggplant_production). More than 80% of the world's supply comes from China and India, followed by Egypt, Turkey, and Indonesia. While scientists debate the origins and historical distribution of eggplant,  most agree that today's common species were first domesticated in Asia over 2,000 years ago.[^2] Through east and westward diffusion, what was an ancient and storied plant in India and China became richly appreciated elsewhere. The late medieval period marked the arrival of eggplant in the Mediterranean and then northern Europe, where it initially provoked more interest as a suspicious exotic than as food or medicine. Around the same time, eggplant began traveling the networks of empire as an Old World crop in the Columbian Exchange. Each of these encounters demonstrate that once a plant is adopted into daily patterns of consumption, it's not long before it acquires a deeper cultural resonance.     
 
 <param ve-image 
        url="https://upload.wikimedia.org/wikipedia/commons/2/26/Countries_by_eggplant_production_in_2020.png"
        label="Map showing countries by eggplant production in tonnes (FAOSTAT 2020)"
        description="Darker areas show greater Eggplant production"
        license="CC BY-SA 4.0"
-       region="519,-1065,5789,5327">  
+       region="519,-1065,5789,5327">
+
+The winding path of eggplant through space and time is mirrored by a [map of its current production](https://en.wikipedia.org/wiki/List_of_countries_by_eggplant_production). More than 80% of the world's supply comes from China and India, followed by Egypt, Turkey, and Indonesia. While scientists debate the origins and historical distribution of eggplant,  most agree that today's common species were first domesticated in Asia over 2,000 years ago.[^2] Through east and westward diffusion, what was an ancient and storied plant in India and China became richly appreciated elsewhere. The late medieval period marked the arrival of eggplant in the Mediterranean and then northern Europe, where it initially provoked more interest as a suspicious exotic than as food or medicine. Around the same time, eggplant began traveling the networks of empire as an Old World crop in the Columbian Exchange. Each of these encounters demonstrate that once a plant is adopted into daily patterns of consumption, it's not long before it acquires a deeper cultural resonance.     
+
+  
 
 ### A World of Eggplants
 
