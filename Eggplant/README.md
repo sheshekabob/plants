@@ -332,7 +332,8 @@ In recent years, eggplant has become the center of one of the hardest fought deb
 A US company not only exporting a genetically altered crop back to the regions from which it historically originated, but also maintaining ownership of the plant sparks controversy. Such cases are key to the kind of issues with which Plant Humanities deals. Plants are more than products up for genetic improvement and economic exploitation; they also have cultural meaning. Plants are woven into complex, fluid social relationships that bring together issues of human welfare, Indigenous ecology, the power of profiteering corporations, and the future of global food. Since its domestication, eggplant has been entwined in human culture, and now, as a global plant, it is squarely located in international conflicts with far-reaching consequences.
 <param ve-image 
        url="https://upload.wikimedia.org/wikipedia/commons/0/00/Only_planet_with_parmigiana_-_Fridays_for_Future_pre-COP26_Milano%2C_Lombardy%2C_Italy_-_2021-10-01.jpg"
-       label="At a Fridays for Future strike for the environment on October 1, 2021 in Milan, a student holds a banner that reads: “Save the Earth, it’s the only place with parmigiana.”
+       fit="cover"
+       label="At a Fridays for Future strike for the environment on October 1, 2021 in Milan, a student holds a banner that reads: “Save the Earth, it’s the only place with parmigiana”
        license="CC BY-SA 4.0">
        {#paragraph24}
 
