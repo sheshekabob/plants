@@ -18,7 +18,6 @@ _parmigiana di melanzane_</span>. For good reason, eggplant parmesan is an inter
        url="https://upload.wikimedia.org/wikipedia/commons/8/8b/Melanzane_alla_Parmigiana.jpg">
        {#paragraph1}
 
-
 World cuisine today abounds with dishes in which eggplant plays the star role. A few classics like moussaka, baba ganoush, and makdous come from <span eid="Q765174">Levantine cuisine</span>. Other gateway recipes include Indian Punjab mashed eggplant (_baingan bartha_), Chinese Sichuan fish-fragrant eggplant (_yuxiang qiezi_), and Tanzanian eggplant curry ([_mchuzi wa biringani_](https://www.congocookbook.com/vegetable-and-side-dish-recipes/mchuzi-wa-biringani-eggplant-curry/)). Technically a berry as it contains edible seeds, eggplant is a culinary vegetable, and though it lacks much nutritional value, its cooked creamy texture and ability to sponge up flavors make it a kitchen hit. In Asia and the Middle East, eggplant is a dietary fixture, but in the West, it has yet to shake its stigma as a member of the <span eid="Q134172">Solanaceae family</span>, known to harbor toxic alkaloids, whereas New World nightshades like tomatoes, peppers, and potatoes have been fully embraced.
 
 <param ve-iframe src="https://wikimap.toolforge.org/?cat=Eggplant-based_food&subcats=true&subcatdepth=1&cluster=true#close">
@@ -46,6 +45,7 @@ url="https://pic.blog.plover.com/lang/etym/eggplant-map/eggplant-map.png"
        license="Permission pending"
        region="137,-342,1861,1712"
        fit="contain">
+       {#paragraph4}
 
 Dozens of eggplant varieties and cultivars are grown today,[^3] as this genus hybridizes easily, with or without human help.[^4] Horticulturists, gardeners, and cooks get excited when discussing the various cultivars. The creamy flesh of the Japanese Pickling, for example, is described as tasting mellow and sweet. Cultivar names also reveal the fertile imagination of their growers. There's the Fairy Tale, so called perhaps for its lovely violet skin with white stripes; the prolific Little Fingers, which grows in clusters of 20 fruits or more; the Black Beauty, like Anna Sewell's famous horse; or the hybrid Ichiban, meaning "best" in Japanese. The ornamental attributes of eggplants like the eye-catching white and purple Italian Rosa Bianca or the tiny watermelon-like Thai eggplant are admired almost as much as their flavor. And while the ubiquitous eggplant emoji is solid purple, the fruits can be white, red, yellow, green, reddish-purple, light purple, dark purple, black, striped, or "marbled."
 
@@ -56,6 +56,7 @@ url="https://raw.githubusercontent.com/sheshekabob/plants/main/Eggplant/cultivar
        attribution="Ana Carmona-Ribeiro"
        license="CC BY-SA 4.0"
        fit="contain">
+       {#paragraph5}
 
 ### The Eggplant Emoji: Nothing New under the Sun
 
@@ -74,6 +75,7 @@ Europe and the Americas had a belated introduction to eggplant, and its relative
        label="Eggplant"
        description="Eggplant"
        license="CC BY-SA 4.0">
+       {#paragraph6}
        
 The digital age is just the latest chapter of the eggplant’s erotic entanglements. Written in Sanskrit 2,000 years ago, the <span eid="Q47228">_Kama Sutra_</span> recommends rubbing the male member, or “lingam,” with eggplant to produce “a swelling lasting for one month.”[^7] As wild as this claim sounds, [recent](https://www.escardio.org/The-ESC/Press-Office/Press-releases/mediterranean-diet-shows-promise-in-men-with-erectile-dysfunction) [studies](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6893753/) suggest that eggplant reduces hypertension, a major cause of [erectile dysfunction.](https://www.webmd.com/hypertension-high-blood-pressure/guide/high-blood-pressure-erectile-dysfunction) Practitioners of <span eid="Q132325">Ayurveda</span>, a classical system of Indian medicine, documented the health benefits of the eggplant's wild relatives, species found in pharmacopeias today.[^8] Ayurvedic texts contain some of the earliest records of eggplant.[^9] Much later, in the eleventh century, the <span eid="Q608662">_Taqwim al-Sihhah_</span> (The Maintenance of Health) by Ibn Buṭlān of Baghdad eggplant featured in another sexual situation. Translated into Latin and illustrated in Italy, this medical treatise includes versions that picture a couple under the spell of the risqué fruit. 
 
@@ -84,6 +86,7 @@ url="https://raw.githubusercontent.com/sheshekabob/plants/main/IBN_BUTLA%CC%82N_
        attribution="gallica.bnf.fr / Bibliothèque nationale de France"
        license="CC BY 2.0."
        region="0,49,1024,943">
+       {#paragraph7}
 
 ### Eggplant in the Renaissance: Between Art and Natural History
 
@@ -95,6 +98,7 @@ url="https://upload.wikimedia.org/wikipedia/commons/a/af/Le_concile_des_Dieux_da
        description="Villa Farnesina"
        attribution="Jean-Pierre Dalbéra, Paris, France"
        license="CC BY 2.0.">
+       {#paragraph8}
 
 The Villa Farnesina features 21 images of eggplants [^13] Many Renaissance murals juxtapose plants and animals with figures of Classical mythology,[^14] forming menageries that convey the ambiguity of sixteenth-century science, when art and botanical study dovetailed.[^15] The Italian painter <span eid="Q7751">Giuseppe Arcimboldo</span> made studies of plants while serving the Austrian Habsburg family and working in an "avant-garde atmosphere" that included a _Kunstkammer_, a zoo, and parties in which the court dressed as the elements and seasons, following his designs.[^16] With great scientific fluency, Arcimboldo painted peculiar portraits. In _Zomer_ (1563), an allegory for "Summer" is composed of a <span data-mouseover-image-zoomto="549,1189,2196,1745">club-shaped eggplant,</span> a <span data-mouseover-image-zoomto="1336,2149,1935,1673">white eggplant</span>, other fruits, vegetables, cereals, foliage, and flowers—all recognizable from a botanical standpoint. In _Vertumnus_ (c. 1590), the emperor Rudolf II is represented as the Roman god of the seasons and plant growth. A long eggplant helps shape his “neck,” defying the late medieval and early Renaissance idea that the fruits of trees were a luxury reserved for the nobility, while peasants were left with the “low” vegetables grown under or near the soil.[^17] Beyond the visual puns, his portraits have a political and philosophical significance, symbolizing “the copiousness of creation and the power of the ruling family over everything,"[^18] and the anthropocentrism of an era when man was seen as a summary of all creation.[^19]
 
@@ -110,6 +114,7 @@ url="https://upload.wikimedia.org/wikipedia/commons/b/b5/Vertumnus_%C3%A5rstider
 description="Vertumnus"
 license="Public domain"
 region="-2293,-53,16382,14731">
+{#paragraph9}
 
 ### European Herbals: Secondhand and Thirdhand Encounters
 
@@ -129,6 +134,7 @@ In the sixteenth century, cultural responses to eggplant were shaped by the conn
        description="Eggplant illustrated in Besler's Hortus Eystettensis"
        license="Need to ask for permission"
        attribution="Oak springs">
+       {#paragraph10}
 
 The German physician and botanist <span eid="Q60756">Leonhart Fuchs'</span>. botanical tradition owed much to Swiss and Italian scholarship, and his warmer climate in Tübingen connected him to these botanical cultures. He described eggplants as “sown in our gardens, but frequently in…hanging window gardens” with cucumbers and melons.[^21]  In the northern Mediterranean, the eggplant was initially met with some suspicion, even though these encounters were dictated mostly by the sharing of food. To suggest that suspicion of eggplant was greatly exaggerated, an amused Fuchs wrote that some people “immediately avoid the use of them, terrified by the name itself.” Although eggplant could grow in European climes, cultural bias against foreign foods shaped the way people interacted with the plant.  
 
@@ -146,6 +152,7 @@ The German physician and botanist <span eid="Q60756">Leonhart Fuchs'</span>. bot
        license="Public domain. https://www.biodiversitylibrary.org/item/129744#page/567/mode/1up"
        region="-936,316,4682,4049"
        fit="cover">
+       {#paragraph11}
        
 Authors of English herbals were one more step removed from eggplant than their southern counterparts and thus highly skeptical of this exotic. In 1597, <span eid="Q1333338">John Gerard</span> wrote that he saw only one fruit “of the bigness of a goose egg” in London. He recommended that English people should “content themselves with the meat and sauce of our own country,” because “these apples have a mischievous quality, the use whereof is utterly to be forsaken.”[^22] In 1699, the Scottish botanist <span eid="Q281661">Robert Morison</span> describes them as “condemned by doctors as harmful and perverse.”[^23]  Much of Gerard's advice was copied by <span eid="Q312678">Philip Miller</span> in his dictionary of 1754, which contends that “these plants are only preserved as curiosities in the English gardens” and only eaten by “some Italians or Spaniards.”[^24] We see culinary prejudice and aesthetic admiration towards plants several steps culturally removed from these authors. Just as the association with Islamic culture made Italians initially suspicious of the eggplant, its ties to Spanish and Italian culture made the plant seem strange to British gardeners. 
 
@@ -155,6 +162,7 @@ Authors of English herbals were one more step removed from eggplant than their s
        hash-bookmark="false""
        initial-zoom="1""
        height="750">
+       {#paragraph12}
 
 Compiled by Dutch colonists in 1676, the <span eid="Q5907004">_Hortus Malabaricus_</span> of 1678 took a different approach than that of herbalists in England and Germany, who warned their readers away from eggplant. This source on the plants of “Malabar” (modern-day Kerala) derived its information from locals. Much of its contents are attributed to the distinguished Indian herbalist <span eid="Q6095079">Itty Achudan</span>, who compiled local knowledge.[^25] The _Hortus Malabaricus_ lists the Braman name for eggplant, "Vaenna,” noting its use for curing toothaches and treating cows with internal abscesses.[^26] TThe Dutch “author” <span eid="Q741104">Hendrik van Rheede</span> laments that “the fruit of the nightshade in our homeland is a narcotic power: but India produces edible nightshades!”[^27] In these cultural encounters, Europeans demonstrated a willingness to incorporate local plants into their herbal understanding while dreaming of potential profit and botanical innovation.
 
@@ -164,6 +172,7 @@ Compiled by Dutch colonists in 1676, the <span eid="Q5907004">_Hortus Malabaricu
        description="Hortus Malabaricus, Vol 10"
        license="Public domain"
        region="-54,-168,2581,2477">
+       {#paragraph13}
 
 ### The Eggplant in Western and Eastern Asia
 
@@ -175,6 +184,7 @@ Eggplant traveled light, leaving behind much of its cultural meaning, but it acq
        license="CC BY-SA 4.0"
        url="https://upload.wikimedia.org/wikipedia/commons/a/a7/Abbasid_Caliphate_850AD.png"
        region="-136,-448,2437,2242">
+       {#paragraph14}
 
 The routes that had brought eggplant west receded to India. Sanskrit documents written as early as 2,300 years ago attest to eggplant's importance to Indian cuisine and medicine. Ancient images of this plant are elusive, but early modern Indian art provides a view of _Solanum melongena_ different from that of early European herbals.[^29] In the mid-nineteenth century, <span eid="Q1375864">Robert Wight</span>, a worker for the East India Company, published _Illustrations of Indian Botany_, which includes drawings of eggplant and other plants attributed mainly to <span eid="Q47087943">Rungiah</span> and Govindoo, two artists associated with <span eid="Q3108584">Tanjore painting</span> known for depicting Hindu religious subjects in flat, saturated colors.[^30] Along with other local artists commissioned by European trade companies in India, Rungiah and Govindoo are also categorized as <span eid="Q861297">Company style</span> or _Kampani kalam_, which blended European naturalism with the stylized, intimate qualities of Indian devotional art.[^31] 
 
@@ -202,6 +212,7 @@ The routes that had brought eggplant west receded to India. Sanskrit documents w
        url="https://iiif.wellcomecollection.org/image/V0044992/full/640%2C/0/default.jpg"
        region="-213,52,1067,902"
        fit="cover">
+       {#paragraph15}
 
 Art and literature attest to a long human relationship with eggplant in China, where this crop was cultivated no later than 59 BCE, the year of the first known written Chinese record of eggplant by the poet <span eid="Q2119204">Wang Bao</span>.[^32] Ancient literature reveals how Chinese farmers bred eggplants to be larger, longer, sweeter, and less bitter and spiny. For example, a sixth-century text states that eggplants were typically pellet-sized, but 600 years later, their size was compared to teacups.[^33] The [earliest known Chinese illustration of eggplant](https://pubmed.ncbi.nlm.nih.gov/18819950/#&gid=article-figures&pid=fscigsc-2-uid-1) is in a work of <span eid="Q1291275">materia medica</span> written in 1061 CE, and around 200 years later, another text includes an [eggplant painted in vivid colors.](https://pubmed.ncbi.nlm.nih.gov/18819950/#&gid=article-figures&pid=fscigsc-3-uid-2)[^34] Eggplant also appears in _Yinshan Zhengyao_ (Dietary Principles) written in 1330 by a <span eid="Q7313">Yuan Dynasty</span> dietician of the Mongol emperor. This treatise lists several recipes, including stuffed eggplant, a dish that reveals China's long-standing Turkish presence.[^35]
 
@@ -219,6 +230,7 @@ Art and literature attest to a long human relationship with eggplant in China, w
        license="CC BY-SA 4.0"
        attribution="© The Trustees of the British Museum"
        fit="cover">
+       {#paragraph16}
 
 The artistic and literary traditions show the insinuation of eggplant into neighboring Asian cultures. The Korean artist <span eid="Q464485">Shin Saimdang (1504–1551)</span> made eggplant a subject of her still-life paintings that represent _Chochungdo_ ("insects on flowers"), a genre that carefully observes native flora and fauna.[^36] By the fourth century, Southeast Asians were cultivating eggplant, and the importance that the crop acquired in Vietnam is underscored by a sixteenth-century [water dropper](https://www.britishmuseum.org/collection/object/A_2001-1129-5_1) excavated at Hội An.[^37] In the eighth century, the eggplant crossed the Sea of Japan.[^38] The nineteenth-century agricultural text <span eid="Q76160295">_Seikei zusetsu_</span> includes a sumptuous print of eggplant depicted in a hybrid style indicative of nearly two centuries of Japanese and European exchange enabled by the presence of the Dutch East India Company in Nagasaki.[^39] As people deepen their connections with plants, they treat them as more than sources of nutrition or medicine. For instance, since Japan's <span eid="Q184963">Edo period</span> (1603–1867), eggplant has been part of the tradition of <span eid="Q1588971">_Hatsuyume_</span>, in which dreaming of Mount Fuji, a hawk, and an eggplant are regarded as auspicious signs for a new year.[^40] 
 
@@ -245,6 +257,7 @@ The artistic and literary traditions show the insinuation of eggplant into neigh
        attribution="Public domain. Museum of Fine Arts, Boston, https://www.mfa.org/"
        region="-333,1,1667,1375"
        fit="cover">
+       {#paragraph17}
        
 ### Atlantic Encounters and the Expanding (Agri)cultures of Eggplant 
 
@@ -257,6 +270,7 @@ Along with _S. melongena_, eggplant cultivars of Africa include the scarlet-colo
        license="Public domain"
        attribution="Public domain. https://www.biodiversitylibrary.org/item/10338#page/169/mode/1up"
        region="722,1960,2954,2718">
+       {#paragraph18}
 
 While Southerners of the antebellum US incorporated eggplant along with other “foods that spread from the black hearthside to general consumption,” Northerners were slower to accept the guinea squash.[^42] A pamphlet published in 1891 states that “some of the neglect of the egg plant is due to the fact that cooks are not familiar with it.” The authors’ suggestions are the tried and true: “fried,” “fried,” “baked,” and “fritters.”[^43] Over time, Americans everywhere began incorporating eggplant into their diets, a trend verified by its regular appearance in growing guides and seed catalogs. Adolph Kruhm’s _Home vegetable gardening from A to Z_ (1918) presents the Black Beauty cultivar cinched by a measuring tape to showcase its girth, alluding to the qualitative and competitive spirit of modern agriculture. Kruhm’s growing tips for this crop still stand and begin with the statement: “Cool nights do not agree with this child of the tropics.”[^44]
 
@@ -274,6 +288,7 @@ While Southerners of the antebellum US incorporated eggplant along with other �
        license="?????"
        attribution="http://oakspringgarden.org/"
        fit="contain">
+       {#paragraph19}
        
 ### Expanding Cultures of Eggplant in Late Modern Art
 
@@ -300,6 +315,7 @@ As _S. melongena_ settled into Western culture, shedding some of its exoticism, 
        license="Permission pending - Musée de Grenoble-J.L.Lacroix © Succession H. Matisse"
        attribution="Musée de Grenoble. https://www.museedegrenoble.fr"
        fit="contain">
+       {#paragraph20}
        
 Decades later, the formal properties of the fruit became a subject of photography. Through abstraction and a highly refined sense of composition and light, <span eid="Q346988">Edward Weston</span> depicts a dark globular eggplant, the same cultivar featured in agricultural literature at the time. As in many of his photos, _Eggplant_ (1930) unveils the unexpected and the marvelous in natural elements and everyday objects, as well as their resemblance to the human body.[^46] Although the dietary significance of the eggplant is still present, the shiny, ridged vegetable awakens both an aesthetic visual appreciation as well as the urge to touch the fruit and feel its smooth skin and firm flesh.
 
@@ -310,6 +326,7 @@ Decades later, the formal properties of the fruit became a subject of photograph
        license="Permission pending"
        attribution="???????"
        fit="contain">
+       {#paragraph21}
        
 This visual and haptic appeal is more pronounced in the work of <span eid="Q312786">Robert Mapplethorpe</span>, whose creative use of light and formal experimentation is derived from Weston.[^47] Mapplethorpe produced hundreds of nude studies and erotic photographs. Eroticism was the guiding thread of his gaze, permeating his portraits of women, men, flowers, and fruit, including a sensuous bunch of grapes and _Eggplant_ (1985). Here, a single vegetable lies alone in an unidentified space, whose neutrality is broken by banded light filtered through window blinds. Marked by sun and shade, the meaty eggplant seems to transform into a body or part of one. Its nutritional meaning falls away, and the eggplant can only be consumed as an object of lust in yet another example of its sexualization, and perhaps, its commodification in a hyper-capitalist society. The fruit’s curves and crevices stretch our imagination and resemble the curves and crevices of the equally appealing torso that fills _Thomas (Back)_ (1986), a depiction of an African American male model whom Mapplethorpe favored and posed in a similar studio setting.
 
@@ -325,6 +342,7 @@ This visual and haptic appeal is more pronounced in the work of <span eid="Q3127
        label="Robert Mapplethorpe, Eggplant (1985), gelatin silver print" 
        description="photography by Robert Mapplethorpe"
        license="Permission pending - Copyright © Robert Mapplethorpe Foundation">
+       {#paragraph22}
        
 ### New Eggplants, Old issues: Bt Brinjal and Globalization
 In recent years, eggplant has become the center of one of the hardest fought debates over genetically modified crops. Endorsed by Cornell University,[^48] varieties of <span eid="Q4982032">Bt brinjal</span> were designed by the US agrochemical giant Monsanto (now owned by Bayer) to withstand pests, thereby increasing yields and reducing the use of harmful pesticides. Although these varieties are cultivated in Bangladesh, they have been made illegal in India and the Philippines. Activists and research organizations accuse corporations like Monsanto—which own 53% of GM plant seeds[^49]—of bio-imperialist efforts to extract maximum profits under the guise of humanitarian concerns.[^50] There is also concern for the implications of meddling with ecological heritage impacting biodiversity by introducing “foreign genes that carry characteristics…not natural to the plant genome."[^51] 
@@ -335,6 +353,7 @@ In recent years, eggplant has become the center of one of the hardest fought deb
        license="CC BY-SA 3.0"
        attribution="Infoeco, <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons"
        fit="cover">
+       {#paragraph23}
 
 A US company not only exporting a genetically altered crop back to the regions from which it historically originated, but also maintaining ownership of the plant sparks controversy. Such cases are key to the kind of issues with which Plant Humanities deals. Plants are more than products up for genetic improvement and economic exploitation; they also have cultural meaning. Plants are woven into complex, fluid social relationships that bring together issues of human welfare, Indigenous ecology, the power of profiteering corporations, and the future of global food. Since its domestication, eggplant has been entwined in human culture, and now, as a global plant, it is squarely located in international conflicts with far-reaching consequences.
 
@@ -343,6 +362,7 @@ A US company not only exporting a genetically altered crop back to the regions f
        label="At a Fridays for Future strike for the environment on October 1, 2021 in Milan, a student holds a banner that reads: “Save the Earth, it’s the only place with parmigiana.”
        license="CC BY-SA 4.0"
        attribution="Mænsard vokse, <https://creativecommons.org/licenses/by-sa/4.0/deed.en>, via Wikimedia Commons">
+       {#paragraph24}
 
 
 ### References
