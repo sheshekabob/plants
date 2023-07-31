@@ -56,7 +56,7 @@ url="https://raw.githubusercontent.com/sheshekabob/plants/main/Eggplant/cultivar
 ### The Eggplant Emoji: Nothing New under the Sun
 
 Europe and the Americas had a belated introduction to eggplant, and its relative novelty might explain why many North Americans today more readily recognize it as a sexual organ than as a food. In the late 1990s, Japanese telecom companies designed the [eggplant emoji](https://emojipedia.org/eggplant/) for the keyboard of icons that now serve as the shorthand of text messages and social media. “Aubergine” is the name for the eggplant emoji in Unicode, the universal standard for encoding linguistic characters for electronic  display. In 2010, the emoji keyboard was included in Unicode 6.0, and a year later, Apple added the keyboard to its operating system for iPhone users outside of Japan.[^5] In the same year, the first known use of the emoji as a phallic symbol appeared in the tweet: im jelly no 🍆 😥.[^6] Now, for the tech-savvy in the US and Canada, the long, purple fruit with a bulbous end is synonymous with “sexting.” 
-<param ve-compare curtain url="https://upload.wikimedia.org/wikipedia/commons/e/e0/Solanum_melongena_Maru_nasu-2.jpg"
+<param ve-compare curtain url="https://upload.wikimedia.org/wikipedia/commons/7/79/Eggplant_-_Arlington%2C_MA.jpg"
        label="A colored Emoji from Twitter Emoji project" 
        description="Twitter Emoji"
        attribution="Twitter"
