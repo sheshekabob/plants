@@ -9,7 +9,6 @@
        banner="https://raw.githubusercontent.com/sheshekabob/plants/main/Eggplant/Seikei%20Zusetsu_cover.jpg"
        layout="vertical">
 
-<param ve-entity eid="Q973455">
 <param ve-entity eid="Q134172">
 <param ve-entity eid="Q3371053">
 <param ve-entity eid="Q765174">
