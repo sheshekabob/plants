@@ -221,7 +221,7 @@ The artistic and literary traditions show the insinuation of eggplant into neigh
        fit="cover">
 <param ve-image 
        url="https://github.com/sheshekabob/plants/blob/main/Eggplant/Seikei%20Zusetsu.jpg?raw=true"
-       label="Solanum melongena L., Bohai eggplant, from Seikei Zusetsu. Compiled by by So Senshun, Shirao Kunihashira, Mukai Tomoaki, and Hori Monjuro in the years 1793–1804. Ser. 1042 vol. 26, page 027."
+       label="Solanum melongena L., Bohai eggplant, from Seikei Zusetsu. Compiled by So Senshun, Shirao Kunihashira, Mukai Tomoaki, and Hori Monjuro in the years 1793–1804. Ser. 1042 vol. 26, page 027."
        description="Seikei Zusetsu"
        license="CC BY-SA 4.0"
        attribution="Leiden University Libraries Digital Collections https://digitalcollections.universiteitleiden.nl/view/item/938292"
