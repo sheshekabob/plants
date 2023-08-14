@@ -3,36 +3,29 @@
 
 
 <param ve-config 
-       title="Eggplant: An Expanding Culture"
+       title="Food, Sex, and Poison: Deciphering the Eggplant"
        author="Ana Carolina Carmona-Ribeiro, Nathan Cornish, and Sheila Scoville"
        source-image="https://raw.githubusercontent.com/sheshekabob/plants/main/Eggplant/Seikei%20Zusetsu_cover.jpg"
        banner="https://raw.githubusercontent.com/sheshekabob/plants/main/Eggplant/Seikei%20Zusetsu_cover.jpg"
        layout="vertical">
 
-### A Global Food
-To turn a picky eater on to eggplant, cooks often defer to a recipe for <span eid="Q973455">
-_parmigiana di melanzane_</span>. For good reason, eggplant parmesan is an international favorite, yet the mystery of its origins is not well known.  "Parmigiana" points to northern Italy, but some doubt Parma is the birthplace of this dish since the city's hard grating cheese is only a final touch. In fact, [the archive](http://www.cliffordawright.com/caw/food/entries/display.php/topic_id/4/id/109/) points to Naples, yet there are linguistic clues suggesting Sicily. "Parmigiana" could be a mispronunciation of "palmigiana," a Sicilian word for "shutters"—possibly a metaphor for a casserole that alternates layers of fried eggplant rounds with tomato sauce and mozzarella. "Parmigiana" also sounds like _parmiciana_, Sicilian for “Persian," so perhaps the credit should ultimately go to the culture that helped introduce eggplant to Mediterranean cooks long ago.[^1] But more important than who did what where first is a truth revealed by eggplant's jagged journey to kitchens across the globe: plants and their cultural repertoires rarely stay put; they much prefer to move and mingle.
-<param ve-image
-       label="Melanzane alla Parmigiana, baked aubergines with Parmesan cheese."
-       url="https://upload.wikimedia.org/wikipedia/commons/8/8b/Melanzane_alla_Parmigiana.jpg">
-       {#paragraph1}
-
-World cuisine today abounds with dishes starring eggplant. A few classics like moussaka, baba ganoush, and makdous come from <span eid="Q765174">Levantine cuisine</span>. Other gateway recipes include Indian Punjab mashed eggplant (_baingan bartha_), Chinese Sichuan fish-fragrant eggplant (_yuxiang qiezi_), and Tanzanian eggplant curry ([_mchuzi wa biringani_](https://www.congocookbook.com/vegetable-and-side-dish-recipes/mchuzi-wa-biringani-eggplant-curry/)). Technically a berry as it contains edible seeds, eggplant is a culinary vegetable, prized for its creamy texture and ability to soak up flavor, though it lacks much nutritional value. In Asia and the Middle East, eggplant is a dietary fixture, but in the West where New World nightshades like tomatoes, peppers, and potatoes are popular, eggplant has yet to fully shake its stigma as a member of the <span eid="Q134172">Solanaceae family</span>, known to harbor toxic alkaloids.
-<param ve-iframe src="https://wikimap.toolforge.org/?cat=Eggplant-based_food&subcats=true&subcatdepth=1&cluster=true#close">
-{#paragraph2}
-
-The winding path of eggplant through space and time is mirrored by a [map of its current production](https://en.wikipedia.org/wiki/List_of_countries_by_eggplant_production). More than 80% of the world's supply comes from China and India, followed by Egypt, Turkey, and Indonesia. While scientists debate the origins and historical distribution of eggplant, most agree that today's common species were first domesticated in Asia more than 2,000 years ago.[^2] Over time, what was an ancient and storied plant in India and China became richly appreciated elsewhere. The late medieval period marked the arrival of eggplant in the Mediterranean and then northern Europe, where its exotic status initially provoked suspicion. Around the same time, eggplant entered the networks of empire as an Old World crop in the Columbian Exchange. Each of these encounters demonstrate that once a plant is adopted into daily patterns of consumption, it's not long before it acquires a deeper cultural resonance.     
+### The Eggplant Emoji
+In the late 1990s, Japanese telecom companies designed the [eggplant emoji](https://emojipedia.org/eggplant/) for the keyboard of icons that serve as the shorthand of text messages and social media. Aubergine is the name for the emoji name in Unicode, the universal standard for encoding linguistic characters for electronic display. In 2010, the emoji keyboard became a part of Unicode 6.0, and a year later, Apple added the keyboard to its operating system for iPhone users worldwide.[^1] Also in 2011, the first known use of an eggplant emoji as a phallic symbol was on Twitter, when  the handle @iFUXXS_witHer tweeted: im jelly no 🍆 😥.[^2] Now, “sexting” is inseparable from a long, purple fruit with a bulbous end.   
 <param ve-image 
-       url="https://upload.wikimedia.org/wikipedia/commons/2/26/Countries_by_eggplant_production_in_2020.png"
-       label="Map showing countries by eggplant production in tonnes (FAOSTAT 2020)"
-       description="Darker areas show greater Eggplant production"
-       license="CC BY-SA 4.0"
-       region="519,-1065,5789,5327">
-       {#paragraph3}  
+       url="https://upload.wikimedia.org/wikipedia/commons/e/e0/Solanum_melongena_Maru_nasu-2.jpg"
+       label="A colored Emoji from Twitter Emoji project" 
+       description="Twitter Emoji"
+       attribution="Twitter"
+       license="CC BY 2.0.">   
 
-### A World of Eggplants
+For many North Americans, eggplant is more synonymous with a sex organ than what’s for dinner, but more generally, this crop is known as a culinary vegetable, though it’s a berry since it contains edible seeds and develops from the ovary of a single flower. Low in calories, but full of nutrients including vitamins, minerals, protein, and fiber,[^3] the fruit of this plant has long been a dietary fixture throughout Asia and the Mediterranean, where cooks prize it for its versatility and ability to absorb flavors. World cuisine today abounds with dishes like eggplant parmesan <span eid="Q973455">_(parmigiana di melanzane)_</span>, South Asian mashed eggplant (_baingan bartha_), Chinese Sichuan fish-fragrant eggplant (_yuxiang qiezi_), Tanzanian eggplant curry ([_mchuzi wa biringani_](https://www.congocookbook.com/vegetable-and-side-dish-recipes/mchuzi-wa-biringani-eggplant-curry/)), and <span eid="Q765174">Levantine</span> classics like moussaka and baba ganoush. However, many Americans and Europeans find its occasional bitterness and spongy texture challenging. Eggplant also carries more of the stigma of the <span eid="Q134172">Solanaceae family</span>, known to harbor toxins, than other nightshades like tomatoes, peppers, and potatoes, American counterparts to the Old-World eggplant.
+<param ve-iframe src="https://wikimap.toolforge.org/?cat=Eggplant-based_food&subcats=true&subcatdepth=1&cluster=true#close">
 
-Following his game-changing system of <span eid="Q36642">binomial nomenclature</span>, <span eid="Q1043">Carl Linnaeus</span> devised eggplant's scientific name [_Solanum melongena_](https://www.biodiversitylibrary.org/page/358106#page/198/mode/1up) in 1753, but the etymologies of its many common names are less neat and outline a cloverleaf of global exchange. North Americans refer to _eggplant_ thanks to the English who coined the term in the 1500s. But nowadays the Brits prefer the French word _aubergine_, which seems to be a corruption of the Arab word _al-babingãn_. Portuguese and Spanish speakers use the Arab-originated names _berinjela_ and _berenjena_. Much of this Western alphabet soup is owed to the base word _baingãn_ from India, which now also uses the term _brinjal_, a corruption of the already corrupted Portuguese _berinjela_. Although certain African countries use _brinjal_, the region of the former Ethiopian Empire opts for _mälänzana_, possibly imported from Italy, where it was first known as _mala insana_ ("crazy apple" in Latin) and finally as _melanzana_.
+From its domestication in tropical Asia to its worldwide diffusion, the story of eggplant raises the question of why some ingredients become naturalized and accepted as common, while others remain perennially foreign. The history of this curious fruit and its global reception illustrates a statement made by the anthropologist Mary Douglas: “Like sex, the taking of food has a social component, as well as a biological one.”[^4]  In other words, “cuisine is not so much a matter of ingredients,” explains the sociologist Claude Fischler, “as of classifications and rules ordering the world and giving it meaning.”[^5] By transforming the raw into the cooked, cuisine is also a function of our desire “to tame the wild, threatening forces that inhabit nature.”[^6] In visual and written representations, eggplant is a kaleidoscopic signifier. Comestible, medicinal, poisonous, narcotic, aesthetic, or erotic, eggplant is rendered according to the degree to which the artist or writer’s culture has “tamed” this spiny Solanum.
+
+### Local Names, Global Food
+
+In 1753, <span eid="Q1043">Carl Linnaeus</span> devised the scientific name, [_Solanum melongena_](https://www.biodiversitylibrary.org/page/358106#page/198/mode/1up), for eggplant, following his game-changing system of <span eid="Q36642">binomial nomenclature</span>, but the etymologies of its common names outline a far messier cloverleaf of global exchange. Used by North Americans, the name _eggplant_ was coined by the English in the 1500s. Now the Brits prefer the French word _aubergine_, which seems to be a corruption of the Arab _al-babingãn_. Portuguese and Spanish speakers use the Arab-originated names _berinjela_ and _berenjena_. Apparently, most of this Western alphabet soup is owed to the Indian word _baingãn_, even though India now uses _brinjal_, a corruption of the already corrupted Portuguese _berinjela_. While some African countries use _brinjal_, the region of the former Ethiopian Empire opts for _mälänzana_, possibly based on _melanzana_ (“mad apple”) due to its status as an exotic nightshade.
 <param ve-image 
 url="https://pic.blog.plover.com/lang/etym/eggplant-map/eggplant-map.png"
        label="Different words for eggplant" 
@@ -41,7 +34,18 @@ url="https://pic.blog.plover.com/lang/etym/eggplant-map/eggplant-map.png"
        license="Permission pending"
        region="137,-342,1861,1712"
        fit="contain">
-       {#paragraph4}
+
+As a quasi-vegetal berry that quickly oxidizes, is tricky to cook, and contains the toxic alkaloids solanine and nicotine, eggplant defies easy categorization, even the foremost rule of “what is food and what is not,” for those cultures who encountered it relatively late.[^7] The questions of where this crop was domesticated and how it was distributed evade scientists, but a [map of its current production](https://en.wikipedia.org/wiki/List_of_countries_by_eggplant_production) mirrors some of its journey across the globe. More than 80 percent of the world's supply comes from China and India—where certain species have been consumed for 2,000–4,500 years—followed by Egypt, Turkey, and Indonesia.[^8] Over time, what was an ancient and storied plant in tropical Asia became richly appreciated throughout the rest of the continent. But when _mala insana_ reached Europe, it raised suspicion. Around the same time, the Columbian exchange introduced this “mad apple” to the Western Hemisphere, where it functions less as everyday fare and more as a sign of the erotic and exotic.     
+<param ve-image 
+       url="https://upload.wikimedia.org/wikipedia/commons/2/26/Countries_by_eggplant_production_in_2020.png"
+       label="Map showing countries by eggplant production in tonnes (FAOSTAT 2020)"
+       description="Darker areas show greater Eggplant production"
+       license="CC BY-SA 4.0"
+       region="519,-1065,5789,5327">
+
+### A Long Affinity: Eggplant in Asia
+
+<span eid="Q47228">_Kama Sutra_</span>
 
 Dozens of eggplant varieties and cultivars are grown today,[^3] as this genus hybridizes easily, with or without human help.[^4] Horticulturists, gardeners, and cooks get excited when discussing the various cultivars. The creamy flesh of the Japanese Pickling, for example, is described as tasting mellow and sweet. Cultivar names also reveal the fertile imagination of their growers. There's the Fairy Tale, so called perhaps for its lovely violet skin with white stripes; the prolific Little Fingers, which grows in clusters of 20 fruits or more; the Black Beauty, like Anna Sewell's famous horse; or the hybrid Ichiban, meaning "best" in Japanese. The ornamental attributes of eggplants like the eye-catching white and purple Italian Rosa Bianca or the tiny watermelon-like Thai eggplant are admired almost as much as their flavor. And while the ubiquitous eggplant emoji is solid purple, the fruits can be white, red, yellow, green, reddish-purple, light purple, dark purple, black, striped, or "marbled."
 <param ve-image 
@@ -51,23 +55,11 @@ url="https://raw.githubusercontent.com/sheshekabob/plants/main/Eggplant/cultivar
        attribution="Ana Carmona-Ribeiro"
        license="CC BY-SA 4.0"
        fit="contain">
-       {#paragraph5}
 
-### The Eggplant Emoji: Nothing New under the Sun
+### 
 
-The belated arrival of eggplant in the Western Hemisphere might explain why many North Americans today more readily recognize it as a sexual organ than as a food. In the late 1990s, Japanese telecom companies designed the [eggplant emoji](https://emojipedia.org/eggplant/) for the keyboard of icons that became the shorthand of text messages and social media. “Aubergine” is the name for the eggplant emoji in Unicode, the universal standard for encoding linguistic characters for electronic display. In 2010, the emoji keyboard was included in Unicode 6.0, and a year later, Apple added the keyboard to its OS for iPhone users outside of Japan.[^5] In the same year, the first known use of the emoji as a phallic symbol appeared in the tweet: im jelly no 🍆 😥.[^6] Now, for tech users in the US and Canada, the long, purple fruit with a bulbous end is synonymous with “sexting.” 
-<param ve-compare curtain url="https://upload.wikimedia.org/wikipedia/commons/e/e0/Solanum_melongena_Maru_nasu-2.jpg"
-       label="A colored Emoji from Twitter Emoji project" 
-       description="Twitter Emoji"
-       attribution="Twitter"
-       license="CC BY 2.0.">   
-<param ve-compare url="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Twemoji_1f346.svg/2048px-Twemoji_1f346.svg.png"
-       label="Eggplant"
-       description="Eggplant"
-       license="CC BY-SA 4.0">
-       {#paragraph6}
-       
-The digital age is just the latest chapter of the eggplant’s erotic entanglements. Written in Sanskrit 2,000 years ago, the <span eid="Q47228">_Kama Sutra_</span> recommends rubbing the male member, or “lingam,” with eggplant to produce “a swelling lasting for one month.”[^7] As odd as this claim sounds, [recent](https://www.escardio.org/The-ESC/Press-Office/Press-releases/mediterranean-diet-shows-promise-in-men-with-erectile-dysfunction) [studies](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6893753/) do suggest that consuming more eggplant (non-topically) reduces hypertension, a major cause of [erectile dysfunction.](https://www.webmd.com/hypertension-high-blood-pressure/guide/high-blood-pressure-erectile-dysfunction) In the eleventh century, eggplant featured in another sexual situation in the <span eid="Q608662">_Taqwim al-Sihhah_</span> (The Maintenance of Health) by Ibn Buṭlān of Baghdad. Later translated into Latin and illustrated by Italian artists, certain editions of this medical treatise picture the eggplant as a forbidden fruit. 
+
+ <span eid="Q608662">_Taqwim al-Sihhah_</span> (The Maintenance of Health)  
 <param ve-image 
 url="https://raw.githubusercontent.com/sheshekabob/plants/main/IBN_BUTLA%CC%82N_Tacuinum_sanitatis__btv1b105072169_55.jpeg"
        label="Ibn Buṭlān, Tacuinum sanitatis" 
@@ -75,7 +67,6 @@ url="https://raw.githubusercontent.com/sheshekabob/plants/main/IBN_BUTLA%CC%82N_
        attribution="gallica.bnf.fr / Bibliothèque nationale de France"
        license="CC BY 2.0."
        region="0,49,1024,943">
-       {#paragraph7}
 
 ### Eggplant in the Renaissance: Between Art and Natural History
 
