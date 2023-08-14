@@ -6,7 +6,7 @@
        title="Food, Sex, and Poison: Deciphering the Eggplant"
        author="Ana Carolina Carmona-Ribeiro, Nathan Cornish, and Sheila Scoville"
        source-image="https://raw.githubusercontent.com/sheshekabob/plants/main/Eggplant/Seikei%20Zusetsu_cover.jpg"
-       banner="https://raw.githubusercontent.com/sheshekabob/plants/main/Eggplant/Seikei%20Zusetsu_cover.jpg"
+banner="https://raw.githubusercontent.com/sheshekabob/plants/main/Eggplant/Seikei%20Zusetsu_cover.jpg"
        layout="vertical">
 
 ### The Eggplant Emoji
@@ -169,7 +169,7 @@ While herbalists in England and Germany warned their readers away from eggplant,
 
 ### Eggplant in the Renaissance: Between Art and Natural History
 
-Lacing food and botanical imagery with sexual innuendo continued in the late European Renaissance and early Baroque. According to _Gastronomica_ writer John Varriano, reproductive organs might have first been subbed for eggplant in Rome at the <span eid="Q1126723">Villa Farnesina</span> where a series of frescoes depicts a total of 21 eggplants.[^10] During 1517–1518, the artist Raphael decorated the villa's loggia with scenes featuring Cupid and Psyche. Surrounding his frescoes are <span data-mouseover-image-zoomto="1406,70,728,670">festoons by Giovanni da Udine,</span> who packed his paintings with garden produce. One arrangement includes a <span data-mouseover-image-zoomto="1841,176,293,270">phallic bottle gourd</span> penetrating a fig, while two eggplants stand in for testicles. Behind such visual ribaldry was the “doctrine of signatures,” the speculation that similar-looking objects or organisms share an essence.[^11] According to this idea, since walnuts look like brains, eating these large seeds boosts mental power.
+The late European Renaissance and early Baroque era continued the theme of lacing food and botanical imagery with sexual innuendo. Reproductive organs might have first been subbed for eggplant in Rome at the <span eid="Q1126723">Villa Farnesina</span>, where a series of frescoes depicts a total of 21 eggplants.[^30] During 1517–1518, the artist Raphael decorated the villa's loggia with scenes featuring Cupid and Psyche. Surrounding his frescoes are <span data-mouseover-image-zoomto="1406,70,728,670">festoons by Giovanni da Udine,</span> who packed his paintings with garden produce. One arrangement includes a fig penetrated by a <span data-mouseover-image-zoomto="1841,176,293,270">phallic bottle gourd</span> with a pair of eggplants representing testicles. Behind such visual ribaldry was the “doctrine of signatures,” the speculation that similar-looking objects or organisms share an essence.[^31] An example of such thinking is eating walnuts to boost mental power because these large seeds look like brains.
 <param ve-image 
 url="https://upload.wikimedia.org/wikipedia/commons/a/af/Le_concile_des_Dieux_dans_la_loggia_d%27Amour_et_de_Psych%C3%A9_%28Villa_Farnesina%2C_Rome%29_%2833898412830%29.jpg"
        label="Loggia of Cupid and Psyche by Raphael, festoons by Giovanni da Udine, Villa Farnesina, Rome" 
