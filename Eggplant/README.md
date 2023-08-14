@@ -70,10 +70,10 @@ url="https://media.britishmuseum.org/media/Repository/Documents/2014_10/17_10/26
        region="-239,-50,1197,1102"
        fit="cover">
 <param ve-image 
-       label="Made in West Bengal, a watercolor of a woman harvesting a giant eggplant is in the style of Kalighat painting, known for its depictions of everyday life"
+       label="Made in West Bengal, a watercolor of a woman harvesting a giant eggplant is in the style of Kalighat painting, known for its depictions of everyday life, nineteenth century."
        description="A woman pulling giant aubergines from a tree"
        license="Public domain"
-       attribution="A woman pulling giant aubergines from a tree. Watercolour. Wellcome Collection. https://wellcomecollection.org/works/buu2vm47. Public domain."
+       attribution="A woman pulling giant aubergines from a tree, nineteenth century, watercolor with pencil. Wellcome Collection. https://wellcomecollection.org/works/buu2vm47. Public domain."
        url="https://iiif.wellcomecollection.org/image/V0044992/full/640%2C/0/default.jpg"
        region="-213,52,1067,902"
        fit="cover">
@@ -97,7 +97,7 @@ Art and literature also attest to a long human relationship with eggplant in Chi
 Cultural clues mark the path of eggplant from China to the fields and kitchens of its eastern neighbors. The fruits of a spiny, bicolored variety weigh down a still-life painting by the artist <span eid="Q464485">Shin Saimdang (1504–1551),</span> a Korean aristocrat who worked in the genre of _Chochungdo_ ("insects on flowers") characterized by careful study of local flora and fauna.[^19] Eggplant also weaved its way into the noble pursuits of Southeast Asia. A bottom-heavy fruit inspired the shape of a sixteenth-century Vietnamese [water dropper,](https://www.britishmuseum.org/collection/object/A_2001-1129-5_1) used in the art of calligraphy. By the eighth century, eggplant had reached Japan where it fully insinuated itself into the cuisine and culture.[^20] The agricultural catalog <span eid="Q76160295">_Seikei zusetsu_</span> (1793–ca. 1804) boasts a sumptuous print of eggplant depicted in a hybrid style, the result of cultural exchange with Europe.[^21] During the Japanese new year, eggplant transcends practical culinary categories to become (meta)physical fare. <span eid="Q1588971">_Hatsuyume_</span> refers to one’s first dream after December 31, and dreaming the following foretells good fortune ahead: Mount Fuji, a hawk, and eggplant.[^22] 
 <param ve-image 
        url="https://upload.wikimedia.org/wikipedia/commons/8/87/Chochungdo_02.jpg"
-       label="Shin Saimdang, Painting of plants and insects (Chochungdo)"
+       label="Shin Saimdang, Painting of plants and insects (Chochungdo), early sixteenth century"
        description="Shin Saimdang"
        license="Korea Open Government License Type I: Attribution"
        attribution="National Museum of Korea, KOGL Type 1 http://www.kogl.or.kr/open/info/license_info/by.do, via Wikimedia Commons"
