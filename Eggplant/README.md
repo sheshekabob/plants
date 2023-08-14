@@ -81,13 +81,44 @@ Art and literature also attest to a long human relationship with eggplant in Chi
        fit="cover">
 <param ve-image 
        url="https://raw.githubusercontent.com/sheshekabob/plants/main/Eggplant/MingDynasty_Eggplant.jpg"
-       label="After the imperial Ming Dynasty arose out of the collapse of the Yuan dynasty, China came into greater contact with outside cultures. A European influence can be detected in the realism with which an unknown artist rendered eggplants in a Ming-era (1368-1644) still-life painting, 蔬果圖 (shu guo tu, or vegetables and fruit)."
+       label="A European influence can be detected in the realism with which an unknown artist rendered eggplants in a Ming-era (1368-1644) still-life painting, 蔬果圖 (shu guo tu, or vegetables and fruit)."
        description="Ming Dynasty painting"
        license="CC BY-SA 4.0"
        attribution="© The Trustees of the British Museum"
        fit="cover">
 
-### 
+Cultural clues mark the path of eggplant from China to the fields and kitchens of its eastern neighbors. The fruits of a spiny, bicolored variety weigh down a still-life painting by the artist <span eid="Q464485">Shin Saimdang (1504–1551),</span> a Korean aristocrat who worked in the genre of _Chochungdo_ ("insects on flowers") characterized by careful study of local flora and fauna.[^19] Eggplant also weaved its way into the noble pursuits of Southeast Asia. A bottom-heavy fruit inspired the shape of a sixteenth-century Vietnamese [water dropper,](https://www.britishmuseum.org/collection/object/A_2001-1129-5_1) used in the art of calligraphy. By the eighth century, eggplant had reached Japan where it fully insinuated itself into the cuisine and culture.[^20] The agricultural catalog <span eid="Q76160295">_Seikei zusetsu_</span> (1793–ca. 1804) boasts a sumptuous print of eggplant depicted in a hybrid style, the result of cultural exchange with Europe.[^21] During the Japanese new year, eggplant transcends practical culinary categories to become (meta)physical fare. <span eid="Q1588971">_Hatsuyume_</span> refers to one’s first dream after December 31, and dreaming the following foretells good fortune ahead: Mount Fuji, a hawk, and eggplant.[^22] 
+<param ve-image 
+       url="https://upload.wikimedia.org/wikipedia/commons/8/87/Chochungdo_02.jpg"
+       label="Shin Saimdang, Painting of plants and insects (Chochungdo)"
+       description="Shin Saimdang"
+       license="Korea Open Government License Type I: Attribution"
+       attribution="National Museum of Korea, KOGL Type 1 http://www.kogl.or.kr/open/info/license_info/by.do, via Wikimedia Commons"
+       fit="cover">
+<param ve-image 
+       url="https://github.com/sheshekabob/plants/blob/main/Eggplant/Seikei%20Zusetsu.jpg?raw=true"
+       label="Solanum melongena L., Bohai eggplant, from Seikei Zusetsu. Compiled by So Senshun, Shirao Kunihashira, Mukai Tomoaki, and Hori Monjuro in the years 1793–1804. Ser. 1042 vol. 26, page 027."
+       description="Seikei Zusetsu"
+       license="CC BY-SA 4.0"
+       attribution="Leiden University Libraries Digital Collections https://digitalcollections.universiteitleiden.nl/view/item/938292"
+       region="-175,-253,4527,3733"
+       fit="cover">
+<param ve-image 
+       url="https://collections.mfa.org/internal/media/dispatcher/1059814/resize%3Aformat%3Dpreview"
+       label="Isoda Koryûsai (Japanese, 1735–1790), Dream Symbols of the New Year: Hawk, Eggplant and Mount Fuji. Edo period. Woodblock print (nishiki-e); ink and color on paper"
+       description="Hawk, Eggplant and Mount Fuji"
+       license="Public domain"
+       attribution="Public domain. Museum of Fine Arts, Boston, https://www.mfa.org/"
+       region="-333,1,1667,1375"
+       fit="cover">
+
+Eggplant traveled light, leaving behind much of its cultural meaning, and so acquired new significance among West Asians. Persia’s cultural repertoire included eggplant just before the Islamic Golden Age from the eighth to the thirteenth century, when the Persian polymath Avicenna documented its medicinal uses. Eggplant quickly became a luxury dish for the Islamic elite, as told by stories of a glorious feast for the wedding of the Baghdad-based Abbasid caliph <span eid="Q61056">al-Maʾmun</span> and his vizier’s daughter, Buran. This culinary lore was passed down as derivative eggplant dishes bearing names like “Borani” or a recipe in <span eid="Q893318">“Borani”</span> or “Buraniyya.” During the Islamic Golden Age, the Persian polymath <span eid="Q8011">Avicenna</span> (or Ibn Sina) documented the medicinal uses of eggplant. Based on other literary and linguistic evidence, Persia’s cultural repertoire included eggplant as early as the seventh century.
+<param ve-image 
+       label="A map of the Abbasid Caliphate around 850 AD featuring provinces and settlements"
+       description="Abbasid Caliphate"
+       license="CC BY-SA 4.0"
+       url="https://upload.wikimedia.org/wikipedia/commons/a/a7/Abbasid_Caliphate_850AD.png"
+       region="-136,-448,2437,2242">
 
 
  <span eid="Q608662">_Taqwim al-Sihhah_</span> (The Maintenance of Health)  
@@ -172,41 +203,10 @@ Compiled by Dutch colonists in 1676, the <span eid="Q5907004">_Hortus Malabaricu
        license="Public domain"
        region="-54,-168,2581,2477">
 
-### The Eggplant in Western and Eastern Asia
+### The Eggplant in Asia
 
-Eggplant traveled light, leaving behind much of its cultural meaning, but it acquired new significance in the cultures that began consuming it. Long before northern Europe received this nightshade, it had reached the Mediterranean through networks of trade and conquest. A tenth-century calendar from Córdoba, Spain, mentions six varieties of eggplant, including one specific to that region. This special variety could have been a claim to a unique Cordoban culture made by the rebel caliphate that held the city at that time.[^28] By the ninth century, eggplant had become a luxury dish for the Islamic elite, as seen in the stories of a glorious feast for the wedding of the Baghdad-based Abbasid caliph <span eid="Q61056">al-Maʾmun</span> and his vizier’s daughter, Buran. This lore was passed down into food culture, as various derivative eggplant dishes bear names like <span eid="Q893318">“Borani”</span> or “Buraniyya.” During the Islamic Golden Age, the Persian polymath <span eid="Q8011">Avicenna</span> (or Ibn Sina) documented the medicinal uses of eggplant. Based on other literary and linguistic evidence, Persia’s cultural repertoire included eggplant as early as the seventh century.
-<param ve-image 
-       label="A map of the Abbasid Caliphate around 850 AD featuring provinces and settlements"
-       description="Abbasid Caliphate"
-       license="CC BY-SA 4.0"
-       url="https://upload.wikimedia.org/wikipedia/commons/a/a7/Abbasid_Caliphate_850AD.png"
-       region="-136,-448,2437,2242">
 
-The artistic and literary traditions show the insinuation of eggplant into neighboring Asian cultures. The Korean artist <span eid="Q464485">Shin Saimdang (1504–1551)</span> made eggplant a subject of her still-life paintings that represent _Chochungdo_ ("insects on flowers"), a genre that carefully observes native flora and fauna.[^36] By the fourth century, Southeast Asians were cultivating eggplant, and the importance that the crop acquired in Vietnam is underscored by a sixteenth-century [water dropper](https://www.britishmuseum.org/collection/object/A_2001-1129-5_1) excavated at Hội An.[^37] In the eighth century, the eggplant crossed the Sea of Japan.[^38] The nineteenth-century agricultural text <span eid="Q76160295">_Seikei zusetsu_</span> includes a sumptuous print of eggplant depicted in a hybrid style indicative of nearly two centuries of Japanese and European exchange enabled by the presence of the Dutch East India Company in Nagasaki.[^39] As people deepen their connections with plants, they treat them as more than sources of nutrition or medicine. For instance, since Japan's <span eid="Q184963">Edo period</span> (1603–1867), eggplant has been part of the tradition of <span eid="Q1588971">_Hatsuyume_</span>, in which dreaming of Mount Fuji, a hawk, and an eggplant are regarded as auspicious signs for a new year.[^40] 
-<param ve-image 
-       url="https://upload.wikimedia.org/wikipedia/commons/8/87/Chochungdo_02.jpg"
-       label="Shin Saimdang, Painting of plants and insects (Chochungdo)"
-       description="Shin Saimdang"
-       license="Korea Open Government License Type I: Attribution"
-       attribution="National Museum of Korea, KOGL Type 1 http://www.kogl.or.kr/open/info/license_info/by.do, via Wikimedia Commons"
-       fit="cover">
-<param ve-image 
-       url="https://github.com/sheshekabob/plants/blob/main/Eggplant/Seikei%20Zusetsu.jpg?raw=true"
-       label="Solanum melongena L., Bohai eggplant, from Seikei Zusetsu. Compiled by So Senshun, Shirao Kunihashira, Mukai Tomoaki, and Hori Monjuro in the years 1793–1804. Ser. 1042 vol. 26, page 027."
-       description="Seikei Zusetsu"
-       license="CC BY-SA 4.0"
-       attribution="Leiden University Libraries Digital Collections https://digitalcollections.universiteitleiden.nl/view/item/938292"
-       region="-175,-253,4527,3733"
-       fit="cover">
-<param ve-image 
-       url="https://collections.mfa.org/internal/media/dispatcher/1059814/resize%3Aformat%3Dpreview"
-       label="Isoda Koryûsai (Japanese, 1735–1790), Dream Symbols of the New Year: Hawk, Eggplant and Mount Fuji. Edo period. Woodblock print (nishiki-e); ink and color on paper"
-       description="Hawk, Eggplant and Mount Fuji"
-       license="Public domain"
-       attribution="Public domain. Museum of Fine Arts, Boston, https://www.mfa.org/"
-       region="-333,1,1667,1375"
-       fit="cover">
-       
+
 ### Atlantic Encounters and the Expanding (Agri)cultures of Eggplant 
 
 Along with _S. melongena_, eggplant cultivars of Africa include the scarlet-colored guinea squash ([_S. aethiopicum L._](https://worldcrops.org/crops/garden-egg)) and the crunchy Gboma eggplant (_S. macrocarpon L._). _S. melongena_ was introduced to the Americas in the sixteenth century, but enslaved Africans also brought over guinea squash, according to the Dutch physician and naturalist <span eid="Q1385325">Willem Piso</span>. in his document of Brazilian flora, the [_Historia naturalis Brasiliae_](https://pt.wikipedia.org/wiki/Historia_Naturalis_Brasiliae) (1648). Scholars Judith Carney and Richard Rosomoff argue that enslaved labor crossed the Atlantic bearing not only than the clothes on their backs, but also African food staples, including guinea squash, sesame, okra, watermelon, millet, sorghum, and black-eyed peas, and the skills and knowledge to farm such crops. Adapting to the new environmental and social conditions, enslaved workers cultivated “food fields,” which were a restricted form of access to land that afforded a degree of security, autonomy, and the “acknowledgment that not all of one's labor was owned by the master.”[^41]
