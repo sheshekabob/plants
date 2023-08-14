@@ -253,7 +253,7 @@ As _S. melongena_ settled into Western culture, its aesthetic appeal drew the at
        fit="contain">
        {#paragraph20}
        
-Decades later, the formal properties of the fruit became a subject of photography. Through abstraction and a highly refined sense of composition and light, <span eid="Q346988">Edward Weston</span> depicts a dark globular eggplant, the same cultivar featured in agricultural literature at the time. As in many of his photos, _Eggplant_ (1930) unveils the unexpected and the marvelous in natural elements and everyday objects, as well as their resemblance to the human body.[^46] Although the dietary significance of the eggplant is still present, the shiny, ridged vegetable awakens both an aesthetic visual appreciation as well as the urge to touch the fruit and feel its smooth skin and firm flesh.
+Decades later, the formal properties of the fruit became a subject of photography. With a highly refined sense of composition and light, <span eid="Q346988">Edward Weston</span> photographed a dark globular eggplant, the same cultivar featured in agricultural literature at the time. As in many of his pictures, _Eggplant_ (1930) unveils the unexpected and the marvelous in natural elements and everyday objects, as well as their resemblance to the human body.[^45] Although the dietary significance of the eggplant is still present, the fruit with its glossy exterior and bulbous shape awakens both an aesthetic visual appreciation as well as the urge to touch the fruit and feel its smooth skin and firm flesh.
 <param ve-image 
        url="https://raw.githubusercontent.com/sheshekabob/plants/main/Eggplant/Weston.jpg"
        label="Edward Weston, Eggplant (1930), gelatin silver print"
@@ -263,7 +263,7 @@ Decades later, the formal properties of the fruit became a subject of photograph
        fit="contain">
        {#paragraph21}
        
-This visual and haptic appeal is more pronounced in the work of <span eid="Q312786">Robert Mapplethorpe</span>, whose creative use of light and formal experimentation is derived from Weston.[^47] Mapplethorpe produced hundreds of nude studies and erotic photographs. Eroticism was the guiding thread of his gaze, permeating his portraits of women, men, flowers, and fruit, including a sensuous bunch of grapes and _Eggplant_ (1985). Here, a single vegetable lies alone in an unidentified space, whose neutrality is broken by banded light filtered through window blinds. Marked by sun and shade, the meaty eggplant seems to transform into a body or part of one. Its nutritional meaning falls away, and the eggplant can only be consumed as an object of lust in yet another example of its sexualization, and perhaps, its commodification in a hyper-capitalist society. The fruit’s curves and crevices stretch our imagination and resemble the curves and crevices of the equally appealing torso that fills _Thomas (Back)_ (1986), a depiction of an African American male model whom Mapplethorpe favored and posed in a similar studio setting.
+Appeals to visual and tactile sense are more pronounced in the work of <span eid="Q312786">Robert Mapplethorpe</span>, who derived his creative use of light and formal experimentation from Weston.[^46] Eroticism was the guiding thread of Mapplethorpe’s gaze, permeating his portraits of women, men, flowers, and fruit. _Eggplant_ (1985) isolates a single fruit in an unidentified space, whose neutrality is broken by banded light filtered through window blinds. Marked by sun and shade, the meaty eggplant seems to transform into a body or part of one. As its nutritional meaning falls away, and the eggplant can only be consumed as an object of lust in yet another example of its sexualization, and perhaps, its commodification. The fruit’s curves and crevices stretch our imagination and resemble the torso that fills _Thomas (Back)_ (1986), a depiction of an African-American male model whom Mapplethorpe favored and posed in a similar studio setting.
 <param ve-compare curtain 
        compare="true"
        url="https://raw.githubusercontent.com/sheshekabob/plants/main/Eggplant/mapplethorpe5.jpg"
@@ -276,25 +276,14 @@ This visual and haptic appeal is more pronounced in the work of <span eid="Q3127
        label="Robert Mapplethorpe, Eggplant (1985), gelatin silver print" 
        description="photography by Robert Mapplethorpe"
        license="Permission pending - Copyright © Robert Mapplethorpe Foundation">
-       {#paragraph22}
        
-### New Eggplants, Old issues: Bt Brinjal and Globalization
-In recent years, eggplant has become the center of one of the hardest fought debates over genetically modified crops. Endorsed by Cornell University,[^48] varieties of <span eid="Q4982032">Bt brinjal</span> were designed by the US agrochemical giant Monsanto (now owned by Bayer) to withstand pests, thereby increasing yields and reducing the use of harmful pesticides. Although these varieties are cultivated in Bangladesh, they have been made illegal in India and the Philippines. Activists and research organizations accuse corporations like Monsanto—which own 53% of GM plant seeds[^49]—of bio-imperialist efforts to extract maximum profits under the guise of humanitarian concerns.[^50] There is also concern for the implications of meddling with ecological heritage impacting biodiversity by introducing “foreign genes that carry characteristics…not natural to the plant genome."[^51] 
+### New Varieties, Old issues: Bt Brinjal and Globalization
+In recent years, eggplant has become the center of one of the hardest fought debates over genetically modified crops. The US agrochemical giant Monsanto (now owned by Germany’s Bayer AG) designed varieties of <span eid="Q4982032">Bt brinjal</span> to withstand pests, thereby reducing the use of harmful pesticides and increasing yields. Although these varieties are cultivated in Bangladesh, they are illegal in India and the Philippines. Activists and researchers accuse corporations like Monsanto—which owns 53 percent of GM plant seeds[^47]—of bio-imperialist efforts to extract maximum profits under the guise of humanitarian concerns.[^48] Introducing “foreign genes that carry characteristics…not natural to the plant genome" also raises concern over the impact on biodiversity.[^49] A company maintaining ownership of a plant and exporting a genetically altered version back to where it historically originated not only sparks concern, but is also the kind of issue that is of interest to Plant Humanities. Plants are more than products subject to genetic improvement and economic exploitation: they have cultural and political meaning and are woven into complex, fluid social relationships that bring together issues such as human welfare, the power of profiteering corporations, and food sovereignty. Since its domestication, eggplant has been entwined in human culture, and as a global plant, it is squarely located in international debates with far-reaching consequences. 
 <param ve-image 
        url="https://upload.wikimedia.org/wikipedia/commons/b/b7/BT_Brinjal_Protest_Bangalore_India.JPG"
        label="Different varieties of eggplants put out by protesters in Bangalore during the listening tour of India's environment minister relating to the introduction of BT Brinjal (2010)"
        license="CC BY-SA 3.0"
        fit="cover">
-       {#paragraph23}
-
-A US company not only exporting a genetically altered crop back to the regions from which it historically originated, but also maintaining ownership of the plant sparks controversy. Such cases are key to the kind of issues with which Plant Humanities deals. Plants are more than products up for genetic improvement and economic exploitation; they also have cultural meaning. Plants are woven into complex, fluid social relationships that bring together issues of human welfare, Indigenous ecology, the power of profiteering corporations, and the future of global food. Since its domestication, eggplant has been entwined in human culture, and now, as a global plant, it is squarely located in international conflicts with far-reaching consequences.
-<param ve-image 
-       url="https://upload.wikimedia.org/wikipedia/commons/0/00/Only_planet_with_parmigiana_-_Fridays_for_Future_pre-COP26_Milano%2C_Lombardy%2C_Italy_-_2021-10-01.jpg"
-       license="CC BY-SA 4.0"
-       label="At a Fridays for Future strike for the environment on October 1, 2021 in Milan, a student holds a banner that reads: Save the Earth, it’s the only place with parmigiana"
-       fit="cover">
-       {#paragraph24}
-
 
 ### References
 
