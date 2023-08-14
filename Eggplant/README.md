@@ -112,16 +112,7 @@ Cultural clues mark the path of eggplant from China to the fields and kitchens o
        region="-333,1,1667,1375"
        fit="cover">
 
-Eggplant traveled light, leaving behind much of its cultural meaning, and so acquired new significance among West Asians. Persia’s cultural repertoire included eggplant just before the Islamic Golden Age from the eighth to the thirteenth century, when the Persian polymath Avicenna documented its medicinal uses. Eggplant quickly became a luxury dish for the Islamic elite, as told by stories of a glorious feast for the wedding of the Baghdad-based Abbasid caliph <span eid="Q61056">al-Maʾmun</span> and his vizier’s daughter, Buran. This culinary lore was passed down as derivative eggplant dishes bearing names like “Borani” or a recipe in <span eid="Q893318">“Borani”</span> or “Buraniyya.” During the Islamic Golden Age, the Persian polymath <span eid="Q8011">Avicenna</span> (or Ibn Sina) documented the medicinal uses of eggplant. Based on other literary and linguistic evidence, Persia’s cultural repertoire included eggplant as early as the seventh century.
-<param ve-image 
-       label="A map of the Abbasid Caliphate around 850 AD featuring provinces and settlements"
-       description="Abbasid Caliphate"
-       license="CC BY-SA 4.0"
-       url="https://upload.wikimedia.org/wikipedia/commons/a/a7/Abbasid_Caliphate_850AD.png"
-       region="-136,-448,2437,2242">
-
-
- <span eid="Q608662">_Taqwim al-Sihhah_</span> (The Maintenance of Health)  
+Eggplant traveled light, leaving behind much of its cultural meaning, and so acquired new significance among West Asians. Persia’s cultural repertoire included eggplant just before the Islamic Golden Age from the eighth to the thirteenth century, when the Persian polymath <span eid="Q8011">Avicenna</span> documented its medicinal uses. Eggplant quickly became a luxury dish for the Islamic elite, as told by stories of a glorious feast for the wedding of the Baghdad-based Abbasid caliph <span eid="Q61056">al-Maʾmun</span> and his vizier’s daughter, Buran. This culinary lore was passed down as derivative eggplant dishes bearing names like <span eid="Q893318">“Borani”</span> or “Buraniyya,” a recipe in _Yinshan Zhengyao_. In the eleventh century, Ibn Buṭlān of Baghdad featured eggplant in the medical treatise  <span eid="Q608662">_Taqwim al-Sihhah_</span> (The Maintenance of Health)—later translated into Latin and illustrated by Italian artists, who portrayed the nightshade as an aphrodisiac. Networks of trade and conquest eventually brought eggplant to the Mediterranean. A tenth-century calendar from Córdoba mentions six eggplant varieties, including one specific to that region, which could have been a claim to a unique Cordoban culture made by the rebel caliphate that held the city at the time.[^23]
 <param ve-image 
 url="https://raw.githubusercontent.com/sheshekabob/plants/main/IBN_BUTLA%CC%82N_Tacuinum_sanitatis__btv1b105072169_55.jpeg"
        label="Ibn Buṭlān, Tacuinum sanitatis" 
@@ -129,6 +120,52 @@ url="https://raw.githubusercontent.com/sheshekabob/plants/main/IBN_BUTLA%CC%82N_
        attribution="gallica.bnf.fr / Bibliothèque nationale de France"
        license="CC BY 2.0."
        region="0,49,1024,943">
+
+### European Herbals: Secondhand and Thirdhand Encounters
+
+Via trade routes connecting Italy and Iberia with the world beyond the Mediterranean, eggplant arrived in early Renaissance Europe, where it was received with a level of concern for public safety and morality. In sixteenth-century Italy, the doctor  <span eid="Q457191">Pietro Andrea Mattioli</span> wrote in his [_Senensis medici_](https://www.biodiversitylibrary.org/item/125718#page/1251/mode/1up) that eggplant was “generally eaten cooked with oil, salt, pepper and mushrooms,” adding that “some of our people…feed on the mad-apple in order to arouse love.”[^24] He also warned that eggplant created digestive illnesses and long-lasting health issues. The New World tomato and the mythical “pomo d’oro” (golden apple) were often conflated as varieties of _melanzana_. This confusion might explain why gold was applied to a print of eggplant in a copy of the [_Hortus Eystettensis_](https://bibdigital.rjb.csic.es/records/item/10908-redirection) by <span eid="Q65027">Basilius Besler</span> who cited Mattioli. Also in the 1500s, <span eid="Q60756">Leonhart Fuchs</span> a German botanist who created the University of Tübingen’s first medicinal garden, described eggplant as “sown in our gardens,” but noted Europeans’ suspicion of it, writing that some “avoid the use of them, terrified by the name [_mala insana_] itself.”[^25] 
+<param ve-compare curtain 
+       url="https://raw.githubusercontent.com/sheshekabob/plants/main/Eggplant/besler2_t.jpg"
+       label="Basilius Besler, Hortus Eystettensis (Real Jardim Botânico de Madrid)"
+       description="Eggplant illustrated in Besler's Hortus Eystettensis"
+       license="Need to ask for permission"
+       attribution="Real Jardim Botânico de Madrid">
+<param ve-compare  
+       url="https://github.com/sheshekabob/plants/blob/main/Eggplant/Besler1_t.jpg"
+       label="Basilius Besler, Hortus Eystettensis (Oak Springs)"
+       description="Eggplant illustrated in Besler's Hortus Eystettensis"
+       license="Need to ask for permission"
+       attribution="Oak springs">
+<param ve-image 
+       url="https://upload.wikimedia.org/wikipedia/commons/4/49/Leonhart_Fuchs_1543.jpg"
+       label="Leonhart Fuchs, from New Kreüterbuch, Basel, 1543"
+       description="Leonhart Fuchs"
+       license="Public domain"
+       region="-736,99,3682,3388"
+       fit="cover">
+<param ve-image 
+       url="https://www.biodiversitylibrary.org/pageImage/41534506"
+       label="Mala insana, from Leonhart Fuchs, De historia stirpium commentarii insignes (1542)"
+       description="De historia stirpium commentarii insignes"
+       license="Public domain. https://www.biodiversitylibrary.org/item/129744#page/567/mode/1up"
+       region="-936,316,4682,4049"
+       fit="cover">
+
+Islamic and Jewish communities played a large part in introducing other Europeans to Asian food cultures. An association with Islamic culture made Italians suspicious of the eggplant, and similarly, its Spanish and Italian ties, along with a general wariness of nightshades, made the plant seem suspect to gardeners on the British Isles. Culinary prejudice and aesthetic admiration predominate in herbals by English authors, who were more culturally removed from eggplant than their southern counterparts and thus highly doubtful of this exotic. In 1597, the botanist <span eid="Q1333338">John Gerard</span> wrote that in London he saw fruit “the bigness of a goose egg,” but recommended that the English should “content themselves with the meat and sauce of our own country,” because “these apples have a mischievous quality, the use whereof is utterly to be forsaken.”[^26] Much of Gerard's advice was copied by <span eid="Q312678">Philip Miller</span> in his _Gardeners Dictionary_ of 1754, which contends that “these plants are only preserved as curiosities in the English gardens” and eaten only by “some Italians or Spaniards.”[^27]
+<param ve-knightlab-timeline
+       source="1ScfQJfrEy7_eHs8qXtHu_qH70s_Uj0MsB3iUrR-v0oI"
+       timenav-position="bottom"
+       hash-bookmark="false""
+       initial-zoom="1""
+       height="750">
+
+While herbalists in England and Germany warned their readers away from eggplant, the <span eid="Q5907004">_Hortus Malabaricus_</span>, compiled by Dutch colonists and published in 1678–1693, took a more open view. This record of the plants of “Malabar” (modern-day Kerala) derived its information from locals, and much of its contents are attributed to the distinguished Indian herbalist <span eid="Q6095079">Itty Achudan</span>, a fount of local knowledge.[^28] The _Hortus Malabaricus_ lists the Braman name for eggplant, "vaenna,” noting its use for curing toothaches and treating cows with internal abscesses. The Dutch overseer of this project, <span eid="Q741104">Hendrik van Rheede</span>, laments that “the fruit of the nightshade in our homeland is a narcotic power: but India produces edible nightshades!”[^29] In such cross-cultural encounters, Europeans demonstrated a willingness to incorporate local plants into their herbal understanding while dreaming of potential profit and botanical innovation.
+<param ve-image 
+       url="https://ia800509.us.archive.org/BookReader/BookReaderImages.php?zip=/5/items/Hortus_Indicus_Malabaricus_Volume10/Hortus_Malabaricus_Volume_10_jp2.zip&file=Hortus_Malabaricus_Volume_10_jp2/Hortus_Malabaricus_Volume_10_0163.jp2&id=Hortus_Indicus_Malabaricus_Volume10&scale=4&rotate=0"
+       label="Eggplant, from Hortus Malabaricus (1678)"
+       description="Hortus Malabaricus, Vol 10"
+       license="Public domain"
+       region="-54,-168,2581,2477">
 
 ### Eggplant in the Renaissance: Between Art and Natural History
 
@@ -153,57 +190,6 @@ url="https://upload.wikimedia.org/wikipedia/commons/b/b5/Vertumnus_%C3%A5rstider
 description="Vertumnus"
 license="Public domain"
 region="-2293,-53,16382,14731">
-
-### European Herbals: Secondhand and Thirdhand Encounters
-
-In the sixteenth century, cultural responses to eggplant were shaped by the connections that allowed people to encounter this tropical plant. Europeans were usually two or three steps removed from the food cultures of India and China, as the eggplant traveled by Islamic trade routes to the southern Mediterranean. Italy and Iberia had key connections with the Islamic world in both trade and warfare and thus a third-degree connection to eggplant, through Islamic and Jewish communities. In sixteenth-century Italy, the doctor and naturalist <span eid="Q457191">Pietro Andrea Mattioli</span> wrote in his [_Senensis medici_](https://www.biodiversitylibrary.org/item/125718#page/1251/mode/1up) that eggplant was “generally eaten cooked with oil, salt, pepper and mushrooms,” adding that “some of our people…feed on the mad-apple in order to arouse love.”[^20] He also warned that this food was hard to digest and created digestive illnesses and long-lasting health issues. The New World tomato and the mythical “pomo d’oro” (golden apple) were often conflated as varieties of _melanzana_. This confusion might be why gold was applied to the eggplants in a copy of the [_Hortus Eystettensis_](https://bibdigital.rjb.csic.es/records/item/10908-redirection) by the botanist <span eid="Q65027">Basilius Besler</span> who cited Mattioli, though eggplant can be yellow.
-<param ve-compare curtain 
-       url="https://raw.githubusercontent.com/sheshekabob/plants/main/Eggplant/besler2_t.jpg"
-       label="Basilius Besler, Hortus Eystettensis (Real Jardim Botânico de Madrid)"
-       description="Eggplant illustrated in Besler's Hortus Eystettensis"
-       license="Need to ask for permission"
-       attribution="Real Jardim Botânico de Madrid">
-       
-<param ve-compare  
-       url="https://github.com/sheshekabob/plants/blob/main/Eggplant/Besler1_t.jpg"
-       label="Basilius Besler, Hortus Eystettensis (Oak Springs)"
-       description="Eggplant illustrated in Besler's Hortus Eystettensis"
-       license="Need to ask for permission"
-       attribution="Oak springs">
-
-The German physician and botanist <span eid="Q60756">Leonhart Fuchs</span> owed much to Swiss and Italian scholarship, and his warmer climate in Tübingen connected him to these botanical cultures. He described eggplants as “sown in our gardens, but frequently in "hanging window gardens” with cucumbers and melons.[^21] In the northern Mediterranean, the eggplant was initially met with some suspicion, even though these encounters were dictated mostly by the sharing of food. To suggest that suspicion of eggplant was greatly exaggerated, an amused Fuchs wrote that some people “immediately avoid the use of them, terrified by the name itself.” Although eggplant could grow in European climes, cultural bias against foreign foods shaped the way people interacted with the plant.  
-<param ve-image 
-       url="https://upload.wikimedia.org/wikipedia/commons/4/49/Leonhart_Fuchs_1543.jpg"
-       label="Leonhart Fuchs, from New Kreüterbuch, Basel, 1543"
-       description="Leonhart Fuchs"
-       license="Public domain"
-       region="-736,99,3682,3388"
-       fit="cover">
-<param ve-image 
-       url="https://www.biodiversitylibrary.org/pageImage/41534506"
-       label="Mala insana, from Leonhart Fuchs, De historia stirpium commentarii insignes (1542)"
-       description="De historia stirpium commentarii insignes"
-       license="Public domain. https://www.biodiversitylibrary.org/item/129744#page/567/mode/1up"
-       region="-936,316,4682,4049"
-       fit="cover">
-       
-Authors of English herbals were one more step removed from eggplant than their southern counterparts and thus highly skeptical of this exotic. In 1597, <span eid="Q1333338">John Gerard</span> wrote that he saw only one fruit “of the bigness of a goose egg” in London. He recommended that English people should “content themselves with the meat and sauce of our own country,” because “these apples have a mischievous quality, the use whereof is utterly to be forsaken.”[^22] In 1699, the Scottish botanist <span eid="Q281661">Robert Morison</span> describes them as “condemned by doctors as harmful and perverse.”[^23]  Much of Gerard's advice was copied by <span eid="Q312678">Philip Miller</span> in his dictionary of 1754, which contends that “these plants are only preserved as curiosities in the English gardens” and only eaten by “some Italians or Spaniards.”[^24] We see culinary prejudice and aesthetic admiration towards plants several steps culturally removed from these authors. Just as the association with Islamic culture made Italians initially suspicious of the eggplant, its ties to Spanish and Italian culture made the plant seem strange to British gardeners. 
-<param ve-knightlab-timeline
-       source="1ScfQJfrEy7_eHs8qXtHu_qH70s_Uj0MsB3iUrR-v0oI"
-       timenav-position="bottom"
-       hash-bookmark="false""
-       initial-zoom="1""
-       height="750">
-
-Compiled by Dutch colonists in 1676, the <span eid="Q5907004">_Hortus Malabaricus_</span> of 1678 took a different approach than that of herbalists in England and Germany, who warned their readers away from eggplant. This source on the plants of “Malabar” (modern-day Kerala) derived its information from locals. Much of its contents are attributed to the distinguished Indian herbalist <span eid="Q6095079">Itty Achudan</span>, who compiled local knowledge.[^25] The _Hortus Malabaricus_ lists the Braman name for eggplant, "Vaenna,” noting its use for curing toothaches and treating cows with internal abscesses.[^26] The Dutch “author” <span eid="Q741104">Hendrik van Rheede</span> laments that “the fruit of the nightshade in our homeland is a narcotic power: but India produces edible nightshades!”[^27] In these cultural encounters, Europeans demonstrated a willingness to incorporate local plants into their herbal understanding while dreaming of potential profit and botanical innovation.
-<param ve-image 
-       url="https://ia800509.us.archive.org/BookReader/BookReaderImages.php?zip=/5/items/Hortus_Indicus_Malabaricus_Volume10/Hortus_Malabaricus_Volume_10_jp2.zip&file=Hortus_Malabaricus_Volume_10_jp2/Hortus_Malabaricus_Volume_10_0163.jp2&id=Hortus_Indicus_Malabaricus_Volume10&scale=4&rotate=0"
-       label="Eggplant, from Hortus Malabaricus (1678)"
-       description="Hortus Malabaricus, Vol 10"
-       license="Public domain"
-       region="-54,-168,2581,2477">
-
-### The Eggplant in Asia
 
 
 
