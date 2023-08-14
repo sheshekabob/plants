@@ -28,7 +28,7 @@ From its domestication in tropical Asia to its worldwide diffusion, the story of
        license="Public domain"
        attribution="MET JP2064, H. O. Havemeyer Collection, Bequest of Mrs. H. O. Havemeyer, 1929"
 url="https://upload.wikimedia.org/wikipedia/commons/1/10/MET_DP138232.jpg"
-       region="-239,-50,1197,1102"
+       region="75,-223,3520,3285"
        fit="cover">
 
 ### Local Names, Global Food
