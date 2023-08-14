@@ -111,11 +111,11 @@ Cultural clues mark the path of eggplant from China to the fields and kitchens o
        region="-175,-253,4527,3733"
        fit="cover">
 <param ve-image 
-       url="https://collections.mfa.org/internal/media/dispatcher/1059814/resize%3Aformat%3Dpreview"
-       label="Isoda Koryûsai (Japanese, 1735–1790), Dream Symbols of the New Year: Hawk, Eggplant and Mount Fuji. Edo period. Woodblock print (nishiki-e); ink and color on paper"
-       description="Hawk, Eggplant and Mount Fuji"
-       license="Public domain"
-       attribution="Public domain. Museum of Fine Arts, Boston, https://www.mfa.org/"
+       url="Eggplant/Hatsuyume.jpg"
+       label="Woodblock print. Shini-e. A memorial portrait of Konno of Eijudo Press at the age of 71. Nishiki-e on paper."
+       description="Hatsuyume"
+       license="CC BY-SA 4.0"
+       attribution="© The Trustees of the British Museum"
        region="-333,1,1667,1375"
        fit="cover">
 
