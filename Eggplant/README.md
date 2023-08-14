@@ -112,7 +112,7 @@ Cultural clues mark the path of eggplant from China to the fields and kitchens o
        fit="cover">
 <param ve-image 
        url="Eggplant/Hatsuyume.jpg"
-       label="Woodblock print. Shini-e. A memorial portrait of Konno of Eijudo Press at the age of 71. Nishiki-e on paper."
+       label="Utagawa Toyokuni, memorial portrait of Konno of Eijudo Press at the age of 71, 1797-1798, woodblock print, shini-e, nishiki-e on paper."
        description="Hatsuyume"
        license="CC BY-SA 4.0"
        attribution="© The Trustees of the British Museum"
