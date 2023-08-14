@@ -23,11 +23,11 @@ For many North Americans, eggplant is more synonymous with a sex organ than what
 
 From its domestication in tropical Asia to its worldwide diffusion, the story of eggplant raises the question of why some ingredients become naturalized and accepted as common, while others remain perennially foreign. The history of this curious fruit and its global reception illustrates a statement made by the anthropologist Mary Douglas: “Like sex, the taking of food has a social component, as well as a biological one.”[^4]  In other words, “cuisine is not so much a matter of ingredients,” explains the sociologist Claude Fischler, “as of classifications and rules ordering the world and giving it meaning.”[^5] By transforming the raw into the cooked, cuisine is also a function of our desire “to tame the wild, threatening forces that inhabit nature.”[^6] In visual and written representations, eggplant is a kaleidoscopic signifier. Comestible, medicinal, poisonous, narcotic, aesthetic, or erotic, eggplant is rendered according to the degree to which the artist or writer’s culture has “tamed” this spiny Solanum.
 <param ve-image 
-       url="https://upload.wikimedia.org/wikipedia/commons/1/10/MET_DP138232.jpg”
        label=”Takashima Chiharu, Papier-Mache Fish and Various Vegetables, ca. 1815”
-   	description=”Takashima Chiharu print”
-   	attribution=”MET JP2064, H. O. Havemeyer Collection, Bequest of Mrs. H. O. Havemeyer, 1929”
-       license=”Public domain”>
+       license=”Public domain”
+       description=”Takashima Chiharu print”
+       attribution=”MET JP2064, H. O. Havemeyer Collection, Bequest of Mrs. H. O. Havemeyer, 1929”
+       url="https://upload.wikimedia.org/wikipedia/commons/1/10/MET_DP138232.jpg”>
 
 ### Local Names, Global Food
 
