@@ -126,7 +126,7 @@ url="https://upload.wikimedia.org/wikipedia/commons/a/a2/Muhammad_ibn_Muhammad_S
        description="Wonders of Creation"
        attribution="Walters Art Museum"
        license="Public domain"
-       region="0,49,1024,943">
+       region="-230,161,1645,1490">
 <param ve-image 
 url="https://raw.githubusercontent.com/sheshekabob/plants/main/IBN_BUTLA%CC%82N_Tacuinum_sanitatis__btv1b105072169_55.jpeg"
        label="Ibn Buṭlān, Tacuinum sanitatis, Folio 21r, Latin 9333" 
