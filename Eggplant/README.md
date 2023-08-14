@@ -142,6 +142,7 @@ Via trade routes connecting Italy and Iberia with the world beyond the Mediterra
        label="Basilius Besler, Hortus Eystettensis (Oak Springs)"
        description="Eggplant illustrated in Besler's Hortus Eystettensis"
        license="Ask for Permission"
+       region="-883,1,4419,3742"
        attribution="Oak Spring Garden Foundation">
 <param ve-image 
        url="https://upload.wikimedia.org/wikipedia/commons/4/49/Leonhart_Fuchs_1543.jpg"
