@@ -10,7 +10,7 @@ banner="https://raw.githubusercontent.com/sheshekabob/plants/main/Eggplant/Seike
        layout="vertical">
 
 ### The Eggplant Emoji
-In the late 1990s, Japanese telecom companies designed the <span eid="Q55267268">eggplant emoji_</span> for the keyboard of icons that serve as the shorthand of text messages and social media. Aubergine is the name for the emoji name in Unicode, the universal standard for encoding linguistic characters for electronic display. In 2010, the emoji keyboard became a part of Unicode 6.0, and a year later, Apple added the keyboard to its operating system for iPhone users worldwide.[^1] Also in 2011, the first known use of an eggplant emoji as a phallic symbol was on Twitter, when  the handle @iFUXXS_witHer tweeted: im jelly no 🍆 😥.[^2] Now, “sexting” is inseparable from a long, purple fruit with a bulbous end.   
+In the late 1990s, Japanese telecom companies designed the <span eid="Q55267268">eggplant emoji</span> for the keyboard of icons that serve as the shorthand of text messages and social media. Aubergine is the name for the emoji name in Unicode, the universal standard for encoding linguistic characters for electronic display. In 2010, the emoji keyboard became a part of Unicode 6.0, and a year later, Apple added the keyboard to its operating system for iPhone users worldwide.[^1] Also in 2011, the first known use of an eggplant emoji as a phallic symbol was on Twitter, when  the handle @iFUXXS_witHer tweeted: im jelly no 🍆 😥.[^2] Now, “sexting” is inseparable from a long, purple fruit with a bulbous end.   
 <param ve-image 
        url="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Twemoji_1f346.svg/2048px-Twemoji_1f346.svg.png"
        label="A colored Emoji from Twitter Emoji project" 
