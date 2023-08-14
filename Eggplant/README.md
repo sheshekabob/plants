@@ -12,7 +12,7 @@ banner="https://raw.githubusercontent.com/sheshekabob/plants/main/Eggplant/Seike
 ### The Eggplant Emoji
 In the late 1990s, Japanese telecom companies designed the [eggplant emoji](https://emojipedia.org/eggplant/) for the keyboard of icons that serve as the shorthand of text messages and social media. Aubergine is the name for the emoji name in Unicode, the universal standard for encoding linguistic characters for electronic display. In 2010, the emoji keyboard became a part of Unicode 6.0, and a year later, Apple added the keyboard to its operating system for iPhone users worldwide.[^1] Also in 2011, the first known use of an eggplant emoji as a phallic symbol was on Twitter, when  the handle @iFUXXS_witHer tweeted: im jelly no 🍆 😥.[^2] Now, “sexting” is inseparable from a long, purple fruit with a bulbous end.   
 <param ve-image 
-       url="https://upload.wikimedia.org/wikipedia/commons/e/e0/Solanum_melongena_Maru_nasu-2.jpg"
+       url="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Twemoji_1f346.svg/2048px-Twemoji_1f346.svg.png"
        label="A colored Emoji from Twitter Emoji project" 
        description="Twitter Emoji"
        attribution="Twitter"
@@ -22,7 +22,8 @@ For many North Americans, eggplant is more synonymous with a sex organ than what
 <param ve-iframe src="https://wikimap.toolforge.org/?cat=Eggplant-based_food&subcats=true&subcatdepth=1&cluster=true#close">
 
 From its domestication in tropical Asia to its worldwide diffusion, the story of eggplant raises the question of why some ingredients become naturalized and accepted as common, while others remain perennially foreign. The history of this curious fruit and its global reception illustrates a statement made by the anthropologist Mary Douglas: “Like sex, the taking of food has a social component, as well as a biological one.”[^4]  In other words, “cuisine is not so much a matter of ingredients,” explains the sociologist Claude Fischler, “as of classifications and rules ordering the world and giving it meaning.”[^5] By transforming the raw into the cooked, cuisine is also a function of our desire “to tame the wild, threatening forces that inhabit nature.”[^6] In visual and written representations, eggplant is a kaleidoscopic signifier. Comestible, medicinal, poisonous, narcotic, aesthetic, or erotic, eggplant is rendered according to the degree to which the artist or writer’s culture has “tamed” this spiny Solanum.
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/1/10/MET_DP138232.jpg”
+<param ve-image 
+       url="https://upload.wikimedia.org/wikipedia/commons/1/10/MET_DP138232.jpg”
 label=”Takashima Chiharu, Papier-Mache Fish and Various Vegetables, ca. 1815”
    	description=”Takashima Chiharu print”
    	attribution=”MET JP2064, H. O. Havemeyer Collection, Bequest of Mrs. H. O. Havemeyer, 1929”
