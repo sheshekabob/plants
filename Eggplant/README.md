@@ -43,7 +43,7 @@ url="https://pic.blog.plover.com/lang/etym/eggplant-map/eggplant-map.png"
        region="137,-342,1861,1712"
        fit="contain">
 
-As a quasi-vegetaable that quickly oxidizes, is tricky to cook, and contains the toxic alkaloids solanine and nicotine, eggplant defies easy categorization, even “what is food and what is not,” for those cultures who encountered it relatively late.[^7] Though exactly where this crop was domesticated and how it was distributed remain open questions, a [map of its current production](https://en.wikipedia.org/wiki/List_of_countries_by_eggplant_production) mirrors some of its journey across the globe. More than 80 percent of the world's supply comes from China and India—where certain species have been consumed for 2,000–4,500 years—followed by Egypt, Turkey, and Indonesia.[^8] Over time, what was an ancient and storied plant in tropical Asia became richly appreciated throughout the rest of the continent. But when _mala insana_ reached Europe, its mystique aroused suspicion. Around the same time, the Columbian exchange introduced this “mad apple” to the Western Hemisphere, where it's faltered as everyday fare, but acquired other meanings with its aesthetic virtues.      
+As a quasi-vegetaable that quickly oxidizes, is tricky to cook, and contains the toxic alkaloids solanine and nicotine, eggplant defies easy categorization, even “what is food and what is not,” for those cultures who encountered it relatively late.[^7] Though exactly where this crop was domesticated and how it was distributed remain open questions, a [map of its current production](https://en.wikipedia.org/wiki/List_of_countries_by_eggplant_production) mirrors some of its journey across the globe. More than 80 percent of the world's supply comes from China and India—where certain species have been consumed for 2,000–4,500 years—followed by Egypt, Turkey, and Indonesia.[^8] Over time, what was an ancient and storied plant in tropical Asia became richly appreciated throughout the rest of the continent. But when _mala insana_ reached Europe, its mystique aroused suspicion. Around the same time, the Columbian exchange introduced this “mad apple” to the Western Hemisphere, where it has faltered as everyday fare, but acquired other meanings with its aesthetic virtues.      
 <param ve-image 
        url="https://upload.wikimedia.org/wikipedia/commons/2/26/Countries_by_eggplant_production_in_2020.png"
        label="Map showing countries by eggplant production in tonnes (FAOSTAT 2020)"
@@ -141,16 +141,9 @@ Via trade routes connecting Italy and Iberia with the world beyond the Mediterra
        url="Eggplant/Besler2_Sheila_redo.jpg"
        label="Basilius Besler, Hortus Eystettensis (Oak Springs)"
        description="Eggplant illustrated in Besler's Hortus Eystettensis"
-       license="Ask for Permission"
+       license="Ask for permission"
        region="-883,1,4419,3742"
        attribution="Oak Spring Garden Foundation">
-<param ve-image 
-       url="https://upload.wikimedia.org/wikipedia/commons/4/49/Leonhart_Fuchs_1543.jpg"
-       label="Leonhart Fuchs, from New Kreüterbuch, Basel, 1543"
-       description="Leonhart Fuchs"
-       license="Public domain"
-       region="-736,99,3682,3388"
-       fit="cover">
 <param ve-image 
        url="https://www.biodiversitylibrary.org/pageImage/41534506"
        label="Mala insana, from Leonhart Fuchs, De historia stirpium commentarii insignes (1542)"
