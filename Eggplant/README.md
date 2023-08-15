@@ -3,7 +3,7 @@
 
 
 <param ve-config 
-       title="Food, Sex, and Poison: Deciphering the Eggplant"
+       title="Eggplant: Food, Sex, and Poison"
        author="Ana Carolina Carmona-Ribeiro, Nathan Cornish, and Sheila Scoville"
        source-image="https://raw.githubusercontent.com/sheshekabob/plants/main/Eggplant/Seikei%20Zusetsu_cover.jpg"
 banner="https://raw.githubusercontent.com/sheshekabob/plants/main/Eggplant/Seikei%20Zusetsu_cover.jpg"
