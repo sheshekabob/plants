@@ -132,7 +132,7 @@ url="https://upload.wikimedia.org/wikipedia/commons/2/2a/The_populace_pays_alleg
        label="The populace pays allegiance to the new Abbasid Caliph, al-Ma'mun, ca. 1592-1594, Tarya (artist), Nar Singh (calligrapher), opaque watercolor, ink and gold on paper."
        license="Public domain"
  attribution="Edwin Binney 3rd Collection, San Diego Museum of Art"
- region="-230,161,1645,1490">
+ region="-260,1,1304,1144">
        <param ve-image 
 url="https://raw.githubusercontent.com/sheshekabob/plants/main/IBN_BUTLA%CC%82N_Tacuinum_sanitatis__btv1b105072169_55.jpeg"
        label="Ibn Buṭlān, Tacuinum sanitatis, Folio 21r, Latin 9333" 
