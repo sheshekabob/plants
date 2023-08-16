@@ -128,6 +128,12 @@ url="https://upload.wikimedia.org/wikipedia/commons/a/a2/Muhammad_ibn_Muhammad_S
        license="Public domain"
        region="-230,161,1645,1490">
 <param ve-image 
+url="https://upload.wikimedia.org/wikipedia/commons/2/2a/The_populace_pays_allegiance_to_the_new_Abbasid_Caliph%2C_al-Ma%27mun_%286124531161%29.jpg"
+       label="The populace pays allegiance to the new Abbasid Caliph, al-Ma'mun, ca. 1592-1594, Tarya (artist), Nar Singh (calligrapher), opaque watercolor, ink and gold on paper."
+       license="Public domain"
+ attribution="Edwin Binney 3rd Collection, San Diego Museum of Art"
+ region="-230,161,1645,1490">
+       <param ve-image 
 url="https://raw.githubusercontent.com/sheshekabob/plants/main/IBN_BUTLA%CC%82N_Tacuinum_sanitatis__btv1b105072169_55.jpeg"
        label="Ibn Buṭlān, Tacuinum sanitatis, Folio 21r, Latin 9333" 
        description="Tacuinum sanitatis"
