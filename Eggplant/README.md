@@ -255,7 +255,6 @@ As _S. melongena_ settled into Western culture, its aesthetic and exotic qualiti
        license="Permission pending - Musée de Grenoble-J.L.Lacroix © Succession H. Matisse"
        attribution="Musée de Grenoble. https://www.museedegrenoble.fr"
        fit="contain">
-       {#paragraph20}
        
 Decades later, the formal properties of the fruit became a subject of photography. With a highly refined sense of composition and light, <span eid="Q346988">Edward Weston</span> photographed a dark globular eggplant, the same cultivar featured in agricultural literature at the time. As in many of his pictures, _Eggplant_ (1930) unveils the unexpected and the marvelous in natural elements and everyday objects, as well as their resemblance to the human body.[^46] Although the dietary significance of the eggplant is still present, the fruit with its glossy exterior and bulbous shape awakens both an aesthetic visual appreciation as well as the urge to touch the fruit and feel its smooth skin and firm flesh.
 <param ve-image 
@@ -265,7 +264,6 @@ Decades later, the formal properties of the fruit became a subject of photograph
        license="Permission pending"
        attribution="???????"
        fit="contain">
-       {#paragraph21}
        
 Appeals to visual and tactile sense are more pronounced in the work of <span eid="Q312786">Robert Mapplethorpe</span>, who derived his creative use of light and formal experimentation from Weston.[^47] Eroticism was the guiding thread of Mapplethorpe’s gaze, permeating his portraits of women, men, flowers, and fruit. _Eggplant_ (1985) isolates a single fruit in an unidentified space, whose neutrality is broken by banded light filtered through window blinds. Marked by sun and shade, the meaty eggplant seems to transform into a body or part of one. As its nutritional meaning falls away, and the eggplant can only be consumed as an object of lust in yet another example of its sexualization, and perhaps, its commodification. The fruit’s curves and crevices stretch our imagination and resemble the torso that fills _Thomas (Back)_ (1986), a depiction of an African-American male model whom Mapplethorpe favored and posed in a similar studio setting.
 <param ve-compare curtain 
