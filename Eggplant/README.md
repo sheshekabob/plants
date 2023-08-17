@@ -11,16 +11,13 @@ banner="https://raw.githubusercontent.com/sheshekabob/plants/main/Eggplant/Seike
 
 ### The Eggplant Emoji
 Originally designed by Japanese telecom companies, the <span eid="Q55267268">eggplant emoji</span> is part of the keyboard of icons that serve as the wordless shorthand of text messages and social media. The emoji is named Aubergine in Unicode, the universal standard for encoding linguistic and “picture” characters for electronic display. In 2010, the emoji keyboard was added to the Unicode Standard (version 6.0), and a year later, Apple made the keyboard accessible to iPhone users worldwide.[^1] Almost instantly, the eggplant emoji became code for a phallus when, in 2011, the Twitter handle @iFUXXS_witHer tweeted “im jelly no 🍆 😥.”[^2] In Japan, eggplant is culturally significant enough to be a keyboard icon, but in the United States and Canada, where ”Aubergine” is a somewhat empty signifier compared to the banana or an ear of corn, which are also emojis, it was ripe for a new association, one related to a more routine topic of wireless communication than a divisive nightshade. Now, online foreplay or “sexting” is inseparable from a long, purple fruit with a bulbous end.
-<param ve-compare curtain 
-       compare="true" 
-       url="Eggplant/large.jpg"
+<param ve-image 
+       url="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Twemoji_1f346.svg/2048px-Twemoji_1f346.svg.png"
        label="A colored Emoji from Twitter Emoji project" 
        description="Twitter Emoji"
        attribution="Twitter"
        region="-161,-82,2371,2213"
        license="CC BY 2.0.">   
-<param ve-compare
-       url="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Twemoji_1f346.svg/2048px-Twemoji_1f346.svg.png">
 
 For many North Americans, eggplant is more synonymous with a sex organ than what’s for dinner, but generally, this crop is known as a culinary vegetable, though technically it’s a berry since it has edible seeds and develops from the ovary of a single flower. Low in calories, but full of nutrients including vitamins, minerals, protein, and fiber,[^3] the fruit of this plant has long been a dietary fixture throughout Asia and the Mediterranean, where cooks prize it for its versatility and ability to absorb flavors. World cuisine today abounds with dishes like eggplant parmesan <span eid="Q973455">_(parmigiana di melanzane)_</span>, South Asian puréed eggplant <span eid="Q154872">(_baingan bharta_)</span>, Chinese Sichuan fish-fragrant eggplant (_yúxiāng qiézi_), Tanzanian eggplant curry (_mchuzi wa biringani_), and <span eid="Q765174">Levantine</span> classics like moussaka and baba ganoush. However, many Americans and Europeans find its occasional bitterness and spongy texture challenging. Eggplant also bears the stigma of the <span eid="Q134172">Solanaceae family</span>, known to harbor toxins and hallucinogens, though other nightshades are mealtime norms like tomatoes, peppers, and potatoes, American counterparts to the Old-World eggplant.
 <param ve-iframe src="https://wikimap.toolforge.org/?cat=Eggplant-based_food&subcats=true&subcatdepth=1&cluster=true#close">
