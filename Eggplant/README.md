@@ -67,15 +67,14 @@ url="https://media.britishmuseum.org/media/Repository/Documents/2014_10/17_10/26
        description="Watercolour painting on paper"
        license="CC BY-SA 4.0"
        attribution="© The Trustees of the British Museum"
-
        region="-239,-50,1197,1102"
        fit="cover">
 <param ve-image 
-       label="Made in West Bengal, a watercolor of a woman harvesting a giant eggplant is in the style of Kalighat painting, known for its depictions of everyday life, nineteenth century."
-       description="A woman pulling giant aubergines from a tree"
-       license="Public domain"
-       attribution="A woman pulling giant aubergines from a tree, nineteenth century, watercolor with pencil. Wellcome Collection. https://wellcomecollection.org/works/buu2vm47. Public domain."
        url="https://iiif.wellcomecollection.org/image/V0044992/full/640%2C/0/default.jpg"
+       label="Kalighat watercolour painting, West Bengal (19th century)"
+       description="A woman pulling giant aubergines from a tree"
+       attribution="Wellcome Collection"
+       license="Public domain"
        region="-213,52,1067,902"
        fit="cover">
 
