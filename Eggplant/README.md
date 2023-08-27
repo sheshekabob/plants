@@ -156,8 +156,8 @@ Islamic and Jewish communities played a large part in introducing other European
 <param ve-knightlab-timeline
        source="1ScfQJfrEy7_eHs8qXtHu_qH70s_Uj0MsB3iUrR-v0oI"
        timenav-position="bottom"
-       hash-bookmark="false""
-       initial-zoom="1""
+       hash-bookmark="false"
+       initial-zoom="1"
        height="750">
 
 While herbalists in England and Germany warned their readers away from eggplant, the <span eid="Q5907004">_Hortus Malabaricus_</span>, compiled by Dutch colonists and published in 1678–1693, took a more open view. This record of the plants of “Malabar” (modern-day Kerala) derived its information from locals, and much of its contents are attributed to the distinguished Indian herbalist <span eid="Q6095079">Itty Achudan</span>.[^28] The _Hortus Malabaricus_ lists the Braman name for eggplant, “vaenna,” noting its use for curing toothaches and treating cows with internal abscesses. The Dutch overseer of this project, <span eid="Q741104">Hendrik van Rheede</span>, laments that “the fruit of the nightshade in our homeland is a narcotic power: but India produces edible nightshades!”[^29] In such cross-cultural encounters, Europeans demonstrated a willingness to incorporate local plants into their herbal understanding while dreaming of potential profit and botanical innovation.
@@ -185,7 +185,7 @@ Many Renaissance murals juxtapose plants and animals with figures of classical m
        description="Summer, Oil paint on canvas"
        attribution="Denver Art Museum"
        license="Public domain"
-       region="-610,-449,6210,7501">
+       fit="contain">
 <param ve-image 
        url="https://upload.wikimedia.org/wikipedia/commons/b/b5/Vertumnus_%C3%A5rstidernas_gud_m%C3%A5lad_av_Giuseppe_Arcimboldo_1591_-_Skoklosters_slott_-_91503.tiff"
        label="Giuseppe Arcimboldo, Vertumnus (1591)" 
