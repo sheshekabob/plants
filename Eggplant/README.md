@@ -65,7 +65,6 @@ Assumptions that eggplant was domesticated in the Indian subcontinent rest partl
 url="https://media.britishmuseum.org/media/Repository/Documents/2014_10/17_10/26991ccc_7559_460b_ad27_a3c700aa9665/mid_01032763_001.jpg"
        label="Company School watercolour painting, Calcutta (19th century)"
        description="Watercolour painting on paper"
-       license="CC BY-SA 4.0"
        attribution="© The Trustees of the British Museum"
        region="-239,-50,1197,1102"
        fit="cover">
@@ -121,17 +120,17 @@ Cultural clues mark the path of eggplant from China to the fields and kitchens o
 
 Eggplant traveled light, leaving much of its cultural meaning behind and acquiring new significance among West Asians. Persia’s botanical repertoire incorporated eggplant or _bādenjān_ just before the Islamic Golden Age, which ran from the eighth to the thirteenth century, during which the Persian polymath <span eid="Q8011">Avicenna</span> documented its medicinal uses. Eggplant quickly became a luxury dish for the Islamic elite, as told by stories of a glorious, month-long feast for the wedding of a ninth-century Abbasid caliph, <span eid="Q61056">al-Maʾmun</span> of Baghdad, and his vizier’s daughter, Būrān. This culinary lore was passed down as derivative eggplant dishes like _baadhinjaan buran_ (“Būrān’s eggplant”), <span eid="Q893318">_borani_</span>, or [_buraniyyah_](https://archive.aramcoworld.com/issue/200604/cooking.with.the.caliphs.htm). In the eleventh century, Ibn Buṭlān of Baghdad featured eggplant in the medical treatise <span eid="Q608662">_Taqwim al-Sihhah_</span> (The Maintenance of Health)—later translated into Latin and illustrated by Italian artists, who portrayed the nightshade as a potent aphrodisiac. Networks of trade and conquest eventually brought eggplant to the Mediterranean. A tenth-century calendar from Córdoba mentions six eggplant varieties, including one specific to this Spanish region, which might have been a claim to a unique Cordoban culture made by the city’s <span eid="Q190418">rebel caliphate</span>.[^23]
 <param ve-image 
-url="https://upload.wikimedia.org/wikipedia/commons/a/a2/Muhammad_ibn_Muhammad_Shakir_Ruzmah-%27i_Nathani_-_An_Eggplant%2C_a_Plant_Called_Parsiyavushan%2C_and_Dungwort_-_Walters_W659225B_-_Full_Page.jpg"
-       label="Zakariyya ibn Muhammad al-Qazwini ca. 1203–1283 (author) and Muhammad ibn Muhammad Shakir Ruzmah-'i Nathani (scribe), An Eggplant, a Plant Called Parsiyavushan, and Dungwort, Turkish Book of the Wonders of Creation, 1121 AH/AD 1717."
-       description="Wonders of Creation"
+       url="https://upload.wikimedia.org/wikipedia/commons/a/a2/Muhammad_ibn_Muhammad_Shakir_Ruzmah-%27i_Nathani_-_An_Eggplant%2C_a_Plant_Called_Parsiyavushan%2C_and_Dungwort_-_Walters_W659225B_-_Full_Page.jpg"
+       label="Muhammad al-Qazwini and Muhammad Shakir Ruzmah-'i Nathani, Turkish Book of the Wonders of Creation (1121 AH/AD 1717)"
+       description="An Eggplant, a Plant Called Parsiyavushan, and Dungwort"
        attribution="Walters Art Museum"
        license="Public domain"
        region="-230,161,1645,1490">
 <param ve-image 
-url="https://raw.githubusercontent.com/sheshekabob/plants/main/IBN_BUTLA%CC%82N_Tacuinum_sanitatis__btv1b105072169_55.jpeg"
-       label="Ibn Buṭlān, Tacuinum sanitatis, Folio 21r, Latin 9333" 
-       description="Tacuinum sanitatis"
-       attribution="gallica.bnf.fr / Bibliothèque nationale de France"
+       url="https://raw.githubusercontent.com/sheshekabob/plants/main/IBN_BUTLA%CC%82N_Tacuinum_sanitatis__btv1b105072169_55.jpeg"
+       label="Ibn Buṭlān, Tacuinum sanitatis (11th century)" 
+       description="Tacuinum sanitatis, Folio 21r, Latin 9333"
+       attribution="Bibliothèque nationale de France"
        license="CC BY 2.0."
        region="0,49,1024,943">
 
