@@ -142,15 +142,15 @@ Via trade routes connecting Italy and Iberia with the world beyond the Mediterra
        description="Eggplant illustrated in Besler's Hortus Eystettensis"
        attribution="Oak Spring Garden Foundation"
        license="Public domain"
-       region="-883,1,4419,3742">
+       fit="contain">
 <param ve-image 
-       url="https://www.biodiversitylibrary.org/pageImage/41534506"
+       url="Eggplant/Fuchs_2023.jpg"
        label="Leonhart Fuchs, De historia stirpium commentarii insignes (1542)"
        description="De historia stirpium commentarii insignes"
        attribution="Oak Spring Garden Foundation"
        license="Public domain"
        region="-936,316,4682,4049"
-       fit="cover">
+       fit="contain">
 
 Islamic and Jewish communities played a large part in introducing other Europeans to Asian food cultures. An association with Islamic culture made Italians suspicious of the eggplant, and similarly, its Spanish and Italian ties, along with a general wariness of nightshades, made the plant seem suspect to gardeners on the British Isles. Culinary prejudice and aesthetic admiration predominate in herbals by English authors, who were more culturally removed from eggplant than their southern counterparts and thus highly doubtful of this exotic. In 1597, the botanist <span eid="Q1333338">John Gerard</span> wrote that in London he saw fruit “the bigness of a goose egg,” but recommended that the English should “content themselves with the meat and sauce of our own country,” because “these apples have a mischievous quality, the use whereof is utterly to be forsaken.”[^26] Much of Gerard's advice was copied by <span eid="Q312678">Philip Miller</span> in his _Gardeners Dictionary_ of 1754, which contends that “these plants are only preserved as curiosities in the English gardens” and eaten only by “some Italians or Spaniards.”[^27]
 <param ve-knightlab-timeline
