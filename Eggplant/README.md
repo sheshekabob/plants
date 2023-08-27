@@ -45,8 +45,9 @@ In 1753, <span eid="Q1043">Carl Linnaeus</span> devised the scientific name [_So
 As a quasi-vegetable that quickly oxidizes, is tricky to cook, and contains the toxic alkaloids solanine and nicotine, eggplant defies easy categorization, even “what is food and what is not,” for those cultures who encountered it relatively late.[^7] Though exactly where this crop was domesticated and how it was distributed remain open questions, a [map of its current production](https://en.wikipedia.org/wiki/List_of_countries_by_eggplant_production) mirrors some of its journey across the globe. More than 80 percent of the world's supply comes from China and India—where certain species have been consumed for 2,000–4,500 years—followed by Egypt, Turkey, and Indonesia.[^8] Over time, what was an ancient and storied plant in tropical Asia became richly appreciated throughout the rest of the continent. But when _mala insana_ reached Europe, its mystique aroused suspicion. Around the same time, the Columbian exchange introduced this “mad apple” to the Western Hemisphere, where it has faltered as everyday fare, but attracted other meanings with its aesthetic virtues.
 <param ve-image 
        url="https://upload.wikimedia.org/wikipedia/commons/2/26/Countries_by_eggplant_production_in_2020.png"
-       label="Map showing countries by eggplant production in tonnes (FAOSTAT 2020)"
-       description="Darker areas show greater Eggplant production"
+       label="Global eggplant production, based on 2020 data from FAOSTAT"
+       description="Choropleth map showing countries by eggplant production in tonnes"
+       attribution="JackintheBox"
        license="CC BY-SA 4.0"
        region="519,-1065,5789,5327">
 
