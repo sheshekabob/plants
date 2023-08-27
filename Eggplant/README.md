@@ -138,16 +138,17 @@ Eggplant traveled light, leaving much of its cultural meaning behind and acquiri
 Via trade routes connecting Italy and Iberia with the world beyond the Mediterranean, eggplant arrived in early Renaissance Europe, where it was received with a level of concern for public safety and morality. In sixteenth-century Italy, the doctor <span eid="Q457191">Pietro Andrea Mattioli</span> wrote in his [_Senensis medici_](https://www.biodiversitylibrary.org/item/125718#page/1251/mode/1up) that eggplant was “generally eaten cooked with oil, salt, pepper and mushrooms,” adding that “some of our people…feed on the mad-apple in order to arouse love.”[^24] He also warned that eggplant created digestive illnesses and long-lasting health issues. The New World tomato and the mythical “pomo d’oro” (golden apple) were often conflated as varieties of _melanzana_. This confusion might explain why gold was applied to a print of eggplant in a copy of the [_Hortus Eystettensis_](https://bibdigital.rjb.csic.es/records/item/10908-redirection) by <span eid="Q65027">Basilius Besler</span> who cited Mattioli. Also in the 1500s, <span eid="Q60756">Leonhart Fuchs</span> a German botanist who created the University of Tübingen’s first medicinal garden, described eggplant as “sown in our gardens,” but noted Europeans’ suspicion of it, writing that some “avoid the use of them, terrified by the name [_mala insana_] itself.”[^25] 
 <param ve-image
        url="Eggplant/Besler2_Sheila_redo.jpg"
-       label="Basilius Besler, Hortus Eystettensis (Oak Springs)"
+       label="Basilius Besler, Hortus Eystettensis (1613)"
        description="Eggplant illustrated in Besler's Hortus Eystettensis"
-       license="Ask for permission"
-       region="-883,1,4419,3742"
-       attribution="Oak Spring Garden Foundation">
+       attribution="Oak Spring Garden Foundation"
+       license="Public domain"
+       region="-883,1,4419,3742">
 <param ve-image 
        url="https://www.biodiversitylibrary.org/pageImage/41534506"
-       label="Mala insana, from Leonhart Fuchs, De historia stirpium commentarii insignes (1542)"
+       label="Leonhart Fuchs, De historia stirpium commentarii insignes (1542)"
        description="De historia stirpium commentarii insignes"
-       license="Public domain. https://www.biodiversitylibrary.org/item/129744#page/567/mode/1up"
+       attribution="Oak Spring Garden Foundation"
+       license="Public domain"
        region="-936,316,4682,4049"
        fit="cover">
 
