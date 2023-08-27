@@ -13,9 +13,9 @@ banner="https://raw.githubusercontent.com/sheshekabob/plants/main/Eggplant/Seike
 Originally designed by Japanese telecom companies, the <span eid="Q55267268">eggplant emoji</span> is part of the keyboard of icons that serve as the wordless shorthand of text messages and social media. The emoji is named Aubergine in Unicode, the universal standard for encoding linguistic and “picture” characters for electronic display. In 2010, the emoji keyboard was added to the Unicode Standard (version 6.0), and a year later, Apple made the keyboard accessible to iPhone users worldwide.[^1] When the eggplant emoji debuted in the United States and Canada, “Aubergine” was a relatively empty signifier ripe for a new association, one related to a topic of wireless conversation more routine than an Asian vegetable. Almost instantly, it became code for a phallus when, in 2011, the Twitter handle @iFUXXS_witHer tweeted “im jelly no 🍆 😥.”[^2] Now, “sexting” or online foreplay is inseparable not with a banana 🍌 or an ear of corn 🌽, but with a long, bulbous purple fruit.
 <param ve-image 
        url="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Twemoji_1f346.svg/2048px-Twemoji_1f346.svg.png"
-       label="A colored Emoji from Twitter Emoji project" 
+       label="Eggplant Emoji" 
        description="Twitter Emoji"
-       attribution="Twitter"
+       attribution="Twitter Emoji Project"
        region="-161,-82,2371,2213"
        license="CC BY 2.0.">   
 
