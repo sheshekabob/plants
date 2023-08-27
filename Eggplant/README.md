@@ -62,11 +62,12 @@ Assumptions that eggplant was domesticated in the Indian subcontinent rest partl
        region="-933,-101,4669,4296"
        fit="cover">
 <param ve-image 
-       label="Made in Calcutta in the 19th century, kampani kalam or Company School watercolour painting of Solanum melongena"
-       description="Company School"
+url="https://media.britishmuseum.org/media/Repository/Documents/2014_10/17_10/26991ccc_7559_460b_ad27_a3c700aa9665/mid_01032763_001.jpg"
+       label="Company School watercolour painting, Calcutta (19th century)"
+       description="Watercolour painting on paper"
        license="CC BY-SA 4.0"
        attribution="© The Trustees of the British Museum"
-url="https://media.britishmuseum.org/media/Repository/Documents/2014_10/17_10/26991ccc_7559_460b_ad27_a3c700aa9665/mid_01032763_001.jpg"
+
        region="-239,-50,1197,1102"
        fit="cover">
 <param ve-image 
