@@ -97,23 +97,23 @@ Art and literature also attest to a long human relationship with eggplant in Chi
 Cultural clues mark the path of eggplant from China to the fields and kitchens of its eastern and southern neighbors. The fruits of a spiny, bicolored variety weigh down a still-life painting by the artist <span eid="Q464485">Shin Saimdang (1504–1551),</span> a Korean aristocrat who worked in the genre of _Chochungdo_ (“insects on flowers”) characterized by careful study of local flora and fauna.[^19] Eggplant also weaved its way into the noble pursuits of Southeast Asia. A bottom-heavy fruit inspired the shape of a sixteenth-century Vietnamese [water dropper,](https://www.britishmuseum.org/collection/object/A_2001-1129-5_1) used in the art of calligraphy. By the eighth century, eggplant had reached Japan where it fully insinuated itself into the cuisine and culture.[^20] The agricultural catalog <span eid="Q76160295">_Seikei zusetsu_</span> (1793–ca. 1804) boasts a sumptuous print of eggplant depicted in a hybrid style, the result of cultural exchange with Europe.[^21] During the Japanese new year, eggplant transcends practical culinary categories to become (meta)physical fare. <span eid="Q1588971">_Hatsuyume_</span> refers to one’s first dream after December 31, when dreaming the following means good fortune ahead: Mount Fuji, a hawk, and eggplant.[^22] 
 <param ve-image 
        url="https://upload.wikimedia.org/wikipedia/commons/8/87/Chochungdo_02.jpg"
-       label="Shin Saimdang, Painting of plants and insects (Chochungdo), early sixteenth century"
-       description="Shin Saimdang"
+       label="Shin Saimdang, Chochungdo (Painting of plants and insects) (16th century)"
+       description="Chochungdo"
        license="Korea Open Government License Type I: Attribution"
-       attribution="National Museum of Korea, KOGL Type 1 http://www.kogl.or.kr/open/info/license_info/by.do, via Wikimedia Commons"
+       attribution="National Museum of Korea"
        fit="cover">
 <param ve-image 
        url="https://github.com/sheshekabob/plants/blob/main/Eggplant/Seikei%20Zusetsu.jpg?raw=true"
-       label="Solanum melongena L., Bohai eggplant, from Seikei Zusetsu. Compiled by So Senshun, Shirao Kunihashira, Mukai Tomoaki, and Hori Monjuro in the years 1793–1804. Ser. 1042 vol. 26, page 027."
-       description="Seikei Zusetsu"
+       label="So Senshun, Shirao Kunihashira, Mukai Tomoaki, and Hori Monjuro, Bohai eggplant from Seikei Zusetsu (1793–1804)"
+       description="Ser. 1042 vol. 26, page 027"
        license="CC BY-SA 4.0"
-       attribution="Leiden University Libraries Digital Collections https://digitalcollections.universiteitleiden.nl/view/item/938292"
+       attribution="Leiden University Libraries Digital Collections"
        region="-175,-253,4527,3733"
        fit="cover">
 <param ve-image 
        url="Eggplant/Hatsuyume.jpg"
-       label="Utagawa Toyokuni, memorial portrait of Konno of Eijudo Press at the age of 71, 1797-1798, woodblock print, shini-e, nishiki-e on paper."
-       description="Hatsuyume"
+       label="Utagawa Toyokuni, Memorial portrait of Konno of Eijudo Press at the age of 71 (1797-1798)"
+       description="Woodblock print, shini-e, nishiki-e on paper"
        license="CC BY-SA 4.0"
        attribution="© The Trustees of the British Museum"
        region="-557,1,2785,2291"
