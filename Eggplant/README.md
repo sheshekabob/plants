@@ -100,7 +100,7 @@ Cultural clues mark the path of eggplant from China to the fields and kitchens o
        fit="contain">
 <param ve-image 
        url="https://github.com/sheshekabob/plants/blob/main/Eggplant/Seikei%20Zusetsu.jpg?raw=true"
-       label="So Senshun, Shirao Kunihashira, Mukai Tomoaki, and Hori Monjuro, Bohai eggplant from Seikei Zusetsu (1793–1804)"
+       label="So Senshun, Shirao Kunihashira, Mukai Tomoaki, Hori Monjuro, Seikei Zusetsu (1793–1804)"
        description="Ser. 1042 vol. 26, page 027"
        license="CC BY-SA 4.0"
        attribution="Leiden University Libraries Digital Collections"
