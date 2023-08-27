@@ -59,14 +59,12 @@ Assumptions that eggplant was domesticated in the Indian subcontinent rest partl
        description="Illustrations of Indian botany, or figures illustrative of each of the natural orders of Indian plants, described in the author's Prodromus florae peninsulae Indiae orientalis"
        attribution="Missouri Botanical Garden, Peter H. Raven Library"
        license="Public domain"
-       region="-933,-101,4669,4296"
        fit="cover">
 <param ve-image 
 url="https://media.britishmuseum.org/media/Repository/Documents/2014_10/17_10/26991ccc_7559_460b_ad27_a3c700aa9665/mid_01032763_001.jpg"
        label="Company School watercolour painting, Calcutta (19th century)"
        description="Watercolour painting on paper"
        attribution="© The Trustees of the British Museum"
-       region="-239,-50,1197,1102"
        fit="cover">
 <param ve-image 
        url="https://iiif.wellcomecollection.org/image/V0044992/full/640%2C/0/default.jpg"
@@ -74,7 +72,6 @@ url="https://media.britishmuseum.org/media/Repository/Documents/2014_10/17_10/26
        description="A woman pulling giant aubergines from a tree"
        attribution="Wellcome Collection"
        license="Public domain"
-       region="-213,52,1067,902"
        fit="cover">
 
 Art and literature also attest to a long human relationship with eggplant in China, where it was cultivated no later than 59 BCE, when the poet <span eid="Q2119204">Wang Bao</span> produced the first known Chinese record of this plant.[^14] Ancient writings reveal how Chinese farmers bred eggplants to be larger, longer, sweeter, and less bitter and spiny. A sixth-century text states that the fruits were pellet-sized, but 600 years later, they are reported to be the size of teacups.[^15] The [earliest known Chinese illustration of eggplant](https://pubmed.ncbi.nlm.nih.gov/18819950/#&gid=article-figures&pid=fscigsc-2-uid-1) appears in a <span eid="Q1291275">materia medica</span> written in 1061 CE, showing that the fruits used to be rounder.[^16] Around 200 years later, another such text includes [a vividly painted eggplant](https://pubmed.ncbi.nlm.nih.gov/18819950/#&gid=article-figures&pid=fscigsc-3-uid-2) that more resembles the purple, teardrop-shaped fruits of today.[^17] Written in 1330 when China was under Mongol rule, _Yinshan Zhengyao_ (Dietary Principles) lists recipes featuring eggplant, a common ingredient in Mongolian cookery with its Central and West Asian influences, but the author regards as “slightly poisonous” the Chinese variety, which reportedly “moves wind and produces sores and even obstinate illnesses.”[^18]
