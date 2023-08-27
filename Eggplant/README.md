@@ -84,6 +84,7 @@ Art and literature also attest to a long human relationship with eggplant in Chi
        label="Hu Sihui, dietary manual Yinshan Zhengyao (1330)"
        description="Chapter 3, Folio 49B"
        license="Public domain"
+       attribution="Shuge.org"
        region="-500,-50,2504,2117"
        fit="cover">
 <param ve-image 
