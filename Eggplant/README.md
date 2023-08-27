@@ -24,11 +24,11 @@ For many North Americans, eggplant is almost as synonymous with a sex organ than
 
 From its domestication in Asia to its worldwide diffusion, the story of eggplant raises the question of why some ingredients become naturalized and accepted as common, while others remain perennially foreign. The global reception of this curious fruit illustrates a statement made by the anthropologist Mary Douglas: “Like sex, the taking of food has a social component, as well as a biological one.”[^4] In other words, we have complex relationships to food other than as physical sustenance. “Cuisine is not so much a matter of ingredients,” explains the sociologist Claude Fischler, “as of classifications and rules ordering the world and giving it meaning.”[^5] By transforming the raw into the cooked, cuisine is also a function of our desire “to tame the wild, threatening forces that inhabit nature.”[^6] Like its emoji, eggplant has extra semiotic baggage containing more than calories and nutrients. In visual and written representations, eggplant is a kaleidoscopic signifier. Comestible, medicinal, poisonous, narcotic, aesthetic, erotic, eggplant is rendered by artists and writers according to the degree to which their culture has “tamed” this spiny Solanum to be good to think and to eat.
 <param ve-image 
-       label="Takashima Chiharu, Papier-Mache Fish and Various Vegetables, ca. 1815"
-        description="Print"
+       url="https://upload.wikimedia.org/wikipedia/commons/1/10/MET_DP138232.jpg"
+       label="Takashima Chiharu, Papier-Mache Fish and Various Vegetables (ca. 1815)"
+       description="Woodblock print (surimono); ink and color on paper"
        license="Public domain"
-       attribution="MET JP2064, H. O. Havemeyer Collection, Bequest of Mrs. H. O. Havemeyer, 1929"
-url="https://upload.wikimedia.org/wikipedia/commons/1/10/MET_DP138232.jpg"
+       attribution="The Met Museum, H. O. Havemeyer Collection, Bequest of Mrs. H. O. Havemeyer, 1929"
        region="75,-223,3520,3285"
        fit="cover">
 
