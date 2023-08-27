@@ -163,7 +163,7 @@ Islamic and Jewish communities played a large part in introducing other European
 While herbalists in England and Germany warned their readers away from eggplant, the <span eid="Q5907004">_Hortus Malabaricus_</span>, compiled by Dutch colonists and published in 1678–1693, took a more open view. This record of the plants of “Malabar” (modern-day Kerala) derived its information from locals, and much of its contents are attributed to the distinguished Indian herbalist <span eid="Q6095079">Itty Achudan</span>.[^28] The _Hortus Malabaricus_ lists the Braman name for eggplant, “vaenna,” noting its use for curing toothaches and treating cows with internal abscesses. The Dutch overseer of this project, <span eid="Q741104">Hendrik van Rheede</span>, laments that “the fruit of the nightshade in our homeland is a narcotic power: but India produces edible nightshades!”[^29] In such cross-cultural encounters, Europeans demonstrated a willingness to incorporate local plants into their herbal understanding while dreaming of potential profit and botanical innovation.
 <param ve-image 
        url="https://ia800509.us.archive.org/BookReader/BookReaderImages.php?zip=/5/items/Hortus_Indicus_Malabaricus_Volume10/Hortus_Malabaricus_Volume_10_jp2.zip&file=Hortus_Malabaricus_Volume_10_jp2/Hortus_Malabaricus_Volume_10_0163.jp2&id=Hortus_Indicus_Malabaricus_Volume10&scale=4&rotate=0"
-       label="Eggplant, from Hortus Malabaricus (1678)"
+       label="Hendrik van Reede tot Drakestein, Hortus Malabaricus (1678-1703)"
        description="Hortus Malabaricus, Vol 10"
        license="Public domain"
        region="-54,-168,2581,2477">
@@ -172,56 +172,58 @@ While herbalists in England and Germany warned their readers away from eggplant,
 Like the eggplant emoji, the shape and color of _mala insana_ also stirred the imagination, if not the appetite, of European Renaissance and Baroque artists, who tended to lace fruit and vegetables with sexual innuendo. Reproductive organs might have first been subbed for _S. melongena_ in Rome at the <span eid="Q1126723">Villa Farnesina</span>, where a series of frescoes depicts a total of 21 eggplants.[^30] During 1517–1518, the artist Raphael decorated the villa's loggia with scenes featuring Cupid and Psyche. Surrounding his frescoes are <span data-mouseover-image-zoomto="1406,70,728,670">festoons by Giovanni da Udine,</span> who packed his paintings with garden produce. One arrangement includes a fig penetrated by a <span data-mouseover-image-zoomto="1841,176,293,270">phallic bottle gourd</span> equipped with a pair of eggplants for testicles. Behind such visual ribaldry was the more sober “doctrine of signatures,” the speculation that similar-looking objects or organisms share an essence.[^31] An example of such thinking is eating walnuts to boost mental power because these large seeds look similar to brains.
 <param ve-image 
 url="https://upload.wikimedia.org/wikipedia/commons/a/af/Le_concile_des_Dieux_dans_la_loggia_d%27Amour_et_de_Psych%C3%A9_%28Villa_Farnesina%2C_Rome%29_%2833898412830%29.jpg"
-       label="Loggia of Cupid and Psyche by Raphael, festoons by Giovanni da Udine, Villa Farnesina, Rome" 
+       label="Loggia of Cupid and Psyche, Villa Farnesina, Rome (1516-1518)" 
        description="Villa Farnesina"
-       attribution="Jean-Pierre Dalbéra, Paris, France"
+       attribution="Jean-Pierre Dalbéra"
        license="CC BY 2.0.">
 
 Many Renaissance murals juxtapose plants and animals with figures of classical mythology,[^32] forming menageries that convey how sixteenth-century art partnered with botanical study.[^33] The Italian painter <span eid="Q7751">Giuseppe Arcimboldo</span> made studies of plants while serving the Austrian Habsburg family. Arcimboldo worked in an “avant-garde atmosphere,” which included a _Kunstkammer_ (cabinet of curiosities), a zoo, and parties for which the court dressed as the elements and seasons, following his designs.[^34] With great scientific fluency, he also painted striking portraits. In _Zomer_ (1563), an allegory for “Summer” consists of a <span data-mouseover-image-zoomto="549,1189,2196,1745">club-shaped eggplant,</span> a <span data-mouseover-image-zoomto="1336,2149,1935,1673">white eggplant</span>, other fruits and vegetables, cereals, foliage, and flowers—all recognizable from a botanical standpoint. In _Vertumnus_ (c. 1590), Emperor Rudolf II appears as the Roman god of the seasons and plant growth. An eggplant helps form his neck, defying the late medieval notion that tree fruit was a luxury reserved for nobility, while “low” vegetables grown under or near the soil were for peasants.[^35] More than visual puns, these portraits symbolize “the copiousness of creation and the power of the ruling family over everything,”[^36] as well as the era's anthropocentrism which regarded man as the sum of all creation.[^37]  
 <param ve-image 
        url="https://upload.wikimedia.org/wikipedia/commons/e/e7/Giuseppe_Arcimboldo_-_Summer_-_Google_Art_Project.jpg"
-       label="Giuseppe Arcimboldo, Zommer (1563), from the Four Seasons series, oil on canvas"
-       description="Summer"
+       label="Giuseppe Arcimboldo, Zomer (1572)"
+       description="Summer, Oil paint on canvas"
+       attribution="Denver Art Museum"
        license="Public domain"
        region="-610,-449,6210,7501">
 <param ve-image 
-url="https://upload.wikimedia.org/wikipedia/commons/b/b5/Vertumnus_%C3%A5rstidernas_gud_m%C3%A5lad_av_Giuseppe_Arcimboldo_1591_-_Skoklosters_slott_-_91503.tiff"
-       label="Giuseppe Arcimboldo, Vertumnus (c. 1590–91), a portrait of Rudolf II, oil on canvas" 
-description="Vertumnus"
-license="Public domain"
-region="-2293,-53,16382,14731">
+       url="https://upload.wikimedia.org/wikipedia/commons/b/b5/Vertumnus_%C3%A5rstidernas_gud_m%C3%A5lad_av_Giuseppe_Arcimboldo_1591_-_Skoklosters_slott_-_91503.tiff"
+       label="Giuseppe Arcimboldo, Vertumnus (1591)" 
+       description="Oil paint on canvas"
+       attribution="Skoklosters slott Museum"
+       license="Public domain"
+       region="-2293,-53,16382,14731">
 
 ### Atlantic Encounters: The Expanding (Agri)cultures of Eggplant 
 While Iberians probably introduced _S. melongena_ to the Americas in the early years of conquest and colonization, enslaved Africans conveyed their own cultivars, including the scarlet-colored guinea squash ([_S. aethiopicum_ L.](https://worldcrops.org/crops/garden-egg)) and the crunchy Gboma eggplant <span eid="Q7479565">(_S. macrocarpon_ L.)</span>, as the Dutch physician and naturalist <span eid="Q1385325">Willem Piso</span> chronicled in his 1648 compendium of Brazilian flora, the [_Historia naturalis Brasiliae_](https://pt.wikipedia.org/wiki/Historia_Naturalis_Brasiliae). According to scholars Judith Carney and Richard Rosomoff, enslaved labor crossed the Atlantic bearing not only the clothes on their backs, but also their food staples, including African eggplant, sesame, okra, [watermelon](https://lab.plant-humanities.org/watermelon/), millet, sorghum, and [black-eyed peas](https://lab.plant-humanities.org/black_eyed_peas/), and the knowledge and skills to grow them. To gain some measure of security, autonomy, and “acknowledgment that not all of one’s labor was owned by the master,” some enslaved workers cultivated “food fields” that allowed them restricted access to land.[^38] However, after the colonial period, the guinea squash and gboma were among the African indigenous vegetables of tropical America to be lost or much less frequently consumed.[^39]
 <param ve-image 
        url="https://www.biodiversitylibrary.org/pageIMAGE/289117"
-       label="Belingela, in Willem Piso's Historia naturalis Brasiliae (1648)"
+       label="Willem Piso, Historia naturalis Brasiliae (1648)"
        description="Belingela or guinea squash"
+       attribution="Peter H. Raven Library, Missouri Botanical Garden"
        license="Public domain"
-       attribution="Public domain. https://www.biodiversitylibrary.org/item/10338#page/169/mode/1up"
        region="722,1960,2954,2718">
 
 While Southerners in the United States incorporated “foods that spread from the black hearthside to general consumption,” Northerners were slower to accept eggplant.[^40] A pamphlet published in 1891 states that “some of the neglect of the egg plant is due to the fact that cooks are not familiar with it.” The authors’ cooking suggestions are the tried and true “fried,” “baked,” and “fritters.”[^41] The increasing appearance of eggplant in growing guides and seed catalogs in the late 1800s and early 1900s gives the impression that more North Americans were adding it to their diets. Adolph Kruhm’s 1918 _Home vegetable gardening from A to Z_ presents the Black Beauty cultivar cinched by a measuring tape to showcase its girth, alluding to the competitive spirit of modern agriculture. However, since seed catalogs are as an exhaustive accounting of horticultural creation as one of Arcimboldo’s allegorical portraits, the marketing of a cornucopia of heirloom and hybrid eggplant varieties might not indicate a major uptick in consumption. But for farmers and gardeners in the upper end of the [USDA’s plant hardiness zones](https://planthardiness.ars.usda.gov/), this culinary vegetable is one of the few options for mid to late summer, since Kruhm’s growing tip for eggplant still stands: “Cool nights do not agree with this child of the tropics.”[^42]
 <param ve-image 
        url="https://www.biodiversitylibrary.org/pageImage/50118220"
-       label="Black Beauty Egg plant, from Adolph Kruhm's Home vegetable gardening from A to Z, with special reference to Pacific coast conditions (1918)"
-       description="Black Beauty Egg plant"
-       license="Public domain."
-       attribution="Public domain. https://www.biodiversitylibrary.org/item/69949"
+       label="Adolph Kruhm, Home vegetable gardening from A to Z (1918)"
+       description="Black beauty Egg plant, the finest sort for home use"
+       attribution="University of California Libraries"
+       license="Public domain"
        fit="cover">
 <param ve-image 
        url="https://raw.githubusercontent.com/sheshekabob/plants/main/Eggplant/seedbox oaksprings.jpg"
-       label="Vintage seedbox, from Shaker Seeds (1XXX)"
-       description="Seedbox from the Oaksprings Garden Library Collection"
+       label="Shaker's seedbox (1XXX)"
+       description="Shaker's genuine vegetable and flowers seeds from Mount Lebanon, Columbia County"
+       attribution="Oak Spring Garden Foundation"
        license="?????"
-       attribution="http://oakspringgarden.org/"
        fit="contain">
 
 Dozens of eggplant varieties and cultivars are grown today,[^43] as this genus hybridizes easily, with or without human help.[^44] Horticulturists, gardeners, and cooks get excited when discussing the various cultivars. The creamy flesh of the Japanese Pickling, for example, is described as tasting mellow and sweet. Cultivar names also reveal the fertile imagination of their growers: the Fairy Tale which has lovely violet skin with white stripes, the prolific Little Fingers which grows in clusters of 20 fruits or more, the Black Beauty which recalls Anna Sewell's famous horse, and the hybrid Ichiban meaning “best” in Japanese. The ornamental attributes of eggplants like the white and purple Italian Rosa Bianca or the tiny watermelon-like Thai eggplant are admired almost as much as for their flavor. And while the ubiquitous eggplant emoji is solid purple, the fruits can be white, red, yellow, green, reddish-purple, light purple, dark purple, black, striped, or marbled.
 <param ve-image 
 url="https://raw.githubusercontent.com/sheshekabob/plants/main/Eggplant/cultivars2.jpg"
        label="Eggplant varieties and cultivars" 
-       description="Eggplant cultivars"
+       description="Photo montage of 16 different eggplant cultivars"
        attribution="Ana Carmona-Ribeiro"
        license="CC BY-SA 4.0"
        fit="contain">
@@ -237,26 +239,26 @@ As _S. melongena_ settled into Western culture, its aesthetic and exotic qualiti
        fit="cover">
 <param ve-image 
        url="https://raw.githubusercontent.com/sheshekabob/plants/main/Eggplant/majolica%20teapot.jpg"
-       label="Eggplant teapot, Portuguese Majolica ceramics"
-       description="Teapot"
-       license="Permission pending"
-       attribution="Majolica International Society. http://majolicasociety.com"
+       label="Portuguese Majolica teapot (20th century)"
+       description="Eggplant shaped ceramic teapot"
+       attribution="Karmason-Stacke Graham Library"
+       license="© Majolica International Society"
        fit="contain">
 <param ve-image 
        url="https://images.navigart.fr/1000/5C/85/5C85774.jpg"
        label="Henri Matisse, Still Life with Aubergines (1911), tempera painting"
        description="Henri Matisse"
-       license="Permission pending - Musée de Grenoble-J.L.Lacroix © Succession H. Matisse"
-       attribution="Musée de Grenoble. https://www.museedegrenoble.fr"
+       attribution="Ville de Grenoble / Musée de Grenoble-J.L. Lacroix"
+       license="Permission pending © Succession H. Matisse"
        fit="contain">
        
 Decades later, the formal properties of the fruit became a subject of photography. With a highly refined sense of composition and light, <span eid="Q346988">Edward Weston</span> photographed a dark globular eggplant, the same cultivar featured in agricultural literature at the time. As in many of his pictures, _Eggplant_ (1930) unveils the unexpected and the marvelous in natural elements and everyday objects, as well as their resemblance to the human body.[^46] Although the dietary significance of the eggplant is still present, the fruit with its glossy exterior and bulbous shape awakens both an aesthetic visual appreciation as well as the urge to touch the fruit and feel its smooth skin and firm flesh.
 <param ve-image 
        url="https://raw.githubusercontent.com/sheshekabob/plants/main/Eggplant/Weston.jpg"
-       label="Edward Weston, Eggplant (1930), gelatin silver print"
-       description="Edward Weston"
+       label="Edward Weston, Eggplant (1929)"
+       description="Gelatin silver print"
+       attribution="Center for Creative Photography, University of Arizona"
        license="Permission pending"
-       attribution="???????"
        fit="contain">
        
 Appeals to visual and tactile sense are more pronounced in the work of <span eid="Q312786">Robert Mapplethorpe</span>, who derived his creative use of light and formal experimentation from Weston.[^47] Eroticism was the guiding thread of Mapplethorpe’s gaze, permeating his portraits of women, men, flowers, and fruit. _Eggplant_ (1985) isolates a single fruit in an unidentified space, whose neutrality is broken by banded light filtered through window blinds. Marked by sun and shade, the meaty eggplant seems to transform into a body or part of one. As its nutritional meaning falls away,  the eggplant can only be consumed as an object of lust in yet another example of its sexualization, and perhaps, its commodification. The fruit’s curves and crevices stretch our imagination and resemble the torso that fills _Thomas (Back)_ (1986), a depiction of an African-American male model whom Mapplethorpe favored and posed in a similar studio setting.
@@ -277,7 +279,8 @@ Appeals to visual and tactile sense are more pronounced in the work of <span eid
 Foods can be accepted by a culture and naturalized into its culinary system, but they can also become estranged. In recent years, eggplant has been the center of one of the hardest fought debates over genetically modified crops. The US agrochemical giant Monsanto (now owned by Germany’s Bayer AG) designed varieties of <span eid="Q4982032">Bt brinjal</span> to withstand pests, thereby reducing the use of harmful pesticides and increasing yields. Although these varieties are cultivated in Bangladesh, they are illegal in India and the Philippines. Activists and researchers accuse corporations like Monsanto—which owns 53 percent of GM plant seeds[^48]—of bio-imperialist efforts to extract maximum profits under the guise of humanitarian concerns.[^49] Introducing “foreign genes that carry characteristics…not natural to the plant genome" also raises concern over the impact on biodiversity.[^50] A company maintaining ownership of a plant and exporting a genetically altered version back to where it historically originated not only sparks concern, but is also the kind of issue that is of interest to Plant Humanities. Plants are more than products up for genetic improvement and economic exploitation: they have cultural and political meaning and are woven into complex, fluid social relationships that bring together issues such as human welfare, the power of profiteering corporations, and food sovereignty. A global plant as ever, eggplant continues to be entwined in human culture, and now, it is squarely located in international debates with far-reaching consequences. 
 <param ve-image 
        url="https://upload.wikimedia.org/wikipedia/commons/b/b7/BT_Brinjal_Protest_Bangalore_India.JPG"
-       label="Different varieties of eggplants put out by protesters in Bangalore during the listening tour of India's environment minister relating to the introduction of BT Brinjal (2010)"
+       label="Eggplants put out by protesters in Bangalore, India, against BT Brinjal introduction (2010)"
+       attribution="Infoeco"
        license="CC BY-SA 3.0"
        fit="cover">
 
