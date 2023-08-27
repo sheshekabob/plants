@@ -233,10 +233,10 @@ url="https://raw.githubusercontent.com/sheshekabob/plants/main/Eggplant/cultivar
 As _S. melongena_ settled into Western culture, its aesthetic and exotic qualities drew the attention of European and North American artists. Eggplant became an artistic subject, demonstrating how art and food are related even in highly industrialized and urbanized societies. Representations surfaced in the applied arts, such as in an eggplant-shaped [Majolica ceramic teapot](http://majolicasociety.com/majolica-history/) or a leaded glass screen made by Tiffany & Co., for a transom window using a typical <span eid="Q34636">Art Nouveau</span> design that depicts the plant with deep black fruit and multicolored leaves. In Henri Matisse's _Still Life with Aubergines_ (1911), three eggplants represent more than culinary ingredients. “Balanced precariously on a table whose red cloth carries an undulating white pattern that reinforces their tuberous shape,”[^45] they are the visual starting point of a decorative explosion of textures and colors spread throughout the interior and beyond. In this picture, Matisse converts his studio into a space permeated by one of his fundamental themes, _joie de vivre_ (“the joy of life”). In this personal recreation of paradise, eggplant, without losing its domestic character, is reconnected to its “remote” Asian origins.
 <param ve-image 
        url="https://morsemuseum.org/wp-content/uploads/2022/03/eggplant.jpg"
-       label="Tiffany & Co., Eggplant transom (c.1879-81), leaded glass"
-       description="Tiffany transom"
-       license="Permission pending"
-       attribution="The Charles Hosmer Morse Museum of American Art. https://morsemuseum.org"
+       label="Tiffany and Company, Leaded glass transom (c. 1879–81)"
+       description="Transom at the George Kemp house, NY"
+       attribution="The Charles Hosmer Morse Museum of American Art, Winter Park, Florida"
+       license="© The Charles Hosmer Morse Foundation, Inc."
        fit="cover">
 <param ve-image 
        url="https://raw.githubusercontent.com/sheshekabob/plants/main/Eggplant/majolica%20teapot.jpg"
