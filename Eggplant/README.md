@@ -39,7 +39,7 @@ In 1753, <span eid="Q1043">Carl Linnaeus</span> devised the scientific name [_So
        label="Historical diffusion of words for eggplant" 
        description="Eggplant etymologies map"
        attribution="Lydia Rabkin"
-       license="&copy;"
+       license="©"
        region="137,-342,1861,1712"
        fit="contain">
 
