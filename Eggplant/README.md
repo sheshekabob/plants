@@ -54,11 +54,11 @@ As a quasi-vegetable that quickly oxidizes, is tricky to cook, and contains the 
 ### A Lasting Affinity: Eggplant in Asia
 Assumptions that eggplant was domesticated in the Indian subcontinent rest partly on Sanskrit documents written more than two millennia ago.[^9] Practitioners of <span eid="Q132325">Ayurveda</span>, a system of classical Indian medicine, made some of the earliest records of eggplant and documented its wild relatives, species still in pharmacopeias today.[^10] The <span eid="Q47228">_Kama Sutra_</span> (Principles of Love) also mentions eggplant, proving that its erotic entanglements are nothing new. This 2,000-year-old self-help guide recommends rubbing the male member with eggplant to produce “a swelling lasting for one month.”[^11] The ubiquity of this plant in Indian cuisine and medicine make it one of the few Solanums that the naturalist <span eid="Q1375864">Robert Wight</span> judges innocuous in his _Illustrations of Indian Botany_ from the mid-1800s.[^12] A product of the modern frenzy for not only studying plants as potential resources, but also picturing them in a mode of knowledge capture that Enlightenment taxonomists considered superior to written description, Wight’s project splices Linnaean classification with Indian decorative and devotional art, care of local illustrators, to present _S. melongena_ stripped of context and dissected, but animated by the same stylization and vibrancy found on a wall hanging or bedcover in an Indian home.[^13]
 <param ve-image 
-       label="Robert Wight, Illustrations of Indian botany, or figures illustrative of each of the natural orders of Indian plants, described in the author's Prodromus florae peninsulae Indiae orientalis"
-       description="Robert Wight"
-       license="Public domain"
-       attribution="Public domain. https://www.biodiversitylibrary.org/item/39780#page/315"
        url="https://www.biodiversitylibrary.org/pageIMAGE/10415784"
+       label="Robert Wight, Illustrations of Indian botany (1840-1850)"
+       description="Illustrations of Indian botany, or figures illustrative of each of the natural orders of Indian plants, described in the author's Prodromus florae peninsulae Indiae orientalis"
+       attribution="Missouri Botanical Garden, Peter H. Raven Library"
+       license="Public domain"
        region="-933,-101,4669,4296"
        fit="cover">
 <param ve-image 
