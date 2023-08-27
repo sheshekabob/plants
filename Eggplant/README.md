@@ -165,6 +165,7 @@ While herbalists in England and Germany warned their readers away from eggplant,
        url="https://ia800509.us.archive.org/BookReader/BookReaderImages.php?zip=/5/items/Hortus_Indicus_Malabaricus_Volume10/Hortus_Malabaricus_Volume_10_jp2.zip&file=Hortus_Malabaricus_Volume_10_jp2/Hortus_Malabaricus_Volume_10_0163.jp2&id=Hortus_Indicus_Malabaricus_Volume10&scale=4&rotate=0"
        label="Hendrik van Reede tot Drakestein, Hortus Malabaricus (1678-1703)"
        description="Hortus Malabaricus, Vol 10"
+       attribution="Missouri Botanical Garden, Peter H. Raven Library"
        license="Public domain"
        region="-54,-168,2581,2477">
 
