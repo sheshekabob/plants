@@ -218,7 +218,7 @@ While Southerners in the United States incorporated “foods that spread from th
 
 Dozens of eggplant varieties and cultivars are grown today,[^43] as this genus hybridizes easily, with or without human help.[^44] Horticulturists, gardeners, and cooks get excited when discussing the various cultivars. The creamy flesh of the Japanese Pickling, for example, is described as tasting mellow and sweet. Cultivar names also reveal the fertile imagination of their growers: the Fairy Tale which has lovely violet skin with white stripes, the prolific Little Fingers which grows in clusters of 20 fruits or more, the Black Beauty which recalls Anna Sewell's famous horse, and the hybrid Ichiban meaning “best” in Japanese. The ornamental attributes of eggplants like the white and purple Italian Rosa Bianca or the tiny watermelon-like Thai eggplant are admired almost as much as for their flavor. And while the ubiquitous eggplant emoji is solid purple, the fruits can be white, red, yellow, green, reddish-purple, light purple, dark purple, black, striped, or marbled.
 <param ve-image 
-url="https://raw.githubusercontent.com/sheshekabob/plants/main/Eggplant/cultivars2.jpg"
+url="Eggplant/cultivars3.jpg"
        label="Eggplant varieties and cultivars" 
        description="Photo montage of 16 different eggplant cultivars"
        attribution="Ana Carmona-Ribeiro"
