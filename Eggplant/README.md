@@ -35,7 +35,7 @@ From its domestication in Asia to its worldwide diffusion, the story of eggplant
 ### Local Names, Global Food
 In 1753, <span eid="Q1043">Carl Linnaeus</span> devised the scientific name [_Solanum melongena_](https://www.biodiversitylibrary.org/item/13829#page/198/mode/1up) for the common or Asian eggplant, following his game-changing system of <span eid="Q36642">binomial nomenclature</span>, but the etymologies of its vernacular names outline a far messier cloverleaf of global exchange. Used by North Americans, the name _eggplant_ was coined centuries ago by the English, who now prefer the French word _aubergine_, which seems to be a corruption of the Arab _al-bāḏinjān_. Portuguese and Spanish speakers use Arab-based names _berinjela_ and _berenjena_. Most of this Western alphabet soup is likely owed to the Indian word _baingãn_, even though India now uses _brinjal_, a corruption of the already corrupted Portuguese _berinjela_. While some African countries use _brinjal_, the region of the former Ethiopian Empire opts for _mälänzana_, based on _melanzana_ from Italy, where the plant was first known as _mala insana_ (“mad apple”) due to its reputation as an exotic nightshade.
 <param ve-image 
-       url="https://pic.blog.plover.com/lang/etym/eggplant-map/eggplant-map.png"
+       url="Eggplant/brinjal_Lydia Rabkin.png"
        label="Historical diffusion of words for eggplant" 
        description="Eggplant etymologies map"
        attribution="© Lydia Rabkin"
@@ -212,7 +212,7 @@ While Southerners in the United States incorporated “foods that spread from th
        license="Public domain"
        fit="cover">
 <param ve-image 
-       url="https://raw.githubusercontent.com/sheshekabob/plants/main/Eggplant/seedbox oaksprings.jpg"
+       url="Eggplant/seedbox oaksprings.jpg"
        label="Shaker's seedbox (1XXX)"
        description="Shaker's genuine vegetable and flowers seeds from Mount Lebanon, Columbia County"
        attribution="Oak Spring Garden Foundation"
