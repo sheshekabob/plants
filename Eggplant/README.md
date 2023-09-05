@@ -148,11 +148,12 @@ Via trade routes connecting Italy and Iberia with the world beyond the Mediterra
 
 Islamic and Jewish communities played a large part in introducing other Europeans to Asian food cultures. An association with Islamic culture made Italians suspicious of the eggplant, and similarly, its Spanish and Italian ties, along with a general wariness of nightshades, made the plant seem suspect to gardeners on the British Isles. Culinary prejudice and aesthetic admiration predominate in herbals by English authors, who were more culturally removed from eggplant than their southern counterparts and thus highly doubtful of this exotic. In 1597, the botanist <span eid="Q1333338">John Gerard</span> wrote that in London he saw fruit “the bigness of a goose egg,” but recommended that the English should “content themselves with the meat and sauce of our own country,” because “these apples have a mischievous quality, the use whereof is utterly to be forsaken.”[^26] Much of Gerard's advice was copied by <span eid="Q312678">Philip Miller</span> in his _Gardeners Dictionary_ of 1754, which contends that “these plants are only preserved as curiosities in the English gardens” and eaten only by “some Italians or Spaniards.”[^27]
 <param ve-knightlab-timeline
-       source="1ScfQJfrEy7_eHs8qXtHu_qH70s_Uj0MsB3iUrR-v0oI"
+       source="1zcOYBQF5jzSgZn93F-0MYoCtBRSdizmMiNTH9r_kGy0&"
        timenav-position="bottom"
        hash-bookmark="false"
-       initial-zoom="1"
-       height="750">
+       initial-zoom="2"
+       height="650">
+
 
 While herbalists in England and Germany warned their readers away from eggplant, the <span eid="Q5907004">_Hortus Malabaricus_</span>, compiled by Dutch colonists and published in 1678–1693, took a more open view. This record of the plants of “Malabar” (modern-day Kerala) derived its information from locals, and much of its contents are attributed to the distinguished Indian herbalist <span eid="Q6095079">Itty Achudan</span>.[^28] The _Hortus Malabaricus_ lists the Braman name for eggplant, “vaenna,” noting its use for curing toothaches and treating cows with internal abscesses. The Dutch overseer of this project, <span eid="Q741104">Hendrik van Rheede</span>, laments that “the fruit of the nightshade in our homeland is a narcotic power: but India produces edible nightshades!”[^29] In such cross-cultural encounters, Europeans demonstrated a willingness to incorporate local plants into their herbal understanding while dreaming of potential profit and botanical innovation.
 <param ve-image 
