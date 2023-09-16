@@ -217,12 +217,12 @@ While Southerners in the United States incorporated “foods that spread from th
 
 Dozens of eggplant varieties and cultivars are grown today,[^43] as this genus hybridizes easily, with or without human help.[^44] Horticulturists, gardeners, and cooks get excited when discussing the various cultivars. The creamy flesh of the Japanese Pickling, for example, is described as tasting mellow and sweet. Cultivar names also reveal the fertile imagination of their growers: the Fairy Tale which has lovely violet skin with white stripes, the prolific Little Fingers which grows in clusters of 20 fruits or more, the Black Beauty which recalls Anna Sewell's famous horse, and the hybrid Ichiban meaning “best” in Japanese. The ornamental attributes of eggplants like the white and purple Italian Rosa Bianca or the tiny watermelon-like Thai eggplant are admired almost as much as for their flavor. And while the ubiquitous eggplant emoji is solid purple, the fruits can be white, red, yellow, green, reddish-purple, light purple, dark purple, black, striped, or marbled.
 <param ve-image 
-url="Eggplant/cultivars3.jpg"
+       url="Eggplant/cultivars3.jpg"
        label="Eggplant varieties and cultivars" 
        description="Photo montage of 16 different eggplant cultivars"
        attribution="Ana Carmona-Ribeiro"
        license="CC BY-SA 4.0"
-       fit="cover">
+       fit="contain">
        
 ### Aesthetic Virtues: Eggplant in Modern Art
 As _S. melongena_ settled into Western culture, its aesthetic and exotic qualities drew the attention of European and North American artists. Eggplant became an artistic subject, demonstrating how art and food are related even in highly industrialized and urbanized societies. Representations surfaced in the applied arts, such as in an eggplant-shaped [Majolica ceramic](http://majolicasociety.com/majolica-history/) teapot or a leaded glass screen made by Tiffany & Co., for a transom window using a typical <span eid="Q34636">Art Nouveau</span> design that depicts the plant with deep black fruit and multicolored leaves. In Henri Matisse's [_Still Life with Aubergines_ (1911)](https://www.museedegrenoble.fr/oeuvre/1581/1922-interieur-aux-aubergines.htm), three eggplants represent more than culinary ingredients. “Balanced precariously on a table whose red cloth carries an undulating white pattern that reinforces their tuberous shape,”[^45] they are the visual starting point of a decorative explosion of textures and colors spread throughout the interior and beyond. In this picture, Matisse converts his studio into a space permeated by one of his fundamental themes, _joie de vivre_ (“the joy of life”). In this personal recreation of paradise, eggplant, without losing its domestic character, is reconnected to its “remote” Asian origins.
