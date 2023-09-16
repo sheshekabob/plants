@@ -225,7 +225,7 @@ url="Eggplant/cultivars3.jpg"
        fit="cover">
        
 ### Aesthetic Virtues: Eggplant in Modern Art
-As _S. melongena_ settled into Western culture, its aesthetic and exotic qualities drew the attention of European and North American artists. Eggplant became an artistic subject, demonstrating how art and food are related even in highly industrialized and urbanized societies. Representations surfaced in the applied arts, such as in an eggplant-shaped [Majolica ceramic](http://majolicasociety.com/majolica-history/) teapot or a leaded glass screen made by Tiffany & Co., for a transom window using a typical <span eid="Q34636">Art Nouveau</span> design that depicts the plant with deep black fruit and multicolored leaves. In Henri Matisse's [_Still Life with Aubergines_(1911)](https://www.museedegrenoble.fr/oeuvre/1581/1922-interieur-aux-aubergines.htm), three eggplants represent more than culinary ingredients. “Balanced precariously on a table whose red cloth carries an undulating white pattern that reinforces their tuberous shape,”[^45] they are the visual starting point of a decorative explosion of textures and colors spread throughout the interior and beyond. In this picture, Matisse converts his studio into a space permeated by one of his fundamental themes, _joie de vivre_ (“the joy of life”). In this personal recreation of paradise, eggplant, without losing its domestic character, is reconnected to its “remote” Asian origins.
+As _S. melongena_ settled into Western culture, its aesthetic and exotic qualities drew the attention of European and North American artists. Eggplant became an artistic subject, demonstrating how art and food are related even in highly industrialized and urbanized societies. Representations surfaced in the applied arts, such as in an eggplant-shaped [Majolica ceramic](http://majolicasociety.com/majolica-history/) teapot or a leaded glass screen made by Tiffany & Co., for a transom window using a typical <span eid="Q34636">Art Nouveau</span> design that depicts the plant with deep black fruit and multicolored leaves. In Henri Matisse's [_Still Life with Aubergines_ (1911)](https://www.museedegrenoble.fr/oeuvre/1581/1922-interieur-aux-aubergines.htm), three eggplants represent more than culinary ingredients. “Balanced precariously on a table whose red cloth carries an undulating white pattern that reinforces their tuberous shape,”[^45] they are the visual starting point of a decorative explosion of textures and colors spread throughout the interior and beyond. In this picture, Matisse converts his studio into a space permeated by one of his fundamental themes, _joie de vivre_ (“the joy of life”). In this personal recreation of paradise, eggplant, without losing its domestic character, is reconnected to its “remote” Asian origins.
 <param ve-image 
        url="https://morsemuseum.org/wp-content/uploads/2022/03/eggplant.jpg"
        label="Tiffany and Company, Leaded glass transom (c. 1879–81)"
@@ -246,8 +246,7 @@ Decades later, the formal properties of the fruit became a subject of photograph
        url="https://raw.githubusercontent.com/sheshekabob/plants/main/Eggplant/Weston.jpg"
        label="Edward Weston, Eggplant (1929)"
        description="Gelatin silver print"
-       attribution="Center for Creative Photography, University of Arizona"
-       license="Permission pending"
+       license="© Center for Creative Photography, Arizona Board of Regents"
        fit="contain">
        
 ### New Varieties, Old issues: Bt Brinjal and Globalization
