@@ -154,7 +154,6 @@ Islamic and Jewish communities played a large part in introducing other European
        initial-zoom="2"
        height="650">
 
-
 While herbalists in England and Germany warned their readers away from eggplant, the <span eid="Q5907004">_Hortus Malabaricus_</span>, compiled by Dutch colonists and published in 1678–1693, took a more open view. This record of the plants of “Malabar” (modern-day Kerala) derived its information from locals, and much of its contents are attributed to the distinguished Indian herbalist <span eid="Q6095079">Itty Achudan</span>.[^28] The _Hortus Malabaricus_ lists the Braman name for eggplant, “vaenna,” noting its use for curing toothaches and treating cows with internal abscesses. The Dutch overseer of this project, <span eid="Q741104">Hendrik van Rheede</span>, laments that “the fruit of the nightshade in our homeland is a narcotic power: but India produces edible nightshades!”[^29] In such cross-cultural encounters, Europeans demonstrated a willingness to incorporate local plants into their herbal understanding while dreaming of potential profit and botanical innovation.
 <param ve-image 
        url="https://ia800509.us.archive.org/BookReader/BookReaderImages.php?zip=/5/items/Hortus_Indicus_Malabaricus_Volume10/Hortus_Malabaricus_Volume_10_jp2.zip&file=Hortus_Malabaricus_Volume_10_jp2/Hortus_Malabaricus_Volume_10_0163.jp2&id=Hortus_Indicus_Malabaricus_Volume10&scale=4&rotate=0"
@@ -209,10 +208,10 @@ While Southerners in the United States incorporated “foods that spread from th
        fit="cover">
 <param ve-image 
        url="Eggplant/seedbox oaksprings.jpg"
-       label="Shaker's seedbox (1XXX)"
+       label="Shaker's seedbox"
        description="Shaker's genuine vegetable and flowers seeds from Mount Lebanon, Columbia County"
        attribution="Oak Spring Garden Foundation"
-       license="?????"
+       license="Public domain"
        fit="cover">
 
 Dozens of eggplant varieties and cultivars are grown today,[^43] as this genus hybridizes easily, with or without human help.[^44] Horticulturists, gardeners, and cooks get excited when discussing the various cultivars. The creamy flesh of the Japanese Pickling, for example, is described as tasting mellow and sweet. Cultivar names also reveal the fertile imagination of their growers: the Fairy Tale which has lovely violet skin with white stripes, the prolific Little Fingers which grows in clusters of 20 fruits or more, the Black Beauty which recalls Anna Sewell's famous horse, and the hybrid Ichiban meaning “best” in Japanese. The ornamental attributes of eggplants like the white and purple Italian Rosa Bianca or the tiny watermelon-like Thai eggplant are admired almost as much as for their flavor. And while the ubiquitous eggplant emoji is solid purple, the fruits can be white, red, yellow, green, reddish-purple, light purple, dark purple, black, striped, or marbled.
