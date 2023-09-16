@@ -246,8 +246,7 @@ Decades later, the formal properties of the fruit became a subject of photograph
        url="https://raw.githubusercontent.com/sheshekabob/plants/main/Eggplant/weston_eggplant.jpg"
        label="Edward Weston, Eggplant (1929)"
        description="Gelatin silver print"
-       attribution="Center for Creative Photography"
-       license="© Arizona Board of Regents"
+       attribution="© Center for Creative Photography, Arizona Board of Regents"
        fit="contain">
        
 ### New Varieties, Old issues: Bt Brinjal and Globalization
