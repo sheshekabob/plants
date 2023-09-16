@@ -231,6 +231,7 @@ As _S. melongena_ settled into Western culture, its aesthetic and exotic qualiti
        description="Eggplant shaped ceramic teapot"
        attribution="Karmason-Stacke Graham Library"
        license="© Majolica International Society"
+       region="48,-565,2953,2830"
        fit="cover">
 <param ve-image 
        url="https://morsemuseum.org/wp-content/uploads/2022/03/eggplant.jpg"
