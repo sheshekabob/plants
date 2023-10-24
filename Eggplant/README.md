@@ -109,8 +109,7 @@ Cultural clues mark the path of eggplant from China to the fields and kitchens o
        label="Utagawa Toyokuni, Memorial portrait of Konno of Eijudo Press at the age of 71 (1797-1798)"
        description="Woodblock print, shini-e, nishiki-e on paper"
        license="CC BY-SA 4.0"
-       attribution="© The Trustees of the British Museum"
-       fit="contain">
+       attribution="© The Trustees of the British Museum">
 
 Eggplant traveled light, leaving much of its cultural meaning behind and acquiring new significance among West Asians. Persia’s botanical repertoire incorporated eggplant or _bādenjān_ just before the Islamic Golden Age, which ran from the eighth to the thirteenth century, during which the Persian polymath <span eid="Q8011">Avicenna</span> documented its medicinal uses. Eggplant quickly became a luxury dish for the Islamic elite, as told by stories of a glorious, month-long feast for the wedding of a ninth-century Abbasid caliph, <span eid="Q61056">al-Maʾmun</span> of Baghdad, and his vizier’s daughter, Būrān. This culinary lore was passed down as derivative eggplant dishes like _baadhinjaan buran_ (“Būrān’s eggplant”), <span eid="Q893318">_borani_</span>, or [_buraniyyah_](https://archive.aramcoworld.com/issue/200604/cooking.with.the.caliphs.htm). In the eleventh century, Ibn Buṭlān of Baghdad featured eggplant in the medical treatise <span eid="Q608662">_Taqwim al-Sihhah_</span> (The Maintenance of Health)—later translated into Latin and illustrated by Italian artists, who portrayed the nightshade as a potent aphrodisiac. Networks of trade and conquest eventually brought eggplant to the Mediterranean. A tenth-century calendar from Córdoba mentions six eggplant varieties, including one specific to this Spanish region, which might have been a claim to a unique Cordoban culture made by the city’s <span eid="Q190418">rebel caliphate</span>.[^23]
 <param ve-image 
